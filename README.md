@@ -21,6 +21,9 @@ It will use the textbook pdf split each page.
 Get the list of videos for each video content.
 
 ## Workload
-It will be necessary for convert the textbook to a table where each row is a page
-It is necessary to get each video content to generate the list of vocabulary for each video
-. The result will be a table with (video 1) is also in page 1,3 4
+#### It will be necessary for convert the textbook to a table where each row is a page - 4hr
+#### It is necessary to get each video content to generate the list of vocabulary for each video -4hr
+#### Implement PLSA model for this proposal - 12hr
+
+## Final Result
+The result will be a table with (video 1) is also in page 1,3 4
