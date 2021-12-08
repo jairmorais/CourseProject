@@ -1,0 +1,327 @@
+The following content is provided under a Creative Commons license. Your support will help MIT OpenCourseWare continue to offer high-quality educational resources for free. To make a donation or view additional materials from hundreds of MIT courses, visit MIT OpenCourseWare at ocw.mit.edu.
+
+RICHARD SCHMALENSEE: OK, let's get underway. Yeah, this thing is on. Any burning questions from last time? Any debate points you really had to make, and didn't get made? OK. Today we're talking about path dependence. Sorry. You were raising your hand, or was that a wave?
+
+AUDIENCE: Yeah. I didn't say much yesterday, but on the note of labor and-- a lot of times I'm on the labor side of things yesterday, or at least a bit of it. And people were talking about how providing, let's say, workers' rights, union rights, et cetera, things like that, would impede the freedom of the working process.
+
+And I feel that almost every industrialized country nowadays has gone through this process of horrible workers' rights to a system more like we have now, let's say. China's going through what we did 100 years ago currently, with some of their whole stuff, with workers working way too long shifts, and there being not much safety on chemicals, et cetera, et cetera, et cetera.
+
+RICHARD SCHMALENSEE: You're just arguing that Sutherland was on the wrong side of history. Yes? And so what we've come to is where we should have come?
+
+AUDIENCE: Kind of--
+
+RICHARD SCHMALENSEE: Kind of-- OK. But you could understand how, circa 1935-- wasn't obvious which was the right side of history. It is now, of course.
+
+AUDIENCE: You could say hindsight's 2020, but if someone's working 10 hours a day in highly dangerous conditions, you might say that's not kosher then either.
+
+RICHARD SCHMALENSEE: The right side of the room would have replied, and maybe will reply, that-- take another job, if you don't like it. Become an investment banker. Come on.
+
+AUDIENCE: There are high impedances to doing [INAUDIBLE]
+
+RICHARD SCHMALENSEE: There are. There are. Good set of points-- didn't mean to put you down. One the problems with doing that case is we sort of know how it worked out after that. We know that Cardozo and the whole you got to allow more regulation of the market to make-- for a variety of reasons, triumphed. But I'm not enough of a determinist to think that was inevitable. It happened, and it happened lots of places.
+
+AUDIENCE: It took a long time for that to happen.
+
+RICHARD SCHMALENSEE: It did. It did. Anything else on last time? OK. What I want to do today is talk about path dependence. And let me just do a little visual. We always like to think that choices get made, you look at the alternatives, and the choices are the obvious rational choices. So we use the energy systems that make the most sense to use.
+
+And let me just anecdotally suggest that can't be right, just that statement that, at any point in time, we're obviously using the systems that are the, technically, or even economically, best. The reason is, if you look across rich countries, they make different choices with the same available technology, the same rough standards of living.
+
+So here's rush hour in Copenhagen. The city's designed for bicycling. Lots of people use bicycles. You got similar photos from Amsterdam. I've got friends who have moved to Amsterdam. They never drive. They bicycle every place. It's just a different system of urban design.
+
+We've got bicycles. We could have gone that direction. There's a Japanese high-speed train. They've had high-speed trains for a long time. We don't really have any. There are a bunch of them in Europe. We've decided not to. Oh, that's the thing we saw earlier. That's that diagram for France that's shorthand for, and they decided to use a lot of nuclear power-- more than anybody else decided to do. Everybody had those technologies. Certainly, everybody had bicycles and people can build trains.
+
+Different countries made different choices. And just to gild the lily, that's the Paris subway system. I have a sister who lives in Munich, who occasionally visits us and talks about our third-world subway system. And I point out, that's really an insult to places like Mexico City that have pretty decent subway systems. But Paris and London-- I couldn't find a great London picture-- have clearly made much greater investments in that energy using technology than we have.
+
+That's a trolley in Munich. There are a lot of them. They're fast. They're efficient. They're everywhere. That is a Swiss railway schedule. That's, how do you get from the Zurich airport to Davos, where the World Economic Forum is held? And I've actually done this. Those trains arrive on the minute. There is no, gee, I wonder when the train's coming. The train is due at 3:41. The train is there at 3:41, unless something terrible has happened.
+
+So that's lots of very convenient ways you can get from the Zurich airport to this little village in the mountains in a couple hours very reliably. There's equivalent operations elsewhere in Europe, but the Swiss really stand out in terms of having invested in a very efficient, very reliable system of rail transport from little towns to little towns.
+
+And that's a solar field in Germany, where the Germans-- again, same technology we have-- have decided to put a lot of money into solar power. So it can't be the case that, once you know the level of income and once the available technologies, the choices follow. The processes must be different from that, from just rational calculation.
+
+At the very least, that story's incomplete, right? Because what determines what are the technologies available? What determines where the innovation dollars go? What determines whether you spend money making automobiles more efficient or nuclear power plants more efficient? So at the very least, the set of technologies available isn't given from heaven, and the choices aren't necessarily done on a spreadsheet-- because if they were done on a spreadsheet, lots of countries would make very similar choices. And in fact, we see lots of rich countries making very different choices.
+
+We'll talk a lot about this, but people make choices. It's very standard to say the market makes choices. People make choices in their individual demands. People make choices in collective decision making in politics. Those choices reflect a lot of things, as we'll talk about, but countries have different cultures, countries have different histories, countries make different choices.
+
+Besides those examples-- it's really a fascinating historical exercise-- if you look at Chinese technology circa 1500 or 1600 AD, there are a number of areas-- including, in particular, ships, in which China is far ahead of the West-- China did not exploit those advantages, for a variety of reasons-- cultural reasons, primarily.
+
+If you think about the cultural decision in Denmark and in Holland to retain reliance on bicycles as a main urban transport, as opposed to, say, China where, years ago, you would go to a Chinese city-- you would see hordes of bicycles. Now you see hordes of cars not moving. But China switched. Denmark didn't. Holland didn't-- chose not to.
+
+So what I want to talk about is not that whole set of complexities affecting decisions, because it is interesting-- and we'll spend a lot of time on it as we go forward. I want to just talk about history and the influence of history-- three different versions of path dependence-- not all of them necessarily deserving the name, but all of them having to do with the way history matters.
+
+So the first one is many energy systems involved durable capital. In fact, durable capital's important. Now, just because I love to pull pictures, there's the railroad system. There are tracks laid down in the 1860s that are still in use.
+
+There's a really particularly ugly power plant. I think that one was built in the 1920s, but there is a power plant in Salem, Massachusetts that was first built in 1951, that is still operating. Half of it's shut down. Half of it's still operating. There are power lines. They last a long time.
+
+There's an oil refinery. They also last a pretty long time. There's the highway system. If it weren't for heavy trucks, I'm told, highways would be essentially eternal. Cars don't damage highways. Yeah?
+
+AUDIENCE: [INAUDIBLE] I'm from Chicago, and we did a lot of [INAUDIBLE]
+
+RICHARD SCHMALENSEE: That'll do it. Yeah. Time will do it.
+
+AUDIENCE: [INAUDIBLE] I went to California for the first time last year, and I was amazed at how their roads didn't have cracks in them.
+
+RICHARD SCHMALENSEE: Well, all you have to do is drive north from Illinois into Wisconsin. Wisconsin has decent roads.
+
+AUDIENCE: They do.
+
+RICHARD SCHMALENSEE: Part of this is money.
+
+AUDIENCE: Illinois is state-funded roads, but Wisconsin's federally funded roads.
+
+RICHARD SCHMALENSEE: Well, there's a mixture. Illinois is also, let us say, not the best-run state in the union, historically. For those of you who-- well, Rod Blagojevich is just the latest in a-- I'm from Illinois originally, so I sympathize, but oh my gosh-- what a history. Anyway, yes, roads get damaged by other-- things other than traffic.
+
+And among things that last a long time, that's Los Angeles, a snap of Los Angeles. When you lay out a city, that layout lasts a long time. And old buildings like that one, that was first built in 1916 and is still going strong, last a long time.
+
+Now, I want to be a little clearer here about how durability matters, because the natural thing to say is, yeah, but those are all sunk costs. What's it matter? You build a railroad-- that money's gone. You can walk away, do something else. Well, the fact is you're usually replacing something that's capital-intensive with something else that's capital-intensive. And that fact by itself makes it difficult to change.
+
+I want to walk through a little bit of discounting, some of which you have probably seen. But let me just walk through a little bit of analysis of a hypothetical plant. We're thinking of replacing a coal-fired power plant. It produces Q units of output per year. The variable cost is v. It costs F to build. It'll last T years. The interest rate's r.
+
+We're considering replacing it with a new plant. Let's say it's more efficient-- has variable cost v star, cost F star to build. It'll also last 2 years, just to keep things simple. When do you scrap the old plant, replace it with the new plant? Well, I'm going to do-- clears that up? I'm going to use continuous compounding, because I'm lazy. How many of you have seen this before, continuous compounding? OK, most of you haven't, so I will walk slowly.
+
+If you say we're going to invest $1 today and we're going to ask, what happens in-- what's it worth in T years, and the interest's r, then, if you compounded annually, that becomes 1 plus r to the T. If you compounded N times a year-- well, the interest rate is divided by N-- 1 plus r/N, now to the NT.
+
+So I'm compounding it more often. So if it's 12% a year, then $1 today is worth $1.12 in a year. If it's compounded monthly, then it's 1.01 to the 12, which is going to be pretty close, but not quite the same as-- if you take the limit, this becomes e to the rT. And the slide-- well, the slide gets you there, asking now, what's $1 in T years worth today?
+
+So if you put $1 here at time T, that would be e to the minus rT today. I use continuous compounding a lot, because keeping track of whether things happen at the beginning or end of periods is tiresome. And continuous compounding works pretty well compared to daily, monthly, weekly for interest rates at matter. OK, is the problem clear? Is this limiting exercise reasonably clear? Questions, reactions, stunned silence? OK. Yeah, David?
+
+AUDIENCE: We've already built the first plant?
+
+RICHARD SCHMALENSEE: We built the first plant. We have it.
+
+AUDIENCE: OK, so that's--
+
+RICHARD SCHMALENSEE: And you're going to tell me that F is irrelevant, and you're right. But comes now the second plant. So I want to ask-- I want to look at the capital cost per unit of output. You sometimes do this-- sometimes called levelized cost. But let me define it like this.
+
+Suppose the capital cost per unit of output is c star. What's that mean? Well, if that's the cost per unit of output, and I produce Q units per period, then, if I discount that capital cost, I ought to get the amount of the capital investment. So that's my definition of c star. There would be a c up here too, if I went through it, but that's-- as you say, that's sunk. That's sunk.
+
+But I'm interested now in-- because this isn't sunk. If I build my coal-fired-- my more efficient coal-fired power plant costs me F star, then that gives me-- what's the total cost per unit of output? I go out to the end of the plant's life. I look at output. I say, if that's the cost-- if c star is the cost per unit of output, then the discounted value of all those costs must equal the initial investment. That's this simple expression over there.
+
+Good so far? Comment, question? So people do this, for instance, if you think about how people calculate-- this is not the best calculation in the world, but if you ask, what's the cost of electricity from a solar plant, and you get a number in cents per kilowatt hour, this is how you do it, because the cost of solar power is almost exclusively an upfront fixed cost.
+
+And so you look at the life of the plant. You look at the output over that life. You ask, what cost per kilowatt hour discounts back to the original cost of the plant? And that gives you a cost per kilowatt hour from a solar power plant. OK? That's how you do it. You're very quiet. I don't think this is hard, but I'm not sure it's quite this easy. So are you all on board? Yeah?
+
+AUDIENCE: There's a lot of uncertainy in all those numbers, right? [INAUDIBLE]
+
+RICHARD SCHMALENSEE: In life, yes. In my story, no. This is economics, so we assume God-like powers. And I know these numbers. But in real life, of course, you'd want to react-- you'd want to deal with risk issues. But this is a straightforward replacement. So obviously, these are obvious properties, if you think about it for a minute.
+
+You basically solve this equation for c star, and you can see, as e to the minus rT vanishes, you get what you'd expect-- fixed cost divided by output made into a flow with the interest rate. Now, forget F. The decision to replace turns on this comparison-- turns on a comparison of the total cost of output from the new plant with the variable cost of output from the old plant. That's the point.
+
+The cost of the old plant sunk-- doesn't matter whether I got it as a gift or whether it was ridiculously expensive to build. It's gone. So what I care about is the cost of the old plant. If my plant is a coal-fired generating plant, an awful lot-- and I'm going to replace it with a new, cleaner, more efficient coal-fired generating plant, v star is going to be small relative to c star. v is going to be small relative to the original capital cost. That doesn't matter.
+
+Fuel is cheap for a coal-fired power plant. The plant's expensive. So to replace it, I got to say-- putting everything else to one side, I got to say, how does the running cost of this old inefficient dog compare with the total cost of this bright, shiny, new, high-tech, very expensive to build, cheap to operate plant? That gets you stuff lasting for a long time. Clear?
+
+If it's capital-intensive, you're comparing variable cost with total cost. And even if this is a much better plant, even if v star is much below v, and c star isn't bad-- first of all, it doesn't matter how it compares with the old capital cost. That's gone. What matters is, what is it-- how does total cost compare with the operating cost?
+
+So why exactly do we have vibrating PowerPoint? I don't know. If you think about other kinds of investments that might be made-- and we'll come to this when we talk about big systems-- institutions, know how, policies tend to come from upfront investments. They tend to last a long time. So if you think about switching technology, you will think about retraining a workforce, building a-- building technological knowledge, and so forth. Those are systems that are very long-lived, and are all up front.
+
+There's Salem Harbor right there, still-- it's coal-fired, and in fact, it actually burns a little oil. You don't see much oil, but it burns a little bit of oil and burns some gas. But it began as coal-fired-- 1951-- still going. Part of it shut down in December. Part of it shuts down in 2014. You remember that graph from early on, but the point I make is all these coal fired plants are cheap to run. They may be very inefficient, but they are cheap to run. So they last a long time. They have a high ratio of capital cost per unit to variable cost.
+
+One kind of side point-- if you follow environmental debates, you will hear that lots of coal plants, in fact, will be shut down for environmental reasons in the next few years, and you will hear numbers on the incredible costs of replacing those plants. The point is those plants eventually die. Even Salem Harbor eventually dies.
+
+The economic cost of replacement isn't the upfront cost. It's the discounted cost of replacing now versus replacing in x years, whatever x happens to be. So when you hear the entire Midwest is going to go broke because they're replacing power plants, they're replacing them earlier. So you got to know how much earlier.
+
+So I have to tell you one other aspect of history that matters here, and that's the Clean Air Act. Those of you with phenomenal memories will recall that, when we talked about the American coal, rather than Saudi oil discussion, we talked about the Clean Air Act. And I mentioned that the architecture has states responsible for meeting air quality standards and EPA responsible for setting standards for new electric generating plants.
+
+So EPA starts up in here, tightens standards in there, tightens them later on. But there are no standards for these plants, for all those plants built earlier. Complying with EPA standards is expensive-- depends on the plant, depends on the standard, but it adds to cost. So now you're replacing an old plant that may be filthy, dirty with a new plant that has to meet new source performance standards.
+
+You can see why the law did it-- why Congress did that, because it's cheaper normally to design a new plant to be clean than to clean up an old plant. We'll talk about reasons later on, but that sort of makes sense. But what it means is building a new plant is more expensive than maintaining an old-- even more expensive than maintaining an old plant.
+
+So one reason all these old dogs are still alive is because they would have to be replaced by plants that would be cleaner, more efficient, and more expensive. There is an interesting question that I won't bore you with-- is what can you do to an old plant by way of repowering, changing the equipment, and modernizing it before it becomes a new plant, for purposes of the law-- a question that has no answer, that I once spent four months of my life trying to write a rule on. OK, is this all clear-- semi-clear? Questions, comments? Yeah?
+
+AUDIENCE: I just wanted to ask you-- so given [INAUDIBLE] forgetting about any environmental standards that probably will add to that or whatever EPA rules you may have, wouldn't you expect the environemtal cost at some point to start increasing, just because--
+
+RICHARD SCHMALENSEE: Yeah.
+
+AUDIENCE: --your machines are so old that you can't even find replacements for what you have and stuff like that?
+
+RICHARD SCHMALENSEE: And that's when, putting environmental considerations aside-- and you would also expect the performance of new plants, in terms of both capital and variable cost, to get better. At some point, those curves cross, and you replace. Or I gave it a finite lifetime. At some point, the thing just can't be maintained, one way or another-- either, for some reason, it falls apart at your T, or the costs just keep rising and you say, this is an old dog.
+
+There are other issues. One reason Salem Harbor is still going is, for stability reasons, they need to have power injected into the system around there, and there's no obvious other way to do it. In fact, they're going to, I think, do some repowering and do some gas generation. But anyway, yeah, there comes a point-- I just had the cost constant. What happens in life is that variable cost rises. Yeah?
+
+AUDIENCE: How does the licensing work with this? Because I know at some power plants you have to be licensed to run, so couldn't you say they have a 60-year license, and you're pretty sure they're going to replace that anyway. [INAUDIBLE]
+
+RICHARD SCHMALENSEE: Nuclear plants in the US were originally given-- I think it was 40-year licenses. And they have the ability to apply for extensions. I don't believe any other power plants have licenses of that sort. The reason for the nuclear license is-- I think is that the federal government limits the liability of nuclear plant owners, and in exchange for that limit of liability, wants to make sure the plants are OK to go on.
+
+But they can apply for extensions for another 20 years. And at that point, they're done. And that's an engineering estimate at the start that we're pretty sure it'll go 40. We don't know if it can go longer. Let's take another look at it at 40. Coal-fired plants don't have this sort of buildup of radiation problem. Other plants don't, so I don't think they tend to have time-limited licenses. I think some private hydroelectric facilities had state limited licenses, but it can happen. Yeah.
+
+Anything else at all? OK. Let me talk about a second way. So here's the first way that history matters. History can matter just because of capital intensity. Your replacement technology's capital-intensive. You're comparing it with a technology that has low variable costs.
+
+A second way is a little more subtle, and it has to do with the political process. And that is, just as a matter of fact-- I don't know there's an elegant theory here, but as a matter of fact, political systems don't make big policy changes easily. They do, but they don't make them easily, because they can be very disruptive.
+
+So once you've gone down a particular policy path, it becomes-- the system tends to freeze. The US system in particular is prone to that, because if you think about-- it's more true now than it used to be-- you think about the need to have 60 votes in the Senate to get anything done at all, a big change is hard to get 60 votes for in the absence of a crisis. Little changes-- this and that-- sure. Fine tuning-- sure. But big structural changes the system just doesn't want to do.
+
+Think about the Clean Air Act. I've described a couple of issues with it. One is the way standards are set-- the one I just described, the new source performance standards. These problems have been known since the act was passed in 1970. They've been discussed. Remedies have been proposed. That architecture hasn't moved. Why? Because you've got a bureaucracy in place, you've got states relating to it, you've got a whole machinery going, and you have uncertainty as to how alternatives would work.
+
+So absent a crisis, that's not going to change. Agricultural price supports-- why do we still do this? Why does the European Union spend so much money supporting European farmers? Well, a policy's in place. Their interest's in place, their votes. It's a reinforcing system-- and because there's a fear of radical change.
+
+So every so often we debate our agricultural program, which benefits 1%, 2%, 3% of the population-- maybe as much as 5%, depending on how you do your arithmetic. And we spend a lot of money on it. Similarly, we subsidize oil drilling. We treat oil companies and oil exploration in a tax-- in a favorable way from the point of view of taxes.
+
+Why do we do that? Well, there are a whole set of reasons, but the fact is it's not only that we don't abolish it-- we also don't make it more generous. We all talk about more US oil drilling, but the tax system as it affects oil has been in place since, I think, the early '50s. Big policy changes just don't get made. We pass energy bills every few years, but that one doesn't get touched much.
+
+Oh yeah, and you will recall the pre-World War 1 London electricity system from last time-- crazy system-- crazy, crazy, crazy. It really took close to a crisis. It took World War 1 to cause them to say, look, we know local control is important. We know it's dangerous to fundamentally restructure the electricity system, but come on. And they did it. They, in fact, have done that twice.
+
+Actually, I think they did that in the '20s, but in any case, that was just the nutty system that persisted. It persisted. Big policy changes don't get made. We assigned the piece on health care reform to illustrate this-- the New Yorker piece, which I hope you read, because it was very readable, and interesting, and relevant to the current health care debate-- if not particularly to this course.
+
+I will refresh your recollection. He argues that everybody, when contemplating health care reform, has a tendency to take a blank piece of paper and write down some sort of ideal system. But if you look at health care, just like you look at energy, different countries made different choices. Yeah, everybody but the US among the rich countries has universal health care, but no two systems are the same. No two systems are the same.
+
+I thought the English example, the UK example was the most interesting. They moved to complete government-- government-run, government-owned, government-funded system in 1945 without an eye being batted. And the reason was they had to take over the health care system during World War 2. They had massive movements of people. They had massive casualties.
+
+The government took over a lot of things in this country, but it didn't take over the health care system. We didn't have that set of problems. It took over automobile companies, and steel companies, and aircraft companies, but it didn't take over health care. It did in the UK. So after the war, when they decided, gee, wouldn't it be good to have universal health care, well, they basically already had it. So they just needed to write it up and say, yeah, the government's been running the health care system since 1939. It's now 1945.
+
+I guess we'll just keep this system-- sounded like a huge policy change. They moved to the National Health Service, they moved to universal health care, but they already had it-- tiny policy change, because-- you going to make a huge change in 1945?
+
+France was defeated. They didn't have this kind of government-run system in 1945. They look back to the way they provided health care before World War 2. That was something they could use as a base and make changes from to make it universal, and that's what they did. They're a set of regional funds.
+
+The Swiss system is interesting. Switzerland had only private insurance. You go buy insurer. So when the Swiss decided they were going to have universal health care, what did they do? They said, OK, A, everybody has to buy insurance, and B, we'll subsidize insurance for poor people-- tiny change-- no big argument about, let's make a huge change, let's do a single payer system like the British, let's use regional funds like the French.
+
+No. Why would you do that? The system tends to move incrementally. The policy system moves incrementally, because big policy changes tend to have unforeseen consequences. And if you can get where you want to go without running that risk, policy systems do-- hence, history has consequences.
+
+The US case, you must-- well, maybe you don't know this. Why do most Americans get health care through their employers? They didn't in Switzerland. They certainly didn't in the UK-- French case only if you had a large employer. This was because, during World War 2, among other things, the government fixed wages. The economy was running quite hot. There was a lot of demand for labor, and they were afraid that, if we didn't control wages, we'd have inflation. We had inflation, but really rapid inflation-- so during World War 2, they controlled wages.
+
+So employers competed for workers by subsidizing health insurance, which was a way to get around wage controls. I don't know the political story about why that subsidy wasn't counted as income, but it wasn't counted as income for tax purposes. Therefore, we have employer-provided health insurance in this country, because of that accident of history.
+
+Therefore, when you do health care reform in Massachusetts, as in 2009-- and for that matter, in the federal system-- we built on employer-provided health care. Is that an obviously good thing to do? No. Most people think it's a mistake. Most economists think it's a mistake, that having that tax deduction distorts decisions. It makes it cheaper for employers to give you income in the form of health insurance and to give you income in other ways. That's distorting the compensation decision. But we have it. We've had it since the '40s.
+
+Changing it would be disruptive, so the system doesn't change it. So this is the second reason why history casts a long shadow. The nice illustrations for health care, but the point is the same. Once you set up a policy regime now, there are costs of change, so you will tend-- the system will tend, except in the case of crisis, when-- God knows-- but except in the case of crisis, the system will tend to use a prior regime as a point of departure.
+
+Health care reform in the US was controversial enough. Can you imagine what would have happened if the Obama administration or anybody else had said, OK, we're not going to get health insurance through your employer anymore-- we're going to move to the UK system, where the government owns all the hospitals, and hires all the doctors and nurses, and manages health care?
+
+We know it'll work. They do it in the UK. Could that have gotten four votes? Could a move to employer-provided health insurance have gotten three votes in parliament in the UK? No. It would have been disruptive in either case. So the system doesn't do it. So once you go down a road, it becomes hard to change the policy regime that supports it.
+
+Third way-- history matters. And this is the most interesting, in a way. Those were fun, but this is the-- what's his name-- Unruh article. He's a little bit hysterical, and I'll try to make some points about that-- and Mahoney, if you can possibly read sociological theory.
+
+The argument is that, in a lot of cases, what really makes path dependence is choices made that are somewhat arbitrary that then puts you on a path that involves positive interactions that keep you on the path. Health insurance isn't quite a great illustration of that. It's not bad.
+
+So you have this chance event in the US that puts you on a path of employer-provided health insurance, that then leads to a set of institutions being created around it, tax code created around it, benefits systems created around it. Even forgetting about the fact that you wouldn't want to risk the policy change in Washington, it would be difficult for the rest of the system to change.
+
+So Mahoney talks about not inevitable choices that then make later choices inevitable. A classic example of this kind of interaction is the keyboards I assume most of us use, the QWERTY keyboards. This design was originally chosen because, for mechanical typewriters, you wanted to keep keys that were frequently used together far apart, because otherwise, they jam as they came forward.
+
+Has anybody ever typed on a mechanical typewriter here? OK, a few-- all right, this is good for you. Yeah. So that was a perfectly good reason to do it. Some say it is inferior to other keyboard designs, but the fact is, even if it wasn't-- and the evidence, as I see it, on this is mixed. There's been a debate. Even if it wasn't, think about what happens.
+
+You begin to have people who learn to type this way. You begin to have typing teachers who learn to teach you how to type this way. When the computer came, when PCs came, people said, ah, this is the end of this design. People can get more efficient keyboards. We don't all have to use the same keyboard. You can buy a-- used to be able to buy a Dvorak keyboard for those who thought it was more efficient. You can teach yourself to type this more efficient way and plug it in.
+
+Well, as far as I know, almost nobody did that, because it apparently isn't more efficient. So we still use this old design, because once you've got the educational process, once you've got the standardization process, if there isn't a compelling reason to change, there are reasons not to change. You'd have to redo the instruction books, you'd have to reteach the teachers, et cetera, et cetera. So if you're going to teach people to type, it makes sense to do it one way, and this is a perfectly good way.
+
+An example I think is better is Swiss watch making. Why is watchmaking a Swiss thing? The historical story you get is Swiss farmers had craft ability, and in the wintertime in Switzerland, you don't get out much in the fields. So there was a market for stuff you could do in the house in the wintertime.
+
+And then, over time, you begin to get this-- you develop expertise in design. You develop expertise in construction. You start to build educational institutions to train a workforce. You start up a new watch company. You can draw on skilled labor.
+
+All of a sudden, you have computation for people. You have design computation. And the Swiss are tough to dislodge-- training, distribution channels, design expertise. But the key thing is the initial location was pretty arbitrary. Danish farmers are inside in the winter too. It's cold. Norwegian farmers are inside during the winter-- Swedish farmers-- it's cold a lot of places, and you don't get out. New Hampshire is cold in the winter.
+
+Why Switzerland? Well, no really good story for why Switzerland starts, but pretty good-- pretty easy to see why Switzerland persists. There all these economies, all these interactions that, once you're going down the road, give you an advantage. You say, OK, Danish farmers-- that's fabulous. They're inside during the winter. I'm going to do watchmaking in Denmark.
+
+Where are the skilled workers that I can get in Switzerland? Where the access to distribution channels? Where is the foot traffic of watch buyers in downtown Zurich? Where are the design people I can get in Switzerland? It's hard. Starting green field without all that expertise, and distribution, and everything is difficult.
+
+At day 1, it wouldn't have been hard-- hard for the Swiss. Would have been hard for the Danish. But Swiss did it, and once they'd done it, you get path dependence. They become hard to dislodge. So there are a lot of examples of this in energy, where institutions and physical systems-- institutions include things like training, and education, and policy, and all of these things-- interact.
+
+Unruh has a good set of examples, but I will say he's a little hysterical. Once the transformer was invented, it was over for DC. Once you could transmit alternating current at high voltage without losses-- with low losses over long distance, DC was not in the game. There are also a variety of other reasons. And the notion that electric cars were viable, rather than gasoline cars-- not so much.
+
+They used lead acid batteries and-- anyway, he's got good stories, but if you think about gasoline automobiles-- this is his picture, and he misses a little bit here. He talks about positive feedbacks among demand, the gasoline tax, and the road network. And that's true, but if you think about the automobile in the US, that's only part of the story.
+
+You build up manufacturing expertise in Detroit. Think 1900 and walk forward. You build up all the things that made Switzerland a good place to make watches made Detroit a good place to make automobiles. It could have been St. Louis. It could have been Chicago. It was Detroit. You began to get an accumulation of skilled workers. You got design. You got capital. You got a legal structure.
+
+So all of a sudden, you had Detroit being very good at making automobiles. It was a policy decision in a number of states, and then at the federal level that a road network would be a good thing to do. So you began to develop a set of interests there too. You have jobs here making cars. You've got jobs making roads. You've got companies that pave roads. You've got companies that build cars. You've got institutional structures.
+
+Then you have a dynamic that says, through the gasoline tax, we will-- the more we drive, the more gasoline tax we get, the more we put into building the road network, the better the road network, the better it is to drive. And within all of this-- notice acculturation and adaptive preferences-- we learn that we can't live without a car.
+
+People in the 19th century, it turned out, had perfectly nice, happy lives and never owned a car. So it is possible for human beings to live in cities, perfectly, happily without owning cars. But we don't believe it, unless you're from New York. Most Americans just can't imagine it. This is acculturation and adaptive preferences. We're with the things so long it becomes part of how we think the good life is defined, what we think you need.
+
+The institution over here, the government, is built-- you've got the Department of Motor Vehicles, for heaven's sakes, in every state with lots of jobs. You've got a lot of people invested in this system. The more you drive, the more you get tax collection, the more you build the road network, the more driving, the more you need more roads. The system feeds.
+
+You also have people invested in doing R&D. You have people invested in education and training. So there's a whole network of people who train auto repair people. Society of Automotive Engineers gets built. You have a lot of jobs in this system-- not necessarily easy to move, as Detroit has found. When things go bad for automobiles, there's a lot of political howling.
+
+You have the road network. It lasts a long time, just as a physical object. And it's there for cars. So once you've built it, you naturally want to use automobiles. The culture adapts. How do we think of ourselves? We think of ourselves as people who drive in convertibles with the top down on beautiful country roads.
+
+No, but if you watch enough commercials-- particularly if you watch sporting events-- you see so many car commercials that involve people driving happily down the road. This is how you live. You also have a policy regime that comes to support the whole system. It's an important part of the economy. It's an important part of the country. The political system, absent some good reason, is not going to suddenly turn against the people who build roads, the people who drive cars, and the people who build cars.
+
+And again, the gas tax-- you say, well, when new technologies come along, of course, companies will switch. Well, one of the things-- and we'll come back to this when we talk about corporate decision making-- companies tend to focus-- as this blurb says, tend to focus on getting better at what they're good at. So rather than taking dangerous leaps-- so you remember Palm and the PalmPilot? That didn't go so well. Blackberry hasn't quite adjusted. General Motors took a long time to turn around.
+
+There are lots of other examples of companies that were really good at something and stuck with it too long. So you tend not to get the companies that are big players in a system like this-- any system like this-- to be the ones that drive the change. And then finally-- I love this phrase-- I'm not sure I understand it, but I love it-- historically derived subjective modeling of the issues.
+
+The point he makes-- Unruh makes is that, when you're embedded long enough in any system that has an impact on your life, it colors how you think about the world-- just does, necessarily does. In the 19th century, horses mattered. People would think about the world in a different way than they do when cars matter.
+
+A system that's-- in which you are deeply embedded will affect how you think, typically in a way that says more of that would be good-- not always, but it will affect it. Economics textbooks tend to assume, for simplicity, that we are born with our preferences. It's probably not a great shock to you to know-- and probably you've known all along-- that's just wrong. That's just wrong.
+
+Nobody's born with a preference for video games. You learn video games. Nobody's born with a preference for automobiles. You learn about automobiles. Most of our preferences are learned. And the way we learn-- the automobile's a good example-- the way we learn depends on our environment, and if x is a big part of the environment-- trees, cars, horses, dogs-- it will affect your preferences. If you grew up with a dog in the house, you probably like dogs. If you didn't, you may be ambivalent-- not that you're born loving dogs are not loving dogs. The environment matters.
+
+So let me give you another example. There are a lot of examples. Electricity gives you an example. This is another one of his lovely pictures. You start doing electricity-- he says, well, you develop a regulatory system that makes investment in the electric power system profitable. When that's the case, you develop a supplier network that's selling equipment into that-- to be invested.
+
+As the grid network gets bigger, it becomes cheaper for you to use electricity. What's missing over here are the appliance makers that, once electricity's cheap, begin to produce refrigerators, and air conditioners, and all kinds of things that make electricity more valuable-- dot, dot, dot. You have equipment. You have education. You have lots of jobs tied up. You have lots of habits built around that system, and it becomes hard to change.
+
+Examples like this are pretty easy to multiply. If you think about air travel, the better the airports, the more attractive air travel is. The better the planes are, the more attractive air travel is. The greater the demand for air travel, the more you build airports, the more you invest in R&D in aircraft. We have a whole legislative structure around air travel. We have a lot of training and education around air travel. There's all of these investments that make the system more attractive, that make it grow, et cetera. That's positive interactions along the path.
+
+Now, this is not evil stuff. The fact that you build better airports, and you have better airplanes, and the system works better-- this is not bad, but this means, once you go down that path-- once you decide to do air, rather than high-speed rail-- the air path is self-reinforcing. It'd be a little awkward in this country, with our distances, but you could imagine [INAUDIBLE] having decided another path-- we're going to do high-speed rail.
+
+We get manufacturers of those trains. We've got people laying the road bed. We've got people building the stations. It becomes more attractive to travel by high-speed train. And somebody says, why would you use airplanes along the East Coast? Natural gas for heating-- you get the same kind of story. You drill wells. You build pipelines. You have laws. You have regulations.
+
+If you look at the US broadly, our paths tend to be more energy-intensive than the paths in other rich countries-- fact-- not good, not bad-- fact. But I will say there is a little problem with Unruh's tone. He calls this carbon lock-in. It's not carbon lock-in. It's path dependence.
+
+It wouldn't be easy to move away from bicycles in Amsterdam. The city's kind of built for them. The streets are laid out for them. There are lots of repair shops. They're available. Everybody knows how to use them. People can teach you how to ride a bike. All of those interactions are true for the bicycle system in Amsterdam. It would not be easy for them now. Where would you part, if you've been in that city?
+
+Not easy to move away-- Beijing was built for public transportation. If you visit Beijing, and if you're like me, the first thing you think of is, my God, there's no place to part. They have these huge apartment buildings close by each other-- very dense. If all those people had cars, where would you put them? Now, they are moving to the automobile path, with some pain. But once you go down that path, which is a low-carbon path-- becomes harder to move off.
+
+Similarly, London or Paris, cities that have subway networks, that carry a lot of people-- lot of people use the subway. It becomes politically important to make it work well. You begin to have a workforce invested in the subway, et cetera, et cetera. But you also have a housing stock that's dense.
+
+So if you say, well, we're not going to do mass transit anymore, you have a problem. Where are people going to park? The roads aren't designed to handle cars in quantity. You can't move off that path easily. That's a low-carbon path. Mass transit in Beijing is a low-carbon path. Bicycles in Amsterdam are a low-carbon path.
+
+So it's not just carbon lock-in. It's path dependence. It's, once you start going down a path-- in some systems, not every system you can think of-- but in some systems, parts of the system interact positively with other parts of the system, making it more and more attractive and harder and harder to leave. OK so far?
+
+So I hope I've convinced you that you can never change energy systems, because that's wrong. It has been done in lots-- lots of times. Clipper ships-- well, think about it. You had people making sales. You had designers. You had shipyards. And sailing technology you can trace over the years. Sailing technology got better and better and better, and carried more and more commerce faster and faster. So this was a path. The whole world was on that path.
+
+That's gas light. That's one of the last gas lights in London being lit. Streets used to be lit with gas. Homes were too, but particularly public areas were illuminated at night with gas lights. That's a path. You have people who learn how to learn the technology. You've invested in training. You've invested in the infrastructure to get the gas there-- whole thing works. People like light at night.
+
+That is a coal-powered locomotive drawing a passenger train. 19th century-- locomotives got better and better. Railroads employed a lot of people-- lot of fixed capital there. Passenger trains went from city to city. I believe the locomotive speed record in the US was set in 1910. At any rate, you had a whole system built up-- coal-fired. Coal-fired passenger trains-- very important intercity system.
+
+And here's everybody's favorite. This is Los Angeles in 1909. Southern California had an extraordinarily extensive set of streetcars. You could go anywhere. If you've seen the movie Roger Rabbit, where the character says, who needs a car in Los Angeles-- you ride these-- again, all the system effects I talked about are there. You've got the owners of the system. You've got a large labor force. It requires technology.
+
+There's also a nice network effect. The more of these you build, the more attractive the whole system becomes. So one route-- not so great. Two routes-- better. Three routes-- even better, because you can go lots of different places. There are system effects. All of those systems went away. All of those systems, with all of the same things I was just talking about, went away.
+
+AUDIENCE: [INAUDIBLE] Do you happen to know how come it happened that LA really abandoned the whole care thing? Was it something specific or [INAUDIBLE]
+
+RICHARD SCHMALENSEE: I will tell you the story. The story has a couple of dimensions. Sometimes it's just something better comes along. Steam turned out, after a lot of R&D, to be better than sail. The first steam ships were lousy. There's a lovely museum in Munich that actually lays this out nicely.
+
+The first steam ships could basically carry enough coal to make it across the Atlantic without much cargo. They were very inefficient. And efficiency really matters-- how efficient that engine is, because it depends-- it determines how much fuel you have to carry. And if you have to carry a lot of fuel to go someplace, it's a lousy venture, even though it gets there much faster and more reliably.
+
+So it took a lot of R&D. Gas to electric lights-- that was a little quicker. The arc light turned out to be pretty good, and pretty early. Coal to diesel locomotives-- well, that took a while. The first diesel locomotives appeared in the '20s, and you really didn't have diesel phased out for long haul until the late '40s, '50s. You had some diesel. It took a while, but it happened. It happened.
+
+So sometimes it took changes in policy. To really wipe out the railroads, you needed the interstate highway system. To get nuclear power, you needed federal policy to limit the liability of nuclear plant owners. You needed environmental policy to really hit coal generation. What happened in Los Angeles-- there are two stories. The Los Angeles streetcar network was largely built by real estate developers, because it was a way of making outlying properties more valuable.
+
+So the argument I've heard is that Southern California got sprawl before it got automobiles, because the idea was, we can build streetcars out to there, so they can go from there downtown. That makes that land valuable. And the argument was that's how they built it. They overbuilt it, because this was a land speculation game. So they overbuilt it.
+
+And then you had companies that wanted to sell buses. GM wanted to sell buses, so GM lobbied to shut it down. GM bought pieces of it. Buses have advantages. So eventually, the trolleys got replaced by buses, which got replaced by cars. Again, you had ownership. You had a system. You had interactions of various kinds. The electric companies, of course, loved trolleys, because they're low during the daytime.
+
+One of the problems early electric companies had was all the demand was at night, so you used your assets only when it was dark. Trolleys were great. You could keep the whole system running all day long. So they loved them. The people who worked on them loved them. The owners loved them. They got beat out in part because the systems were overbuilt, in part because buses had certain operational advantages, in part for political reasons.
+
+It wasn't just Los Angeles. You could travel across a large part of the country on trolleys, and they went away everywhere-- mostly went away. Old-- "old." energy systems can be displaced-- sometimes R&D, something better comes along. Sometimes changes in policy. Sometimes both. One of the problems that, again, we will look at in a number of settings as we go forward is the so-called chicken egg problem.
+
+So suppose you wanted to say, gee, natural gas is a better transportation fuel than oil-- right now it's a lot cheaper, and we have a lot of it here-- well, I'm not going to buy a natural gas car unless I can fill it, unless there are places I can refuel. And I'm not going to have a natural gas filling station unless there are cars. That's a chicken egg problem.
+
+You need them both, and nobody's going to invest in one side unless there's some assurance that you're going to get investment in the other side. You don't build fancy airplanes for passenger travel unless there are airports, but why would you invest in an airport unless people are going to use it to travel on fancy planes? So most of these systems had chicken egg problems. Automobiles are pretty useless without good roads, but why would you build good roads unless there's going to be a lot of traffic?
+
+So most new systems faced this problem. Oh, yeah, you-- why did Edison invent the electric light? Well, Edison invented the electric light because, without a reliable electric light, what was the point of generating electricity? There'd be no market for it. So without a light, there's no market for electricity in the 1880s. So he needed to do both. If he was going to do something, he had to do the system. He had to have the generator and the bulb-- useless without each other, without the other.
+
+So a lot of these new systems face chicken egg problems, but one of the things we're going to talk about on and off is replacing energy systems, and how that might happen. You see some obstacles. This last slide is intended to point out to you that they are not forever. Energy systems will change. Coal-fired power plants will not be a major part of this country's energy system in 2100. You can probably bet good money on that-- nothing like the ones we have. But getting there will take a little work. And who knows-- maybe gasoline-powered automobiles won't either. OK, questions, comments, reactions, thoughts? You're on today. Yes?
+
+AUDIENCE: [INAUDIBLE]
+
+RICHARD SCHMALENSEE: You can't get an A just from participation. I just want you to know that. OK. It's all good, but-- OK.
+
+AUDIENCE: [INAUDIBLE] question regarding developing countries.
+
+RICHARD SCHMALENSEE: Yeah?
+
+AUDIENCE: One thing I was thinking while you were speaking is, at some point, you need to--
+
+RICHARD SCHMALENSEE: They need to make choices and get on paths.
+
+AUDIENCE: Yeah, exactly. Because if you want, you can perpetuate everything back to cavemen and everything [INAUDIBLE] some sort of [INAUDIBLE] so it's quite hard to-- so I was just thinking it's for [INAUDIBLE] developing countries, One is when they make a choice-- having spoken about everything today, it's that very often I feel that there's this narrow-minded-- after what we spoke about the cost-benefit analysis [INAUDIBLE] in the sense that you might say, OK, a natural gas power plant is more expensive than a coal one, so let's go ahead and build a coal power plant [INAUDIBLE] build coal power plants.
+
+But you go down a path which you may not-- that you should definitely take into account-- you might build some sort of expertise in something and everything that we talk about. So that's one thing, and I'm not sure if it's done at all in developing countries. And the other thing is, in theory, given that you're-- if you think [INAUDIBLE] a blank check have no [INAUDIBLE] dependance, wouldn't it makes sense to see that whatever choice is made by these sort of countries is the most optimal, given what they've seen with other countries? So if I'm a country that has nothing-- I have no universal health care, so-- and I see all these models, I say, which one's the best, of course for my conditions, but wouldn't that--
+
+RICHARD SCHMALENSEE: Yeah. You're making two points. Let me just respond briefly, and then I'll let everybody go. Sometimes you do have a clean slate. Sometimes you do have a clean slate. I remember a visit to Kyoto-- no, Nagoya. I was actually in the government, and I was being walked around by a local official.
+
+And I was commenting on how attractive the broad boulevards and squares they had were. And he looked at me and he said, well, there was nothing here, so we could design a city. You don't feel good when you've just walked into one of those. But sometimes that's true.
+
+The Cambodians, for instance-- you got imported oil to generate your electricity. You're burning wood. You have a relatively clean slate, and you can decide what to do, but the other side of the coin is you have a lot of really poor people. China's not building coal-fired power plants because they're not thinking about tomorrow at all. They're balancing tomorrow against today.
+
+They have hundreds of millions of wretchedly poor people still. Do I want to make my grandchildren better off, or do-- their grandchildren better off, or do I want to make them better off now? That's not an easy choice. And a responsible government will wrestle with it, but you don't always-- the answer isn't always to put yourself on the path that looks best in a century. They're trying to do the right thing, I believe, but figuring out what the right thing is is not trivial. Anybody else? OK.

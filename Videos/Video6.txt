@@ -1,0 +1,431 @@
+SPEAKER: The following content is provided under a Creative Commons license. Your support will help MIT OpenCourseWare continue to offer high-quality educational resources for free. To make a donation or view additional materials from hundreds of MIT courses, visit MIT OpenCourseWare at ocw.mit.edu.
+
+RICHARD SCHMALENSEE: OK, any burning issues from last time or earlier, before I begin? OK, we're going to do a little primer on climate science and a very little primer on the science and a primer on the policy. This could easily take more than a semester. But we'll do it in an hour and a half.
+
+So what I'm going to mostly do is do what economists often do, which is to say, well, let's suppose we have a tsar. Let's suppose we have a tsar, who can set policy. What would the tsar do about climate? Let's assume it's a modern tsar, not a denyist tsar.
+
+I'm going to argue and try to indicate to you why, even for a tsar, this would be a hard problem. This is the hardest public policy problem I've ever come near. So today, we have a tsar. Wednesday and Friday, we don't.
+
+It's like the real world. And we will go through a negotiation in which you will be, as you know, on teams. We'll talk a little bit about that at the end because we're going to have to do some adjustments. You all want to be rich countries. You can't all be rich countries. Some of you have to be poor. It's like life.
+
+All right, so let me do a very little bit of background on the science and then talk about why it's a hard policy problem. You've probably seen this graph. This is from NASA. Global temperatures are rising.
+
+If you look at the last few years, it looks like a slowdown. This has been much debated. The latest evidence suggests this is because of La Nina conditions in the Pacific, which tend to lower the temperature. And solar radiation is at a minimum in its cycle. Those who follow these things closely expect, when we go to El Nino conditions in the Pacific, that we will break previous records. Nine of the 10 warmest years on record have been in this century.
+
+So if you smooth, and you see there's a lot of variability year to year, if you smooth, the trend is reasonably clear. That's data. This is inference. There's strong evidence, backed by theory, that human activity has a lot to do with this.
+
+This is a global greenhouse emissions by gas in 2004. You'll see, on the right, CO2 from fossil fuel use is a big contributor, not the only contributor. I think CO2 other is probably cement manufacture. This is land use, deforestation, biomass, agriculture, and so forth. Methane, nitrous oxide, which is a nasty, long-lived gas, largely comes from agriculture. Methane comes, of course, from a variety of sources. And then there are a bunch of long-lived, very potent, but very small, very low-concentration gases.
+
+This is by sector. And again, you can see an awful lot of this is human activity obviously, but generating electricity, manufacturing, transportation. And again, you get land use and forestry. So it's a range. This is later data, but it doesn't show it by gas. There are a wide variety of activities involved that emit heat-trapping gases.
+
+And again, there's evidence, there's theory that suggests that this is really a driver. The changes in solar radiation, the El Nino, La Nina is not big enough. Yeah?
+
+AUDIENCE: [INAUDIBLE] put the carbon content [INAUDIBLE]
+
+RICHARD SCHMALENSEE: Largely. You also lose soil carbon. If you cultivate and till the soil, you'll lose. You'll have an effect. You'll reduce what's stored in the soil. So it's mostly deforestation. But it can also be just agricultural practices. OK.
+
+But deforestation is crucial. We're going to talk mostly about CO2 from fossil fuels because that's where the policy action is and also deforestation. Mostly because you can measure fossil fuel use relatively easily.
+
+Figuring out how agriculture generates nitrous oxide is harder, much harder to measure. But fuel use is relatively easy. Deforestation is relatively easy to measure. So you can actually imagine agreements that might be enforceable. So that's where the policy action is.
+
+We also know-- whoops. Back. We also know that there have been some clear impacts of climate change. This is everybody's seen this. This is the change in sea ice since September of '79 to September of 2007. And obviously, that continues.
+
+This is a projection. And it can only be a projection, for reasons I want to talk about, of days over 100 degrees. And you see, gee, there, it gets hot in the desert. But the problem with this is mainly human health. People who are fragile in a variety of ways or who aren't air conditioned don't deal well with large numbers of days over 100 degrees. It happened in Europe a couple of years ago. There were a number of-- more than a number, a fair number of deaths.
+
+So these are obvious impacts. If it gets warmer, you have more hot days. If it gets warmer, the sea ice melts. But that's a small part of the story is warming.
+
+So why is this hard? Why is this a hard policy problem? Step reason one is the time scales. And the time scales, CO2 doesn't come out of the atmosphere by simple exponential decay. The process is complicated. But if you think about a half life, you want to think about around a century, if you can think of it in half life terms.
+
+Not only does the stuff stay up there a long time, but it takes a long time for its effects. For the Earth to be in equilibrium, depending on how much heat is coming in and being trapped, you got to warm the deep ocean. The deep ocean is deep. Heat diffuses slowly. So it takes a while to warm.
+
+So we're not in equilibrium now. And the question of how far out of equilibrium we are is kind of a serious one. So even if you cut emissions sharply now, warming would continue for decades. Given that we're not going to cut emissions sharply, we're dealing with centuries.
+
+And in this literature, people run out to 2100 and typically out beyond 2100 in thinking about a variety of things. Most human problems don't have time scales like that. It means that actions taken today will affect your grandchildren. That's not true in most areas of policy. You can do tax policy lots between now and the time your grandchildren vote. But CO2, it's still going to be there. The CO2 emitted today will still be there in large quantity when your grandchildren are walking around blaming you for it.
+
+So if we have a climate tsar, he has to think about how to treat people not yet born because actions today will affect people not yet born. I mean this is a typical example. This is somebody's story of what gets flooded in Florida if you get about a meter sea level rise. A meter sea level rise is sort of order of magnitude what might happen in a century. What's it worth today to prevent that in 2112?
+
+For reference, my mother lives there, more or less. So she's OK. On the other hand, she's 90 years old. This doesn't apply to her. But it will apply, potentially, to great-great-grandchildren. So timescales of a century or more are hard because you know you want a discount.
+
+But how do you do that? This is a live controversy. I'm not going to give you an answer. Economists have nasty arguments about this. There are three ways you might want to think about it.
+
+The obvious way to think about, what am I going to do about a century from now, is to just think about the private sector. Well, I could put it in a bank, or I could invest it in a business, or I could invest it in dealing with climate change. I make that choice.
+
+So I ought to be using the same kind of discounting in both decisions, right? Because I don't want to have an imbalance. You missed the science. You could have fixed it. This is Professor Solomon who has forgotten more about climate science than I could ever aspire to learn.
+
+At any rate, we're talking about policy. And we're talking about discounting and why this is hard. So one school of thought says, you've got to use a private sector discount rate.
+
+And one reason this school of thought achieved prominence was the Army Corps of Engineers, when deciding whether or not to build dams, always used a very low discount rate. Dams last a long time. So if you use a very low discount rate, dams look pretty promising economically.
+
+And it was a huge slog in the '50s and '60s to get the Corps of Engineers to use a private sector rate, to say, you can build this kind of plant, or you can build a dam. You ought to use the same discount rate in both cases. You ought to use the private sector rate to think about whether or not you build dams.
+
+There's a second school of thought that says, wait a minute. This isn't really a private sector decision. If you think about optimal growth theory, optimal growth theory usually says-- let me not do more than wave my hands at that-- usually says there are two reasons you discount the future.
+
+Forget the private sector for the moment. If you're doing everything optimally in the economy, there are two reasons you discount the future. One, there might be a pure rate of time preference, whatever that might mean. And you value benefits in the future less than benefits today because people in the future will be richer. And, therefore-- being just a little bit quick with the hands-- income on the margin's worth less.
+
+If I were in the future and I were richer, then $1 worth of benefit would be worth less to me then than it is now. I'll take that into account. I'll discount that second term because people will be wealthier says, you make a judgment. There are formulas. I won't trouble you. There are formulas that say, here's how you deal with that. And then you say, well, I have a preference. We all have preference for today over tomorrow. That's a pure rate of time preference.
+
+The third approach that's coming into the literature recently says, why do you have a pure rate of time preference? What does that mean? That discriminates between generations.
+
+The pure rate of time preference says, even if my grandchildren are no richer than I am, I'm going to value $1 to them less than $1 to me. That doesn't make moral sense. So I would use a zero rate of pure time preference and then make a judgment, if I want to, about how much richer they will be and how much that ought to matter when I think about benefits.
+
+Now, I present this not-- those are very different positions. And they have very different implications for how you think about the future. And I have to tell you, depending on the day of the week and the weather, I myself vacillate. But let me just give you the implications.
+
+Let's take rates to illustrate these. 7% and 3% are used in federal government decision making. The 7%, you might think of as like a private sector rate. The 3% gets down to that second category, the pure rate of time preference plus an adjustment. And 1% was used in an influential report on climate change that takes the third position, no pure rate of time preference, no discrimination between generations.
+
+So let's apply that to $1 million in 100 years. All right, if I use 1%, that $1 million in 100 years is worth $368,000. So I'd spend a fair amount. I wouldn't spend $1 million today. But I'd spend a fair amount to avoid a 1 million dollar's worth of damages.
+
+3%, woo. I wouldn't spend very much at all to avoid 1 million dollar's worth of damages. And at 7%, we get what a guy who used to work for me called the magic ray gun. You let me discount anything at 7% in the future, it goes away. It's a disappearing function. I would spend $9,000 today to avoid 1 million dollar's worth of damages in 100 years if I use that discount rate.
+
+It matters a lot. It matters a lot. And there's no easy way to decide, I think, to decide among these views. If you scratch most economists, they come down here at 3%. But if you ask them, well, wait a minute. Aren't you crowding out private investments? They say, oh, well, maybe. Maybe not.
+
+And if you ask them, well, why are you discriminating against future generations with this pure rate of time preference? Where does that come from? Most people go, well, yeah, that's a point. So you can make arguments for all three of these. And they have very different implications. The tsar will have to choose.
+
+See the issue? I hope. If you're talking about five years, 10 years, it doesn't matter that much. If you're talking about 100 years, which we are here, it does, or more. OK, that's hard. And it's hard for the tsar. It's not just hard politically.
+
+So that's one reason why it's hard. The tsar is willing to make sacrifices today for generations not yet born or even thought of. Many other people, who aren't as farsighted as the tsar, may have trouble doing that or voting to do that. That's a tough trade off, right?
+
+We could reduce emissions today sharply, and it wouldn't make much difference to us, might not make much difference to us, might make some difference to our children, might make a lot of difference to their children. You can't even imagine having grandchildren at this point, right? All right? I hope. But you will. And so will they. OK, that's one reason why it's hard because it's hard to think in terms of a century when you're making decisions today or more.
+
+A second reason why this is hard even for the tsar is uncertainty. And one of the things Professor Solomon and I have learned is you can't say uncertain in public discourse. Because uncertain to the public means, my god, I don't have a clue. What uncertain means in this context is, I may not know the probability distribution. But there is a probability distribution. It's not oh my. And it's not infinitely spread out.
+
+If you think about elements of uncertainty, what will the atmosphere look like in 100 years if we don't do anything? Well, you know, that depends on population. Does China collapse? Does China not collapse? It depends on future economic growth.
+
+It depends on the mix of activity. What happens to manufacturing versus services? It depends on new technologies. Somebody comes up with cheap storage. The world moves to solar power. It's a very different world than if that doesn't happen. Those are all big uncertainties. So we don't really know what emissions will look like.
+
+There are uncertainties about the climate system, serious uncertainties about the climate system, not that we don't know anything. But as I mentioned, there's this issue of, how fast will the deep ocean warm? There are issues of irreversibility and tipping points, potentially. Did you want to talk about that and say a word about some of these uncertainties? Can I provoke you into a comment?
+
+SUSAN SOLOMON: Possibly. I guess I'm not quite sure where you want to go with it.
+
+RICHARD SCHMALENSEE: Oh, I just want some illustrative detail or some examples of things that might be a concern or that might be nonlinearities or that might be like falling off a table.
+
+SUSAN SOLOMON: OK.
+
+RICHARD SCHMALENSEE: You want to take a second? Just take a second. I hate to waste the resource.
+
+SUSAN SOLOMON: I'll do my best. This issue of tipping points, in my mind, is actually a lot more difficult than the issue of irreversibility. The irreversibility problem, we can talk about a little bit more clearly.
+
+For example, if it were to be the case that Arctic sea ice were to disappear, you might imagine that that would be an irreversible process. But I think we're finding, more and more, that it actually isn't. Even though we had very low Arctic sea ice in 2007, because we have such cold winters, we have the ability to reform the sea ice because it's thin. Even when you have multiyear ice, it's still relatively thin. It's only a few years that matters.
+
+But when we, for example, do something that causes a big dent in the Greenland ice sheet, now that truly is something that you could think about as irreversible. It's going to take a very, very long time. So on human timescales, it's essentially irreversible if you lose a big piece of the Greenland ice sheet.
+
+Is there a tipping point beyond which the Greenland ice sheet might kind of suddenly fall apart is something that's been raised. Much more of a controversial issue. It's conceivable. But most scientists who study the ice would argue that it's more likely to be a slow process. But it's possible.
+
+And one of the things that could be a tipping point for the Arctic, that people have also talked about, of course, is methane release from things like undersea deposits of methane that are actually tied up in formations called clathrates and also in permafrost, which you're probably more familiar with. So there are ways to trigger things that, in the tipping point framework, usually involve ice.
+
+And you can sort of see why that would be. It's either ice, or it's not. There is slow transition from one to another. It's a real change of state. So that's some ideas.
+
+RICHARD SCHMALENSEE: OK. Thank you. Thank you. So that's hard. The tsar has to think about those possibilities, which we know something. But we don't know. We can't tell when that might occur, if those things might occur.
+
+Even climate models, complex simulation models of the climate system-- and there are a number of them-- disagree on what happens regionally. Will it be wetter or drier? Well, that matters a lot. It matters a lot whether it'll be wetter or drier in particular areas.
+
+Well, let me just say that. Also, we don't have good predictions for the impacts on hurricanes, more, more intense, none of the above. More water goes into the air because it's warmer. It comes down. How does it come down? Where does it come down? Very uncertain implications for regional impacts.
+
+Regional impacts will take us into new ground, particularly for ecosystems. We don't quite know how ecosystems will respond because we haven't done it. It's not an easy experiment. So damages, effects like rainfall are uncertain. The implications of those effects are also uncertain.
+
+And finally, there's little experience in sort of, how do human civilizations react to large-scale environmental changes of various kinds? I've been seeing, on Google News, reference to small changes in rainfall being the likely culprit in the downfall of the Mayans, maybe 20%, 30% reductions, not huge droughts. Sensitive enough. Are poor countries in the tropics that sensitive? Probably not. How sensitive?
+
+All right, finally, the cost of emissions reductions are also uncertain. So the tsar is going to have to deal with this. And the tsar is going to have to deal with the fact that we will be learning as we go.
+
+So this is I now go to my favorite picture from the-- so you can't do cost benefit analysis because you don't know the cost. And you don't know the benefits. So the tsar can't just do the arithmetic because he doesn't know the cost or the benefits, even if he could do the discounting.
+
+A problem like this needs adaptive or iterative risk management. And you can read that in the report of the Committee on America's Climate Choices, on which Professor Solomon and I both served. If you think about steering a ship in iceberg-infested waters at night before radar, to avoid the Titanic, the elements of what a sensible skipper does are the elements of what the tsar would do to deal with climate.
+
+You slow down. Good plan. So you reduce emissions. You don't quite know what the consequences are of having more emissions or of going faster. But you know they're probably not good on balance. So you slow down.
+
+You prepare for something to happen. You prepare to adapt. You learn. You station lookouts. You study the system. You see what's going on.
+
+You develop options, new technologies, geoengineering, which I'll talk about briefly. And you try to figure out a system that enables learning to affect decisions. So you want to hear the lookouts when they see something.
+
+So that's the sort of thing the tsar is going to have to do because we don't know probabilities. We don't know, really, models and studies of what's going to happen to the Greenland ice sheet. But we don't know for sure. We don't know for sure. And we don't know for sure whether it's going to get wetter or drier in Ethiopia.
+
+So just a word about adaptation, the tsar will have to have to do some of this. But as I said, the small scale-- and we will adapt. That first line is one of my favorite statements about adaptation, which is, the default mode of adaptation is suffering. So we'll adapt. But the question is, will we actually do any changes? Will we do any proactive adaptation?
+
+As I said, problem one is that the climate models differ. And I will give you an example. A colleague was called in by the government of Ethiopia some years ago. And they said, all right, we believe there's going to be climate change. What do we do?
+
+Half the climate models say it's going to get drier. And half the climate models say it's going to get wetter. How exactly do we prepare for this uncertain future?
+
+Their answer was pave the roads. Because if it's drier, OK, you have paved roads. If it's wetter, a problem that Ethiopia traditionally has is that unpaved roads wash out when there's heavy rainfall. And the whole process of getting food to market breaks down. So if it gets wetter, you will really need paved roads. And if it doesn't get wetter, paved roads are not a bad thing to have. There are going to be a lot of decisions like that, a lot of people looking for robust policies.
+
+The second problem, of course, is the tsar can't possibly make all these decisions. They're going to be made at state and local levels. A number of cities and states have now, already in the US and certainly foreign countries, have now processes in place to think about this, to try to think about things as Ethiopia did. What can we do that's robust?
+
+If we're going to have sea level rise, how do we cope with that? What do we need to do about hurricanes? How do we change various policies? An awful lot of that is local. Awful lot of that has to be local. An awful lot of that's going to be in poor countries.
+
+So adaptation will happen. The tsar will try to do something about that. But that, one hopes, is not enough. No one doubts that will be enough to really get us smoothly.
+
+New technologies, you guys are going to develop new technologies. That's going to be terrific. What's the tsar going to do about that? Well, we'll come back to some of these issues.
+
+But governments have a terrible record of pushing the development of civilian technologies. Military technologies, space technologies, where cost doesn't matter, fine. Basic research, fine. Getting stuff to market at a reasonable price, bad record.
+
+So you can't adapt. And you can't solve it with technology. You got to reduce emissions. Why is reducing emissions hard? Oh, well, let me first fossil fuels. Another thing you might think about doing, and you've probably read about, is geoengineering.
+
+The simplest way to think about that is artificial volcanoes. You might put sulfate. When Mount Pinatubo blew up, as I understand it, there was a discernible cooling. Small particles, aerosols in the stratosphere reflect sunlight. So why don't we just either burn more coal or take the 16-inch guns from battleships that aren't in use anymore, turn them up, and fire aerosols into the stratosphere-- this is a serious proposal-- to reflect sunlight?
+
+Well, you might want to have that in your back pocket for emergencies. But, first of all, if you have more CO2 in the atmosphere, the ocean becomes more acidic. And creatures die. Doesn't solve that problem. And second, if you don't reduce emissions, you've got to keep doing more and more of that. And that does not sound like a long-term way forward.
+
+So CO2 is where the policy focus is because, as we saw from those earlier graphs, it's quite important. It lasts a long time. We can measure fossil fuel use pretty easily. Think about countries that import all their oil.
+
+You can measure imports pretty easily at the ports where they happen. You may be wrong, plus or minus inventory accumulation. But it's not easy to carry and not cheap to carry inventories of crude oil and refined product. So in terms of internationally enforceable agreements, fossil fuel is pretty easy compared to anything else you want to think about.
+
+Another reason you focus on it is we talked about last week. Not only does it involve durable assets that can last a long time, that are expensive, and, thus, expensive to replace early, but there are all these other path dependencies that keep you down a path. So that if you want to-- so the energy system is a slow ship to turn. And if you need to turn it because its impact last 100 years and if you can turn it because you can monitor and enforce, that's a logical place to focus.
+
+Why is that problem hard? Why is it hard to change emissions? Well, we talked about that. This is some color-coded, not very well color-coded emissions trajectories on the left matched with atmospheric CO2 concentrations on the right and matched down here, except for the really aggressive reduction scenario, matched with temperature increases.
+
+So the world runs on fossil fuels to a first approximation. You saw all those Lawrence Livermore graphs of sources of energy. Most of it's fossil. The world runs on fossil fuels.
+
+Big emission cuts are needed if you're going to reduce temperature. Take the you might think of the orange kind of as an estimate of business as usual maybe, somebody's estimate. The blue then is a pretty aggressive cut.
+
+But look what and the blue relative to the orange, at the end of the century, has a pretty big impact on atmospheric concentrations. But the temperature still goes up. The temperature still goes up substantially. That's a two-degree or is that a three-degree increase in temperature? Three degrees Fahrenheit increase in temperature. The orange, much bigger.
+
+But that's a big change, right, if you're going from here to here? China's not getting rich burning coal on the blue path. We're not increasing our energy at all probably. Europe is cutting back even farther to get to that blue path. That's a big deal. So if it's the easiest thing to do and it's an important thing to do, it's a big deal.
+
+So that's one reason why it's hard is we live on fossil fuels. So if you're going to cut the use of fossil fuels, emissions from fossil fuels-- it's emissions from fossil fuels-- you could do some fuel switching. You can do some efficiency. You can do some this, that, and the other. But you will have to do a lot. New technologies will be essential. But they may or may not appear in time.
+
+OK, so that's a big deal. So we all go to bicycles. That's great. We can do that. We can emulate the Dutch. And we can all bicycle to work.
+
+But we're not the problem. Any projection of the future says the growth in emissions will come from countries that are now poor. They have been growing more rapidly than countries that are now rich for some time. And all projections are they will continue to do so.
+
+So this is from BP's energy outlook. If you look up to 2010, it's 1990 to 2010, you'll see OECD emissions, rich country emissions, pretty flat. I mean, they'd be up a bit but for the recession but not much. But dramatic growth in the less rich countries, dramatic growth.
+
+Again, for the world as a whole, energy and CO2 have grown less rapidly than GDP. That declining we saw in the US is a general phenomenon. But if you try to control global emissions, try to reduce global emissions by reducing OECD emissions, you see if we go to zero by 2030 and the non-OECD proceeds on the track, global emissions will be up, just by eye. So yeah, Sam?
+
+AUDIENCE: It says that's as soon as [INAUDIBLE] policy changes. Any idea what those could be?
+
+RICHARD SCHMALENSEE: You read the report, and you say, well, what are they assuming? They're assuming tightening restrictions in Europe. They're assuming something in the US. They're assuming continued efficiency increases.
+
+They're not assuming the kind of global agreement you guys are going to negotiate Wednesday and Friday. That's clear. They're not assuming a second Kyoto Protocol ratified by the whole world.
+
+I think, and it's an interesting assumption to assume that, absent anything going on in these countries, that these countries will continue. I mean, here, they're showing a reduction, a positive reduction in emissions here over that period. So that is-- and there's growth, not huge growth. But there's growth.
+
+So they're assuming a tightening in the OECD, continued efficiency increases here. There's some discussion of China becoming a bit less carbon intensive. But the main policy action's here. And they do not assume a global agreement. It's a short description. I invite you to read it. It's about two pages. See what you think they assume, but that's what I get out of it.
+
+You can see they're continuing to assume for the world, as a whole, efficiency increases, right? The GDP grows much more rapidly than energy use. And they're continuing to assume for the world, as a whole, decarbonization, presumably, presumably a switch out of coal into natural gas and renewables. I'd have to go back and check, but I think that's part of the scenario. Anything else? Yeah?
+
+AUDIENCE: How big is the impact on emissions, like methane? I know that it keeps more heat.
+
+RICHARD SCHMALENSEE: Methane has a-- the reason for not focusing on methane, even though it is a more potent heat-trapping gas, it doesn't stay in the atmosphere as long, A. So it's about 10 year half life, ballpark, about 10 years.
+
+And, B, it's harder to figure. It has many sources. So it's got natural gas leaks. It's got landfill decomposition. It's got things rotting. So it's harder to control. And in fact, in 20 years, 30 years, less serious. Yeah? Please.
+
+SUSAN SOLOMON: I think part of the confusion on methane is that, although every molecule of methane is more potent than a molecule of CO2, there is a lot more CO2 in the atmosphere.
+
+RICHARD SCHMALENSEE: Yeah.
+
+SUSAN SOLOMON: So actually, CO2 is doing three times more warming right now than the total of all methane because there's so much more out there. Even though heat-trapping molecules are stronger there. OK?
+
+RICHARD SCHMALENSEE: Yeah, I didn't do that.
+
+SUSAN SOLOMON: So it's not the main thing.
+
+RICHARD SCHMALENSEE: Yeah, I didn't do that. I should have done it.
+
+SUSAN SOLOMON: This is the main thing.
+
+RICHARD SCHMALENSEE: I should have done it. Yeah, if you break down sources of anthropogenic warming, CO2 dominates.
+
+SUSAN SOLOMON: When people get to talking about methane being an effective greenhouse gas, it can get very confusing for people.
+
+RICHARD SCHMALENSEE: Yeah. Yeah?
+
+AUDIENCE: So the point is the graph is built on CO2 emissions by the OECD countries and non-OECD countries, right?
+
+RICHARD SCHMALENSEE: Yep.
+
+AUDIENCE: But in general population, I think the OECD countries--
+
+RICHARD SCHMALENSEE: We're going to come there. We're going to break it down. Yes, you are. In terms of per capita, the OECD countries are much higher.
+
+But the only point to be made here is, if you want this top graph to come down, you're not going to get it all here. And you got to do something up here somehow, somehow. We will come to questions of fairness in about a half a second.
+
+So that's a reason. You're going to have to deal with growth. And the growth is going to come from countries that are now poorer than the OECD countries.
+
+The other reason, let me just briefly do a little economics here as opposed to a little pseudo-science. Suppose you want to reduce emissions. Say you want a total reduction in emissions from business as usual of capital R. And you want to do it worldwide. And the cost of getting reductions in country I is given by this cost function.
+
+All right, so the tsar cares about global cost. So what the tsar is going to do is reduce emissions. He's going to minimize the total cost subject to this constraint.
+
+And if you recall or just use your intuition, you're going to have to have the marginal cost, the derivative of this function with respect to its argument equal across countries. If not, I can rearrange reductions in a way that will lower costs. I'll do a little more where marginal cost is low and a little less where marginal cost is high. Get the same reductions, lower cost.
+
+That's always true unless the marginal costs are equal. Well, if marginal costs are going to be equal, then unless it's really hard to reduce emissions in poor countries, they have to play if we're going to reduce total cost. It's not a question of who pays for it. It's a question of where it happens, right?
+
+Doesn't say that that Bangladesh has to pay to reduce emissions in Bangladesh. It says that emissions in Bangladesh will have to be reduced. So they're separate questions. But it says the poor will need to be involved.
+
+If you recall 1401, if you have a firm producing in multiple plants, this is exactly the same principle. You want to equalize on the margin. Normally, it means everybody has to play.
+
+There are two approaches that have been put on the table for this. And we'll come back to both of them. The Parsons, et al, piece on the reading list, which is optional, talks about one of them.
+
+You could say, all right, how about the tsar says there's a price of $20 a ton for carbon emissions from fossil fuels? The tsar doesn't like to do central planning. He's learned that lesson. But the tsar can tinker with prices. So he'll put a price of $20 a ton for emissions.
+
+Well, that means everybody who's contemplating emissions is going to cut back until the cost of cutting back rises to $20. And I'll get this marginal cost of quality that way. All right, so I'll just price the thing. We talked about this earlier. This is pricing the harm.
+
+So I priced the harm. People cut back on the harm. It's a tax. It'll show up as a tax, probably show up as a tax on fuel. Tax much higher on coal than on natural gas. But that's one way to do it. And the tsar can do that.
+
+The other way to do it-- that makes sense, right? That's easy? We just price the thing. The other way to do it is a little more convoluted but only a little more. And we'll return to the equivalence later on is the tsar prints up certificates, drops from helicopters, and says, to emit a ton of CO2, you have to give me a certificate.
+
+Limited number of certificates equal to the total amount of CO2 the tsar wants to permit, you get a market, right? I go around looking for certificates. I'm willing to pay 20 bucks for it. I'm willing to pay some price. The market will determine what price.
+
+In this case, if I fix a price, the market will determine the quantity. If I fix a quantity, the market will determine the price. But I can go either way.
+
+And if the tsar knows all, it doesn't matter which way he goes. We'll talk a little later, I think, about when and where and how it might matter. But that's what the tsar might want to do. But do those make sort of top of the head sense as a way to do it without having to do central planning for all the nations of the world?
+
+But if you say it's $30 a ton or $40 a ton for everybody and poor countries have to pay it, how do they do that? How do they do that? So you know that they're going to have to do some reduction.
+
+Because if you think about it, they're building buildings, facilities, et cetera. It's a lot cheaper to insulate a new house when it's being built than to go back and retrofit an old house. It's a lot cheaper to make a new power plant efficient than to repower an old power plant.
+
+So if the poorer countries of the world are growing more rapidly, they have a lot more relatively inexpensive investment opportunities. They also may not have built Los Angeles yet. So they're in a position to decide more easily on a different urban structure, less spread out, less reliant on cars.
+
+So there are a set of choices that are being made. There are also, if you look at retrofit options, there's a lot of energy use now that is polluting as well as inefficient. So modernizing some of the plants now will create a double benefit.
+
+If you can do something besides little kerosene generators, for instance, for electricity in a lot of places, you will not only save energy, but you clean the air. So there's a benefit to be had in bringing these countries closer to the frontier with what they already have. OK.
+
+So this is a hard problem for the tsar. The tsar has to figure out how she's going to-- or the tsarina, how she's going to deal with the distant future and great-great-grandchildren, how to deal with uncertainty today and to learn to deal with a tomorrow as learning happens. The tsar is going to have to figure out what, if anything, could be done about technologies, how to get people and able to adapt. If the tsar focuses on fossil fuel, the tsar has to make big changes.
+
+And the tsar has to involve the poor. The tsar has to involve the poor. It can't be done by rich countries. If rich countries alone try to do it, if you go back to something like this, you want to slow growth. You want to eliminate growth in emissions by only the rich countries, they'd have to go to zero to have a big impact. It isn't going to happen. So the pole need to be involved.
+
+And the first question that comes up, already came up, is that fair? This is emissions per capita. This is Annex II North America is US and Canada. This is Australia, New Zealand, Japan. EIT, or Economies In Transition, that's Russia and Eastern Europe. There's the Middle East. Annex II Europe or rich European countries, China, other countries, Latin America, the rest of Asia, Africa.
+
+Is it fair to involve them? My golly. You're going to go to Cambodia. You remember I put up the Cambodia energy diagram some while ago. Cambodia imports some oil and burns a lot of wood. That's the energy system. And they mostly ride motorbikes. And you can't get them much smaller than the ones they have.
+
+So this is an enormous disparity, right? North America is running-- I don't know-- 16 metric tons per capita. Africa is running less than one. Big disparity. Huge disparity. Very different. Very different systems.
+
+So if you're going to change, you're going to look people in the face. And those of you who want to be developing countries or developed countries on Wednesday and Friday are going to look your poor brethren in the face and say, you, Latin America, rest of Asia, Africa, boy, you've got to take steps. We'll do what we can. But you've got to take steps. Say, we have path dependence up here. We're kind of stuck on a path. And you know, what are you going to do?
+
+So fairness is also in one response might be, yeah, well, let's look not per capita. But you're low because you're really, really poor. And we're really, really sad about it. But per dollar of GDP, the differences are less stark.
+
+The winners now are the Middle East, Soviet Union, and Eastern Europe because those were really manufacturing-intensive technologies. They ran on cheap Russian oil, which was made available at low cost, and Russian natural gas. They still have an anomalous amount of inefficient capital stock running. And China, which has a manufacturing-intensive economy and uses a lot of coal.
+
+So per unit of GDP, Africa is right in there with everybody else. They just happen to have not much GDP per capita. So you say, well, per dollar of GDP, we can make cuts. You can make cuts. And one response might be, yeah, but we'd like our GDP to grow. Thank you very much.
+
+So this is another nice example. This is if you do the cumulative, you do what's in the air, which was the point Professor Solomon was making, if you do what's in the air, this is just CO2. But it shows, cumulatively, what's in the air now based on a model of the carbon cycle, what's in the air now and where it came from. Blue is the rich countries. This is kind of middle income developing countries. And that's the very poor.
+
+So in terms of who caused the problem, who put the stuff in the air, it's not China. Who's putting it in the air and who's growing? Yeah. But who put it there? It's us. OK.
+
+A little bit of sort of how the international conversation on all of this has gone, just by way of background, and then we'll see what questions you have because I've gone through this much too rapidly. As I mentioned, the Framework Convention on Climate Change was drafted in 1992, ratified by everybody. There have been 17 conferences of the parties referred to as COPs, large gatherings of diplomats, nongovernmental organizations, demonstrators, hangers on, cocktail parties, receptions. There have been 17 of them. You will be the 18th.
+
+The third produced the Kyoto Protocol. The Framework Convention divided the world into Annex I countries and everybody else. Annex II, which was on some of those earlier graphs, is a subset of Annex I. It's the richer Annex I countries.
+
+The Kyoto Protocol called for Annex I countries only. And by the way, it's not all rich countries. South Korea is not Annex I. Singapore is not Annex I. Saudi Arabia is not Annex I and so forth. So it's industrialized countries. OECD, roughly, OECD.
+
+Annex I countries were to make reductions that were negotiated reductions. The rest of the world, which I just said has to participate if something's going to happen, refused to even promise making promises in the future. So there wasn't even a commitment to make a commitment. They would not commit to commit. And if you think about that, that's really resisting. We'll be happy to come to these meetings. But we do not now promise ever to commit to do anything, unless, of course, it's paid for.
+
+So the Kyoto Protocol called for Annex I countries to make reductions. It was ratified by the members of the European Union, Japan, Australia, Canada, lots of other folks. We did not. The history of that is roughly that President Clinton, in the run up to those negotiations, there was a lot of noise in the air about how this will be free. It'll be a great benefit to the US economy. This will be fabulous. We can reduce emissions. It'll be no cost.
+
+Every economist not working for the administration stood up and said, well, it's not going to cost that much money, but it will cost. Congress passed a resolution 95 to nothing saying, we won't ratify anything that-- basically, slightly different language-- that doesn't require the Chinese to do something now. 95 to nothing. So Al Gore went to Kyoto. The US said, this is fabulous. We made an agreement. The treaty was not sent to the Senate for ratification. And President George W. Bush formally declared the horse dead in 2001 when he said, we're not going to play.
+
+So the EU has established-- and again, you can read the Parsons, et al, article if you're interested in it-- established an emissions trading scheme. They did the certificates dropped from the air that lets you emit carbon dioxide. I mean, it's not a perfect system. You'll see some glitches. But it may work. And they may actually meet their commitments.
+
+It doesn't appear anybody else will, even those that ratified the treaty. Australia's walking away. I think Canada has walked away. Japan may because of the incredible disaster they've gone through but would not have absent it and may not since they now say that they will replace the nuclear plants with coal. So we'll see. But at any rate, nothing will happen.
+
+The subsequent agreements, there was Copenhagen. There was a lot of fuss around Copenhagen. You'll see the run up discussed in The Economist reading. You will see the most recent Doha discussed in the second very short Economist reading, happened in December.
+
+There's no global agreement in place. What happened in Doha, and it's on my slides for Wednesday, but I'll tell you now. What happened in Doha was basically the Europeans agreed to continue.
+
+There was a promise of money to go from the rich countries to the poor countries, a much smaller promise than you will consider Wednesday and Friday. But there was a promise. We'll see if it's kept.
+
+And the developing world promised to consider making promises. That is to say the refusal to commit ever to commit is off the table. They now say they will consider, in subsequent negotiations beginning in 2015, participating in a global regime of some sort, not fully spelled out. So the poor countries, as I say, need to participate, have managed to be excluded so far. The task you will face on Wednesday and Friday is to, and I hope do it with a straight face, is to make proposals that have some hope of being accepted when you go back to your capitals of emissions reductions that will get the job done globally.
+
+OK, I've covered a lot. And I'm going to pause here. I hate to quit this early. But let me see if you have questions or comments. How do we do this? Have you all read the briefing materials? No? They're up for Wednesday, I guess. Yeah?
+
+AUDIENCE: [INAUDIBLE] $1 billion per year to stay within that 2 degrees Celsius rise?
+
+RICHARD SCHMALENSEE: 2 degrees Celsius, which is what we're working with because that's how the exercise was set, is really ambitious at this stage. I mean, it is the goal that was adopted in Copenhagen. It's a very ambitious goal at this stage. It might not have been so ambitious 20 years ago.
+
+But now more stuff in the air. Stuff going to stay a long time. Steeper reduction is called for. Yeah, I mean, who knows what it's going to take? But it's not going to be a walk in the part. It's going to be serious money.
+
+AUDIENCE: I thought that was interesting because $1 trillion is less than a percent of the entire world's GDP.
+
+RICHARD SCHMALENSEE: It is. It is. But as they say in Washington, you've got only 100 of those percents to play with. And so less than 1% sounds small until you start saying, what does that mean we don't do? 1% of the household budget, easy. But 1% of-- moving 1% of world GDP from purpose A to purpose B requires governments to do serious things.
+
+Deciding to cut back 1% yourself, yeah, you can do that. It's nothing. But deciding that US is going to increase spending on something by 1%, A, that's a bigger percentage of government activity. And, B, you're going to have to tax, spend, torque, regulate, do significant things.
+
+So yeah, it's only 1% of GDP. And all the models say that's sort of the right order of magnitude for the kinds of things you'll need to do, 1%, maybe 2%. But that sounds easier than it is. Let me just say that. Yeah, David?
+
+AUDIENCE: You're talking about the Kyoto Protocol and how basically the EU is the only one who even had a chance of meeting what they promised. What's been proposed to kind make sure that people actually meet what they said? So say, I'm the EU and I spent all this money trying to control our CO2 emissions. We did our part. And no one else did. And it's really not going to make a difference.
+
+RICHARD SCHMALENSEE: Well, there's no enforcement mechanism in the protocol. I don't know that the Framework Convention even allows for the possibility of an enforcement mechanism. I'd have to go back and look. For simple international agreements , it hasn't mattered much.
+
+The Montreal Protocol to phase out ozone-depleting substances, widely ratified not perfect. There are some illegal manufacturing here and there. But basically, it's tiny. So most governments can afford to just do it. Most countries can afford to do it. It's a rich countries use those chemicals more than poor countries. Rich countries can afford substitutes, not perfect, but cheap.
+
+This, not so cheap. And so no enforcement mechanism there either, as far as I know. I don't think there was. In any case, it was never seriously deployed.
+
+Here, what would you do? I mean, the Europeans are ready to go. Everybody was very excited. Al Gore flew to Kyoto. It was high times.
+
+And to say the US has always talked about monitoring. No matter who the president's been, we always talk about monitoring in these kinds of discussions. Nobody listens to us much now.
+
+But we always say, gee, you ought to actually know if somebody is obeying the agreement. That's resisted by a lot of countries. So no. And you can now imagine the beginnings of a European reaction.
+
+Wait a minute. We're doing all this? And what are all these other people doing? They're smiling at us. It raises the cost of our heavy industry, our energy-intensive industry. And wait a minute. Why are we doing this again? Because it's not going to have any effect, right?
+
+I mean, Europe is a relatively-- relative to those big charts, the kind of reductions that Europe's making are hard to see on the aggregate. If I go back to-- that's the one. If I go back to this one, Europe might be the width of this down at some cost. So you can imagine the European public being less and less excited just as they've begun to phase down subsidies for renewable energy.
+
+So yeah, that's part of the problem. The tsar can enforce. We do not have a tsar. We do not have a tsar.
+
+AUDIENCE: So the Senate passed a resolution saying they won't approve anything that doesn't force China to also have emissions reductions?
+
+RICHARD SCHMALENSEE: Didn't say force. You can't use force because none of these agreements-- unless it requires, which is to say that China signs on to something that says it will do x. Yeah.
+
+AUDIENCE: But it doesn't specify that they have to actually be monitored?
+
+RICHARD SCHMALENSEE: Oh, I can't imagine. I This country's got a long history of strategic arms reduction. Do you remember-- well, you wouldn't remember. But you may have heard people say trust but verify.
+
+We've always had that view internationally. We want to make sure if we're going to obey, we're going to make sure other people do too, at least monitor. You may not be able to enforce. So I can't see us signing something, ratifying something that doesn't have at least monitoring provisions.
+
+Enforcement, look at attempts to take action against Syria. The world community doesn't lightly enforce stuff. But every so often, Syria, Iran, something gets done. But doesn't get done easily. Doesn't get done automatically. It's a big political deal. David?
+
+AUDIENCE: How is this not led to a stronger partnership laws? In that, I see it as a place where a more developed nation that has high technology institutions like MIT could come in and talk to a place like that. There's already a fair amount of infrastructure investment that's made. And a lot of it can be in the terms of low-interest loans or provide experts to help build up the infrastructure because your cost is lower. And you're developing something new. And you're fostering global investment here in the States by making that part of your--
+
+RICHARD SCHMALENSEE: Available.
+
+AUDIENCE: --value add. You're also helping internationally. How is that not happening?
+
+RICHARD SCHMALENSEE: Well, it happens to some extent. There's a problem of measurement, right? The European system-- the Kyoto Protocol provides for joint implementation. Well, I forget the exact language. Hmm? The Clean Development Mechanism, CDM.
+
+If you're a European company, you can meet some of your obligations by reducing emissions in a poor country. So you can go to China and do a deal, bring in new technology, do something that will reduce emissions. And that will give you credit. And that's exactly that kind of thinking. Even though China isn't participating, it's still cheaper to do reductions there. So let's find a way to give countries in Europe credit for reductions in China.
+
+There are a couple of problems. Well, it all boils down to one problem really, which is, how do you measure it? Because you're reducing over what would have been. So you modernize a factory.
+
+So would that factory have been running forever with old technology? Or would it have been torn down? Or would it have been modernized anyway?
+
+So either you're real light on how you do this, and you don't impose real tough restrictions and then you're not getting real reductions. Or you make it really hard to document. In which case, you kill the market.
+
+So it happens. And it happens to some extent. The Europeans have gotten a little tired of it, as I recall, thinking that it's been a little too easy.
+
+But one of the features of the Waxman-Markey bill in the US, which was the cap and trade bill-- it was killed-- it allowed for that. It covered only fossil fuels. But it allowed companies to get credit for things done in agriculture. So you could change land use.
+
+And it was a giveaway to agriculture basically because the standards were going to be pretty easy. But it was that same notion that I want to reach out beyond places that I can price to give people incentives. But it's really hard because you can measure what is emitted. You can never measure what would have been.
+
+You could see the same problem with forests if you think for just a minute. If I pay you not to cut down a forest, does that mean the guy across the street cuts his down to provide the timber or what? And you would never have cut it down or you would have?
+
+So it's a natural model. If there were a common regime, a cap and trade or a tax regime, that would happen automatically, easily. And you wouldn't have a measurement problem. It's just hard to do it without such a thing.
+
+US companies, there's some sort of informal trading in carbon credits in the. US and companies will do stuff like this and take credit for it. Perfectly fine activities. It's socially responsible and all that. But it's just hard to assess.
+
+AUDIENCE: Where's the developing nation resistance? They're getting investment, why would they not want to? Besides the measurement problem, I would see it as someone who's trying to get foreign investment anyway. And you take out full-page ads in [INAUDIBLE].
+
+RICHARD SCHMALENSEE: Well, what they're worried about is you guys got rich. We want to get rich. You guys got rich burning fossil fuel. And you're telling us-- I assume I'm going to hear a bunch of this on Wednesday and Friday from the developing world. You're telling us that you got to do that. And you're now leaning on us.
+
+The fear isn't that boatloads of investment will come in and modernize their factory. The fear is that you're going to raise the price of fuel to my poor people. A lot of these countries subsidize fuel.
+
+And I don't want to take the political heat from something that restricts my ability to grow. If you're telling me that the Europeans are going to come in and modernize my factories, that's swell. I love it. If you're telling me that I have to change my policies in a way that might slow growth and keep my people poor, I'm not real excited.
+
+And you can say I've been talking about your grandchildren and great-grandchildren. Well, I mean, if your kids are starving today, that's a pretty abstract argument. That's real abstract. So other comments, reactions, questions, thoughts? Oh, yeah?
+
+AUDIENCE: So mostly we've been talking about greenhouse gases. Is there any international discussion about other like climate-changing courses, like the black carbon or other like aerosols, or is that not?
+
+RICHARD SCHMALENSEE: Not that I'm aware of. Is there some?
+
+SUSAN SOLOMON: Yes.
+
+RICHARD SCHMALENSEE: OK. Say.
+
+SUSAN SOLOMON: Well, I mean, the State Department, just a few weeks ago, announced that we would--
+
+RICHARD SCHMALENSEE: So they will capture you on-- you didn't sign a release form, but never mind.
+
+SUSAN SOLOMON: I release you.
+
+RICHARD SCHMALENSEE: And everyone is released out there in television land. OK.
+
+SUSAN SOLOMON: Just a few weeks ago, the State Department announced that we would be part of, and I guess the leader of, an effort to try to reduce emissions of soot and other short-lived gases, stuff like methane and tropospheric ozones as well. So that's a voluntary program. But there are movements in that direction.
+
+And there is actually quite a bit of investment in providing very much more efficient stoves to people in very poor countries, so that they can avoid using things like dung and coal and stuff like that, which generates an enormous amount of pollution. So it has both a health benefit and an efficiency benefit. And it also cuts carbon a little but. But realistically, the main motivation is much more grounded in soot.
+
+RICHARD SCHMALENSEE: I mean, one reason, not the main reason necessarily, to be concerned with black carbon emissions is the effect on the reflectivity. If you have a lot of sea ice, ice tends to reflect. Black carbon tends to absorb. So it does matter for climate, but it also matters when you breathe. There are lots of international environmental treaties. Most don't have anything to do with climate

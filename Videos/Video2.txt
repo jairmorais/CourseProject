@@ -1,0 +1,541 @@
+The following content is provided under a Creative Commons license. Your support will help MIT OpenCourseWare continue to offer high quality educational resources for free. To make a donation or view additional materials from hundreds of MIT courses, visit MIT OpenCourseWare at ocw.mit.edu.
+
+RICHARD SCHMALENSEE: So I want to start with a small puzzle, if I can get this thing to work. This is satellite capture of carbon monoxide plumes globally. I'll let this run for a while, and then I'll show you another one that's got more information but harder to read.
+
+So the question is why? Why are they where they are, which requires you to first figure out where carbon monoxide comes from-- which I figure most of you probably know. Quick response-- how do you get carbon monoxide in the atmosphere in quantity. Yeah.
+
+AUDIENCE: Burning hydrocarbons.
+
+RICHARD SCHMALENSEE: Burning hydrocarbons completely, incompletely?
+
+AUDIENCE: Incompletely.
+
+RICHARD SCHMALENSEE: Incompletely. So it's incomplete combustion of hydrocarbons. So you see the red spots is where there's a lot of it. A lot of energy is burning hydrocarbons, so it's not too surprising we have this here. Let me start the other one, which gives you a little bit of the same.
+
+You see a lot over Asia, India, South Asia, Africa, some over Latin America. Why? How come we're seeing incomplete combustion of hydrocarbons in those areas? A lot of it-- enough to make plumes detectable from space. How come? Thoughts? Yes.
+
+AUDIENCE: A lot of those are developing areas, and they don't have the tissue processes to burn hydrocarbons.
+
+RICHARD SCHMALENSEE: That's right. Let me restart this thing. So we're dealing with-- a lot of those are developing areas.
+
+What kind of hydrocarbons do you think they're burning in quantity? And the plume that you occasionally see over Brazil is a fair amount of deforestation in the Amazon, just large-scale burning. But what kind of hydrocarbons do you find being burned in very poor countries?
+
+AUDIENCE: Coal.
+
+Coal.
+
+Coal.
+
+Coal.
+
+Wood.
+
+Coal.
+
+RICHARD SCHMALENSEE: Coal's one answer. What else?
+
+AUDIENCE: Wood.
+
+Wood. Wood. I hear mumbling. It's very hard to grade participation when you do chorus. So just put up a hand. Take a shot at it.
+
+Wood's what I was after. They do burn coal, and we're going to see a fair amount of that, but this is UN data on the fraction of total energy from quote, "primary biomass," which is largely wood-- wood and brush and stuff like that. And you will notice how high it is in a number of poor countries.
+
+I was struck by the Cambodia number, just because I was there recently. But look at Ethiopia. Almost all the energy available. And these are estimates. You can't measure how much they're doing and cooking fires in remote villages, but the dominant energy source in those two very poor countries is gathering wood and burning it to cook.
+
+Most of the time, most of the energy data you will see does not have that, in part because the best you can do is estimate it. But historically, this is very important as an energy source, and it's still important in a lot of developing countries. We will come back to this. That's one source of energy that humans use to supplement their own before we began using fossil fuels in quantity. What else did we use? Yeah.
+
+AUDIENCE: Water.
+
+RICHARD SCHMALENSEE: Water, like water power, water wheels of various kinds. Anything else? Yes.
+
+AUDIENCE: Wind.
+
+RICHARD SCHMALENSEE: Wind-- sailing ships, windmills. Anything else? David.
+
+AUDIENCE: Horses.
+
+RICHARD SCHMALENSEE: Animals, yeah. And the availability of all of those things varies a lot. I'm sorry about the fly in. I'm a little careless in setting up the animation. The availability of all of those energy sources varies enormously globally.
+
+If you're in a desert, you're not gathering a lot of wood to burn. If you're in Africa, you're short of domesticated animals, and so on. If you look across pre-industrial economies, and you ask what do their energy systems look like, they're going to differ, depending on available resources. They're going to differ depending on climate.
+
+Do you really need to heat? Is it really important? They're going to differ level of technology, which varied a lot in pre-industrial times, particularly because communication was slow and erratic, and the level of organization. When the Roman Empire fell, energy systems changed, organization changed. So I'm sure there are other differences.
+
+So today, what we're going to look at-- and just briefly, this is a little bit like Wednesday's. This will, I think, set a record, which I hope not to break, for the number of slides. But this is background and overview of what the world's energy systems look like.
+
+One of the important things to think about is when you go beyond-- this is the fancy slide that I showed you last time about national energy systems in context. If you look at the global energy system, it's more than a set of national ones. There's a global background-- if you will, a social background of cultural communications, rivalry, emulation, and so forth.
+
+Greenhouse gases are a global issue. There is a set of international institutions and regimes-- the World Trade Organization, climate agreements, NAFTA, et cetera, et cetera, that affect the global system. There are international energy markets, international financial markets, and transnational multinational firms that link the global markets.
+
+So we don't have a single world energy market, and that'll become clear as we go through the course. But we do have a lot of linkages between national markets. So let's look first at what's the world look like in aggregate? What does the US look like in the world? Then we'll look at some differences.
+
+So that's what the world burns. You will notice there really isn't any biomass up there. This is from BP, formerly known as British Petroleum. This is how the standard statistics go. You've got oil, natural gas, nuclear, hydro power, the tiny little non-hydro renewables, and then coal on top.
+
+For the US, coal was very important. For the world, oil is the most important in terms of energy content. Oil's share has been declining for some time, however. You'll notice the total world consumption is growing.
+
+Oil looks pretty flat. Oil share's declining. Oil share is declining at the expense of natural gas not too surprising in the US context. But the importance of coal is growing, which is a little odd if you think about it, because coal was the first of the fossil fuels that were used to any extent and it's now on a global basis growing. And we'll come back to that.
+
+So in terms of the US-- these are a year or two old, but they're about right, we're about 4 and 1/2% of the world's population. We produce about 15% of primary energy. We consume over 20%. 5% of the world's population-- less than 5% consuming more than 20% of the world's energy.
+
+A theme I will sound today is the whole world can't live like we do. The arithmetic doesn't work. This is the point that Tom Friedman makes in the article on the list. He makes it in more colorful fashion, but the numbers are pretty clear. And we'll come back to that.
+
+This is almost illegible, but this is more than five metric tons of oil equivalent per capita, and down to less than 1 and 1/2. You see enormous variation in the amount of energy consumed per capita, with the US, Canada, Saudi Arabia, and a few European countries clearly in the lead. And countries where there was all that carbon monoxide-- many of them, very low down in terms of using commercial energy.
+
+So there's a lot of gathered wood being done in those areas. Not a lot of commercial energy. Russia's high, Norway's high. I think that's Norwegian. In any case, lots of energy, lots of variation.
+
+If you look at energy use per capita over time, you will see as we saw last time for the US, it's pretty flat. Slightly different data source, slightly different measures, but flat for the US for a long time. Considerably higher than other rich countries.
+
+And here's the world average per capita. Here's the US. Here's China rapidly growing toward the world average per capita, the growth of China being a very big story that I'll spend a little more time on today and then come back to.
+
+So if any of this stuff raises questions, by the way, raise your hand. This is a session with a fair amount of me talking. But if I have to just talk the whole way through, it'll be boring for both of us-- all of us. David
+
+AUDIENCE: Why are we double what France and Germany [INAUDIBLE]?
+
+RICHARD SCHMALENSEE: That's a really good question, isn't it? We're going to want to explore that. Let me not say an answer right now, but have you been to Europe?
+
+AUDIENCE: No.
+
+RICHARD SCHMALENSEE: OK. You will notice that the houses are smaller. Many of the cars are smaller. The cities are denser. The railroads, the passenger railroads, are better.
+
+The activity mix is different. The countries are denser. There are a whole set of reasons. It's not that we're bad people, although maybe we're bad people.
+
+But there are differences in history, differences in circumstances. I'll show you how several of these-- I don't think I have the UK, what several of the energy structures in these countries look like. We worry about imported oil.
+
+That's all they have, so you would think they might act a little differently toward using automobiles. So there are a bunch of reasons. We'll spend some time on it. It's important to understand why countries differ if you want to change things going forward. It's important to see what history has done to get a sense of what you can do.
+
+But just think about how we use energy, how energy could be used differently. I mean, people in those countries live perfectly pleasant lives by our standards. They're just different. There was another hand. Yeah.
+
+AUDIENCE: I can't remember what it was in the reading. I think it was [INAUDIBLE]. But I remembered [INAUDIBLE] Japan [INAUDIBLE] was less than China's. Or maybe it was in the units of America [INAUDIBLE] that Japan had, like, one and China was [INAUDIBLE] two.
+
+RICHARD SCHMALENSEE: Per dollar of GDP, Japan is lower. This is per person. And China, despite its rapid increase in wealth and income, is still a poor country on average, and certainly in '07 was. I mean, that graph goes up from '07. Anything else?
+
+OK, this is gives you a little sense. Tells you that the world differs in how it uses energy. This is from BP, and this is by region. So you will notice that in Asia-Pacific, which will be heavily China, Australia, New Zealand, coal is the dominant fuel. In the Middle East, not too surprisingly, it's oil and natural gas, and there are various mixtures in-between.
+
+Here's North America. We use a lot of oil. We use a lot of natural gas. We use a fair amount of coal.
+
+So there are regional differences in part because, with the exception of oil-- well, not even with the exception of oil, transporting this stuff globally is not that easy. It's easier than it used to be, but transporting coal, to transport natural gas, you either build a pipeline or you liquefy it, put it in a very expensive ship and move it. So the regional differences in patterns of energy use-- again, we'll come back to this reflect in part differences in endowments, and in part transport costs.
+
+OK, David asked about why France and the US differ in energy, or European countries differ from the US in energy use. Let me ask a broader question. What factors determine differences in structure, not just in level?
+
+But if you try to compare two countries, what might you look at to compare differences in where they get energy and how they use it? Anybody, take a shot. Erica, you're writing very, very diligently, and I didn't say that much. What would you look at?
+
+AUDIENCE: [INAUDIBLE]?
+
+RICHARD SCHMALENSEE: To explain differences between countries in how they get and how they use energy.
+
+AUDIENCE: Well, one of [INAUDIBLE] available resources [INAUDIBLE].
+
+RICHARD SCHMALENSEE: Available resources, yeah, that's a gimme. I hit the thing too quickly. Can you give me another one?
+
+AUDIENCE: The standard government, or [INAUDIBLE].
+
+RICHARD SCHMALENSEE: So government policies, which would come out of the political system. That's another one. Anything else? Mathoura?
+
+AUDIENCE: Very good.
+
+RICHARD SCHMALENSEE: I hesitated, you'll notice.
+
+AUDIENCE: One thing would be also, like, transportation. Like for example, if the country's landlocked or if it has access to waterways, it has a good system that allows the transport of oil in and out of the country and to various regions.
+
+RICHARD SCHMALENSEE: That's a good point. It's not one that's on my list. It's the geography of the country.
+
+Can you get various energy sources like oil by tanker, or do you have to pipe it in or take it in by rail? Another influence is geography, which is in available resources. Do you have water, do you have wind? Yeah, Alex.
+
+AUDIENCE: I was going to say development history.
+
+RICHARD SCHMALENSEE: Development history?
+
+AUDIENCE: Yeah, so like what's happened in the past-- like, how developed there's this country? Was there previous economic history?
+
+RICHARD SCHMALENSEE: So the previous economic history would be both, say, level of income, level of development, and you're suggesting how they got there would matter. Say a little more.
+
+AUDIENCE: Or like how fast they got there.
+
+RICHARD SCHMALENSEE: How fast they got there, OK. Did they develop in the 19th century and put a lot of money into 19th century assets that are still going, or did they develop recently and were able to use new technology? That's a very nice point.
+
+The Chinese are building lots of power plants. Their power plants are, on average, more efficient than ours because they're much younger than ours on average. Anybody else? Yeah.
+
+AUDIENCE: Like, population density.
+
+RICHARD SCHMALENSEE: Population density. James, OK.
+
+AUDIENCE: It would be easier per person to heat, like, an apartment building in Japan--
+
+RICHARD SCHMALENSEE: So density? Yes.
+
+AUDIENCE: --as opposed to a bunch of big houses, but across Texas, per person.
+
+RICHARD SCHMALENSEE: We always come back to Texas, don't we really? [CHUCKLES] Some of that's just people per square mile and some of it reflects policy, how you react to sprawl when you're doing land use policy and other things. So both things matter. Exactly right. Yeah, Ryan.
+
+AUDIENCE: Well the sort of products that you make and the products that you consume. So like, an agrarian society might use so much oil, but somebody who's going to be manufacturing of a certain product would definitely use a lot more. Also, if you're making a product for your own country, then you're going to make a product for your own country. So the consumption is going to be higher, so you're going to make more.
+
+RICHARD SCHMALENSEE: So the activity mix. So you get less energy if the country is a financial center, like England, than if it's a manufacturing center, like China. When we looked at the variation in energy use across US states, Wyoming was very high. And I neglected to mention last time that one of the big things that goes on in Wyoming is strip mining of coal in huge quantities, using very, very large machinery, and not a lot of people doing this. So that's rather different from what goes on in Manhattan. So, yeah.
+
+AUDIENCE: I would say political and geographical relations with foreign exporters.
+
+RICHARD SCHMALENSEE: So how you can get your access to the world markets, the terms on which you can access them. Who is nearby, not just what do you have. So China can get coal from Australia, for instance, in ways that would be more complicated if they were farther away and Australia didn't speak to them.
+
+And actually, I was talking to somebody about getting-- the country of Lebanon evidently built its power plants assuming it would get natural gas to run them. It has to run them on oil because it can no longer get natural gas from its neighbors. And as a result, efficiency is cut in half. So these things do matter. Orson, you were--
+
+AUDIENCE: I think that, [INAUDIBLE] if you're going to try and develop a type of engine that's going to be sustainable for your own country, you want to try to do something that the technology in your country is there, and there's the people who are educated to develop those types of technologies.
+
+RICHARD SCHMALENSEE: So what you're saying is you could-- we talked about policy just in general terms. But you're saying very specifically, energy policy could focus on a particular technology, develop local expertise in that technology-- develop a cluster of people who could then advance it, and make it more efficient and more usable and more friendly for you, and more economical for you. I think that's a good list. And for an economist, it's a great list.
+
+I would, however, add one other thing, which is culture-- culture and habits. I mean, the Germans recycle relentlessly. We don't. I mean, we do, but it's nothing like recycling in Germany.
+
+It's nothing like concern for materials and packaging in Germany. It's nothing like concern for efficiency in Japan or in Germany. The culture does matter and does affect-- let's see, I think I've got everything we said.
+
+Everything that people decide to do-- the habits. Americans are persuaded, we should drive. Automobiles are important.
+
+Well, that's not God-given. That's just part of the culture. So those things do matter. And one of the things I mentioned when I talked about pre-industrial is climate in the sense of how hot and how cold.
+
+This is an old graph on heating and cooling requirements. I don't want to go into how do you measure a degree day, in part because I don't remember. But it's a measure of how much you need to spend cooling and how much you need to spend heating.
+
+Obviously, Russia spends a lot-- has to spend a fair amount of energy. Heating, Bangladesh, not so much. And of course, before the advent of economical air conditioning, these countries did very little to deal with the weather because they couldn't. Now that you can, India in particular, you do see more air conditioning, and it is an important use of energy.
+
+Another way, just to do some more of these comparisons, this is requirements. This is a little bit of the influence of a couple of things-- first, activity mix, and second, efficiency. This is energy intensity. Basically, tons of oil equivalent per dollar of GDP.
+
+It's an old graph. It hasn't changed that much. You'll notice that Kenya uses a lot of energy per dollar of GDP. Is that because Kenya is doing massive high-energy manufacturing, or is that because Kenyan technology tends to be old and inefficient? So per dollar of GDP, they end up wasting a lot of energy.
+
+Japan, you will notice, uses less per dollar of GDP-- and this may be what you remember than China. Less than the US, Japan has very expensive energy for a variety of reasons-- very high prices, very dense cities, very small residences by our standards, and per dollar of GDP, even though it does a fair amount of manufacturing a lot less. The Russian story is a combination.
+
+Again, this is 2003. It's a combination of historically lots of heavy industry and cheap energy that led to inefficient capital stock. In Soviet times, they built some of the most amazingly inefficient stuff you could imagine because energy was subsidized. Anyplace else you worry about energy costs, they worried less.
+
+So Germany does a lot of manufacturing. It's more efficient than we are. Its energy is more expensive. So I will pause there to see if anything strikes you or anything you'd want to comment on. I mean, you can run these data we'll do a little bit of this later.
+
+This is a bizarre graph. This shows changes over time. You may wonder why the Russian Federation jumps up right after 1990. That's, of course, because the Russian Federation didn't exist before 1990, and whoever did this graph couldn't quite do a not present. But you'll see a couple of things.
+
+There's the US. Again, this is energy per dollar of GDP. We showed last time a decline.
+
+Look at the decline in China. Look at the decline in energy per dollar of GDP in China. This is just getting more efficient because GDP is rising. They're using new equipment.
+
+This is just an enormous increase in efficiency. This is not doing less manufacturing. It's just becoming more efficient.
+
+There's a general-- and again, Russia, enormously inefficient, coming down over time as they begin to modernize their industrial plant. The others, there's a general downward trend if you've got an eye for it among most of these developed countries, but it's slight. In Russia and China, they had a lot of inefficient heavy industry. The trend is very pronounced, but China is a very energy-intensive operation.
+
+One of the things, of course, that drives energy structure is prices faced by people making decisions. We didn't mention prices on the earlier list because prices don't drop out of the sky. They come from, among other things, most of the things on the list.
+
+These are gasoline prices, 2006. The units are dollars per gallon. I assume a US gallon. But you'll notice the big difference between Germany here at $6, the US at $2.50 at that point, China $2.11. And if the graph had more countries, I'm sure we'd see around $1 in Venezuela, maybe $1 and a half in Egypt.
+
+Huge range of prices for gasoline, which is traded internationally, which gets shipped around the world on large tankers. That's policy. That's mostly policy.
+
+The Europeans and the Koreans don't have oil. They tax it. The Japanese tax it. We tax it, but not so much.
+
+Mexico has a fair amount of oil. They tax it less, and other countries actively subsidize the consumption of gasoline, Venezuela being the most glaring that I'm aware of. You may ask politically-- and this is the kind of question we're going to come to, how come? How come Germany makes a political decision to tax the heck out of gasoline, and Venezuela, even before the Chavez regime, makes a political decision to spend tax money to subsidize gasoline?
+
+I'm not going to answer that question. But it is the question. It is a social science of energy question-- kind of a basic one. How does that decision get made?
+
+Here's another one. These are electricity prices, and you'll see there are two bars for each country. The darker one is household prices. And again, there's an effective policy. Prices differ between countries that are nearby.
+
+Let's see if I can find a couple. Here's the Czech Republic and here's Germany. That difference in residential prices presumably reflects policy, among other things. The lighter-colored bar is what industry pays.
+
+Now, industry will always pay less than households, typically because it'll take power at higher voltages, there are lower costs, lots of reasons why the light bar is always below the dark bar. But look at how big the differences are in some countries and how small in others. That's just a-- compare what happens in Norway, where that's got to be more than double, with what we got here, Italy, where those prices are quite close.
+
+That is, in many of these countries-- most of these countries, the outcome of a political process. Electricity prices are importantly political. Many of these are government-run electricity companies. The ones that aren't in the US are least regulated, and the outcome of the regulatory process is, as we will discuss, political.
+
+So when we talk about prices, where do prices come from? I'll just list a few here, rather than spend a while on this, because I want to make sure I get through this massive collection of slides. Sometimes, prices reflect cost differences.
+
+We have a lot of coal. Other people don't. Electricity is cheaper in the Midwest because there's a lot of coal and coal-fired power plants.
+
+OK, that's local resources. People use oil to generate electricity. The price of electricity varies with the world price of oil. Some countries, capital and labor are cheap. Some countries are expensive.
+
+We talked about some countries have efficient technology, some countries don't. And it's not just level of development-- not just level of development. It is, for instance, house size-- how large your house is, how well-insulated are they. Different rich countries have different answers to that question.
+
+Taxes and subsidies, that's political. And one thing we haven't mentioned is environmental policy. US, Europe, pretty tight environmental policies. Lots to debate.
+
+China, not so much. Russia, not so much. Those policies affect the costs of producing and using energy. You can think of other things that affect prices, but I think those are the big ones.
+
+You could do this whole session on electricity. There are lots of people in this world who are off-grid who don't have any electricity at all. So we don't have electricity prices for them.
+
+And this isn't price. This is consumption per capita. Notice the world leader is Iceland. Does anybody know why? Anybody know how electricity is produced in Iceland? Yeah.
+
+AUDIENCE: Thermoelectric generation.
+
+RICHARD SCHMALENSEE: It's geothermal. They use geothermal heat. It's really cheap-- really cheap, and that's a local resource. Norway-- anybody know what the dominant method for producing electricity in Norway is? Yeah.
+
+AUDIENCE: Hydroelectricity.
+
+RICHARD SCHMALENSEE: Hydroelectricity. Norway has a lot of hydropower. And again, if you're lucky in geography, you can have cheap electricity from hydropower. Are you willing to build a lot of dams? Norwegians are also environmentalists, so they do worry about the dams.
+
+And Qatar is third. What do you think they do, or what do they have? It's a tiny little country in the Persian Gulf. Yeah.
+
+AUDIENCE: Oil.
+
+RICHARD SCHMALENSEE: What?
+
+AUDIENCE: Oil?
+
+RICHARD SCHMALENSEE: Well, oil is a good guess. It's close. It's natural gas. They have literally boatloads of natural gas. They liquefy it and export it in quantity, and they use it locally to generate electricity.
+
+Back in the bad old days, they would just burn it to get rid of it. Now they spend a lot of money freezing it, liquefying it, and selling it. But look at the world number. Compare how much electricity we consume with the world average.
+
+We're not among the leaders. We're pretty high, but we're not the top two or three. But the world average, my heavens, my heavens, less than a quarter-- less than a quarter.
+
+OK, what I want to do for a little while-- you may remember this picture from last time. This is one of those great visual displays of quantitative information from Lawrence Livermore. Lawrence Livermore, if you go on their website, you can find these for 2007, which is why I have 2007, for something like 100 countries. So if you're curious about what energy looks like in country X, you can find a bunch of them. And I'm going to show you some variation.
+
+I do want to make a couple of points about the US, because it'll relate to others we will see. Notice most of our natural gas is domestic. Most of our coal is domestic. In fact, our exports for coal in that year exceeded our imports.
+
+We import biomass. I have no idea what that is, but our worry about imports is oil. You'll notice for electricity, we do a lot of coal and nuclear and gas, a little bit of wind and a little bit of solar.
+
+Now, you may wonder what this little yellow line, which is solar going into residential. What is that? Solar energy used in the household. Yeah.
+
+AUDIENCE: Is that where people have their own solar panels and use that to keep their homes, pools, et cetera, potentially [INAUDIBLE] the grid?
+
+RICHARD SCHMALENSEE: Well, probably in 2007, it's a little bit too big for that. But you're right about the rooftop, at least in part-- solar hot water heaters. And we actually lead the world in use of solar energy because we do a lot of swimming pools heated with solar energy. If you take that out, we're not so good. But a lot of this is solar heating of swimming pools-- a critical thing.
+
+OK, so let me do a few. And again, raise questions if weird things strike you or don't strike you. This is France. What do you see in the electricity side for France? Yeah.
+
+AUDIENCE: A lot of nuclear.
+
+RICHARD SCHMALENSEE: A lot of nuclear-- a lot of nuclear. France made a strategic commitment to nuclear power years ago. Those plants are very expensive.
+
+They're going to last a long time. There they are. You don't turn them off. You don't turn them off right away.
+
+Almost all the coal they use is imported. Almost all the natural gas is imported. Almost all the oil is imported. Nuclear has energy security benefits for France, which is an important reason for that decision. It also makes France a leader in nuclear technology.
+
+To come back to Everson's point about building an industry and building a critical mass, it's had that effect. France exports reactors, exports designs-- a decision, but also a decision based on the fact that the natural endowment of these fossil fuels is terrible. You can drill a long time and you're not going to find oil. They apparently have some. I have no idea where it is, but not a lot of it.
+
+OK, let's look at another country. This is Norway. And as we saw up here, the big-- unfortunately, different countries have different sized bars on everything. But you'll see the big thing in electricity is hydro, as we discussed earlier.
+
+Norway is lucky. They have a lot of natural gas, most of which they export. They have a lot of oil, most of which they export. That's a country with lots of natural endowments.
+
+They use some of the natural gas. They use some of the oil to generate electricity. And apparently, they even burn some wood. But mostly, they rely on hydropower, and they export the natural gas and the oil. Yeah.
+
+AUDIENCE: So Norway has really high electricity consumption. And he explained that the reason's mostly due to hydro?
+
+RICHARD SCHMALENSEE: Cheap hydro. Yes.
+
+AUDIENCE: Right, but Brazil also has a cost of 70% to 80% hydro. But we looked at the electricity consumption graph, it was not even listed. Is there a reason for that?
+
+RICHARD SCHMALENSEE: I don't know electricity prices in Brazil. I did look at this thing for Brazil. Brazil is running about 30% hydro maybe-- something like that. It's pretty high. But they may also tax it.
+
+In a country like Brazil, where a lot of poor people don't have electricity, electricity becomes-- as it was in the United States, say, through the '20s, it becomes predominantly consumed by wealthier people. So it becomes something you might want to tax for political reasons. I'm just guessing. I don't know that, and I don't know the cost of Brazil's fossil fuel plants. They don't have coal, so I assume the fossil is mostly oil.
+
+AUDIENCE: [INAUDIBLE].
+
+RICHARD SCHMALENSEE: And oil is not that cheap. Oil is not that cheap to generate electricity with. Yeah.
+
+AUDIENCE: For the right-hand side, for the uses of the energy, what does the non-energy box mean?
+
+RICHARD SCHMALENSEE: Chemicals mostly.
+
+AUDIENCE: OK.
+
+RICHARD SCHMALENSEE: Use oil. I mean, in the later US graph that I showed last time, it didn't appear. Lawrence Livermore kept it until quite recently.
+
+And I read that-- since the only thing that ever goes in there is oil and natural gas, I view that as the chemical industry. They're not burning it. They're using it for petrochemicals. Yeah.
+
+AUDIENCE: Why does it [INAUDIBLE]?
+
+RICHARD SCHMALENSEE: Different parts of the country. Maybe it's that they've got-- I would guess this is refined product. So maybe there is a refinery in Sweden, say, that happens to be close to a major source, so it's just easier to import some from Sweden.
+
+Normally, this happens, and you see it a lot of places-- well, you see it here in electricity. For instance, they import electricity and they export electricity. That's geography. You've got a line going here where demand exceeds supply. You got a line over here where supply exceeds demand, and we do too.
+
+You import one energy export at the other. I would assume that this is refined product that they're getting. There happens to be a convenient refinery that's willing to sell, and they're exporting mostly crude. But normally, that's what this will be. Yeah.
+
+AUDIENCE: Do most countries have the same breakdown of energy services in rejected energy? Are there some type of [INAUDIBLE]?
+
+RICHARD SCHMALENSEE: I haven't looked at it. I assume they're similar, because it has to do with-- I mean, it's inefficiency. So you're going to lose a bunch up here, depending on how efficient your generation plant is.
+
+And how you do the efficiency for hydro and nuclear is just a tricky definitional issue. Everybody's going to have more reject. I thought you'd have more rejected than used. I think that's what we have, isn't it? Let's take a look.
+
+There's France with more rejected than used. There's the US is more rejected than used. And there are the Norwegians. Aside from the size of the blocs, the numbers say more used than rejected. Got me. You got me. Yeah.
+
+AUDIENCE: Maybe it's due to the fact that, like, hydroelectricity is a lot more efficient, as opposed to, like, nuclear coal burns off a lot, and a lot of heat is lost or not transferred.
+
+RICHARD SCHMALENSEE: That may just be how you define it. How do you define the efficiency of a hydro plant? I don't know what they do in terms of the efficiency. I'd have to look. In transportation, you've got more waste than used.
+
+In industrial, the reverse. In household, in commercial, yeah, if I read-- I can't tell how much is going down here. I can't sort it out by sector.
+
+That's a departure. Most countries have more rejected than used. It might be the hydro. Yeah, Matthew.
+
+AUDIENCE: What would cause a country that has such large domestic amounts of natural gas and petroleum to develop hydro like they do?
+
+RICHARD SCHMALENSEE: They developed the hydro earlier. So the hydro is earlier, and then they found the natural gas and petroleum offshore later. And they worked very hard at learning how to manage hydro systems.
+
+It's actually a little tricky because it doesn't always rain and the snow doesn't always melt when you want it to. And they also worked very hard to develop hydro without wrecking the environment. So once you've got that capability and you're good at it, and you've got the geography and you discover you've got a lot of natural gas and oil offshore, it may make more sense to export that than to burn it locally. Yeah.
+
+AUDIENCE: Could you please give examples of energy services which is [INAUDIBLE]?
+
+RICHARD SCHMALENSEE: Oh, energy services? Driving, running factories. And this is mostly heating, ventilating, and air conditioning, but electric ranges, refrigerators, running your computer, et cetera, et cetera, all the things you use it for. This is puzzling.
+
+AUDIENCE: But doesn't it come from the electricity and heat? I would [INAUDIBLE] it on the left side of that box.
+
+RICHARD SCHMALENSEE: Well, your computer doesn't use 100% of the energy and the electricity for useful work. There's waste heat. Your refrigerator wastes-- there's waste heat that comes off the refrigerator.
+
+AUDIENCE: There's more [INAUDIBLE] services than electricity and heat. There's 640 versus--
+
+RICHARD SCHMALENSEE: Well, here you're running machinery. I mean-- oh, I see what you're saying. I mean, here you're running a car from gasoline.
+
+Here, you are running machinery of various kinds. I don't know. I'd have to list it. And you're also burning oil directly to heat. You're burning oil directly to heat in all these places. We'll go through some other examples, but I'm not sure what you're missing.
+
+I guess the thing to think of is what do you use energy for. I used it for my electric toothbrush this morning. That's an energy service.
+
+Energy powered that little machine. That's something that energy did. I mean, you don't want electricity. You want things that electricity runs.
+
+I care about keeping the food cold. I get no utility from the electricity that runs through the refrigerator. The service is keeping the food cold. The service is the refrigeration.
+
+The energy input is the energy input. That's produced by energy and capital. Capital in the refrigerator energy comes into it. Now, we'll come back.
+
+What else have I got for you? Oh, there's Germany. Germany also uses a fair amount of nuclear, which it says it's going to shut down. And it has shut down a fair amount.
+
+It also uses coal. It also buys electricity, and will probably buy more electricity from France if it shuts those nuclear plants down fast. Germany, again, has coal, but doesn't really-- it does have coal, but it really doesn't have natural gas and it doesn't have any oil to speak of. There again, you'll see it's importing a ton of oil and exporting some. And this has got to be refined product, and less stuff just gets shipped through on a tanker somehow.
+
+But actually, that's interesting. This has got to be heat. You'll notice it uses this particular color for electricity. And then coming out of here is this red band. In a lot of countries, much more than in the US, power plants provide heat to nearby buildings.
+
+So it's called district heating or combined heat and power. And that has to be what this red is, because it's not nuclear. This has got to be heat going to nearby industry. Anything else weird here?
+
+Not much, except you'll see solar going into commercial. Germany has big solar subsidies, and that may actually be solar panels on the roofs of warehouses and stores. It may be big enough to register, even in 2007. Anything else here?
+
+Oh, and the natural gas export-- most of Germany's natural gas comes from Russia. So if you want to worry about energy security, worry about energy security. And that's just transshipment of some Russian gas.
+
+This is Japan. Now if you want to worry about energy security, look over on the left. Everything is imported.
+
+Nuclear power's important. Nuclear plants are being shut down, or are shut down. I'm not sure whether there's anything currently running at the moment.
+
+You wonder why Japan is energy efficient. Suppose you're having a political debate about energy policy, and you look at the left-hand side of this graph. And you worry about energy security, and you say, well, we can build nuclear plants and develop an efficient nuclear industry, which they've done.
+
+Not clear what else you can do but be efficient in energy use. Small houses, taxes on energy to hold down consumption, and so on and so forth. So to some extent, the natural endowment and other things will drive the local policy, will drive the energy mix.
+
+So let's leave the developed world. There is a middle income neighbor, Mexico. Mexico has oil.
+
+Mexico is a significant oil exporter. Mexico's oil production is declining. So Mexico has a long-term problem, but it heavily uses its oil and its natural gas to generate electricity.
+
+What else do I want to say? Oh, all of these have electricity going into transportation. And that's not electric cars in Mexico in 2007.
+
+That's railroads and mass transit. So what else do we see in Mexico? Not too much. Anything grab you? Yeah.
+
+AUDIENCE: I noticed that all their solar energy is going directly to commercial, and that [INAUDIBLE] use electricity. What do you think that they might be using it for, on the commercial level?
+
+RICHARD SCHMALENSEE: Hot water would be my guess. Solar hot water is a pretty mature, pretty widespread technology. I'm surprised we don't see more of it residential, because that's a pretty good climate for it. And electricity is not that cheap or reliable in Mexico. Yeah.
+
+AUDIENCE: [INAUDIBLE] had my hand raised before that. I'm just going to ask something more general.
+
+RICHARD SCHMALENSEE: Sure.
+
+AUDIENCE: I noticed that for Germany, [INAUDIBLE] in Japan [INAUDIBLE] nuclear. I just though, given their endowments, that especially for Germany, making such a hard decision about closing all their nuclear, I just didn't know-- a general comment about countries. Why would you just go ahead and purchase a huge blow to yourself? Because you don't have so many other resources? [INAUDIBLE] so maybe they're scared, so they want to veer away from the nuclear.
+
+But given their situation, as you said other, than being extra efficient, you may be forced to go down some roads. And I'm just curious to see why any political process, or lobbying, or whatever could have happened to lead you down the quite tricky road, especially with nuclear generators shutting down on a very small fraction, if I remember correctly. And they have to replace that with, what, the natural gas in Russia. [INAUDIBLE] Russia [INAUDIBLE].
+
+RICHARD SCHMALENSEE: It's caused a lot of people outside Germany to scratch their heads. But you got to remember, Germany has a very, very powerful Green Party. The environmental movement in Germany is stronger than here-- stronger than a lot of places. It was a political calculation. Mrs. Merkel is not crazy and she's not dumb.
+
+So to answer that question-- I mean, I've read answers. I can't reproduce them because I don't know the German system that well, but that's a political calculation. It remains to be seen how quickly they do it, in fact. It remains to be seen what the public reaction is going to be when they realize how much nuclear electricity they're importing from France right next door and elsewhere to fill the gap.
+
+They are also heavily committed to renewables, and have been. They're going to spend a lot of money building offshore windmills, which won't replace nuclear power plants, because the wind doesn't always blow, but that's part of the political calculus. If you were a green eyeshade economist, and you said, well, the public overstates the risk-- Germany doesn't have that many tidal waves, these reactors are inland, we're not earthquake prone, these facilities are much safer, what we really should do is take a deep breath, review our safety considerations, and go on, and reconsider how much we want to do with nuclear versus renewables going forward. But that's a green eyeshade cost-benefit calculation.
+
+The political world, as we will discuss next week, is not always the green eyeshade world. It's a world in which you may do things because of their impact on your political situation, on your ability to get something else done, or your ability to maintain office or a variety of other things that have economic costs. Not irrational, but a different kind of calculation, which I hope at the end of this semester we all come a little closer to understanding.
+
+But that's a hard one. That one in particular is hard. People gasped. Even knowledgeable people gasped.
+
+The current, or is he former, German foreign minister, who came from the Green Party, spoke at MIT toward the end of last semester about that. And I went to the talk, and I actually went to dinner with him afterward. And it still isn't clear to say what they were thinking and why, because I don't know German politics well enough. OK, good question.
+
+There's China. China, you'll notice, has a lot of coal, and their electricity is driven-- 2007 is true, still true, driven by coal. We have a lot of coal.
+
+China has a lot of coal. They burn the coal. Building power plants at a rapid rate. That's the main story here I think that's of any interesting.
+
+This is India. India is not as wealthy as China. India has some coal. Oil is imported. Now you see biomass in the residential area, oddly enough, much more important in India than in China, structure of villages and so forth.
+
+But this is an estimate now, basically, of wood being burned to cook, rather than other fuels being used. And electricity is again dominated by coal. Most of the oil is imported. with again, some exports, which have to be refined product. Yeah.
+
+AUDIENCE: So a lot of the breakdowns we've been looking at are all by the country.
+
+RICHARD SCHMALENSEE: Yes.
+
+AUDIENCE: But some of these countries are really big. Would it make sense, especially for internal policy, to look at different regions, especially like in India and China? I feel like this big picture blurs things together.
+
+RICHARD SCHMALENSEE: Well, you're right. These are the data we have. There's some work ongoing at MIT, in the joint program on the Science and Policy of Global Change to model China regionally.
+
+And of course, you can model the US regionally. That model exists. And when you do Europe, you're modeling, to some extent, bite-sized countries.
+
+But you're right. India and China are anomalous. I think that the basic story, coal is the big driver, that's true. They're putting photovoltaics in Western China, but the big story is coal and some offshore oil. Similarly in India, but of course, you don't have cooking fires in downtown Mumbai. So this notion that there's a lot of mass going into residential use, that's true in aggregate.
+
+It's not true everywhere. Can't be true everywhere. There are places in the deserts where there isn't that much wind, and there are metropolitan areas where it's tough to gather wood to cook.
+
+So you're right, these are big countries. Doing this was heroic. As I say, there are projects on now to disaggregate China. But they aren't that good-- they aren't that good. Yeah.
+
+AUDIENCE: I noticed that almost all the electricity and heat that India generates goes to this rejected energy. Is that just because they're using inefficient, outdated generators?
+
+RICHARD SCHMALENSEE: That would be my guess, yeah. Yeah, I hadn't noticed that. But you're right, as compared to-- let's see. Yeah, just by i the relative size of the useful and the wasted are different in China, where the plants are newer than in India. Yeah, I think that's right.
+
+AUDIENCE: [INAUDIBLE] stay there, the electricity grid.
+
+RICHARD SCHMALENSEE: Yeah, that's true, too. The Chinese grid is much more modern. China has a lot of very high voltage lines that are quite new. Their losses are less.
+
+So also, often, you measure rejected as the difference between stuff that's generated and stuff that gets paid for. So a lot of these countries have huge numbers for losses, and a lot of that's theft. I don't know if that's true here, but I know it's true in some places. OK, there's India. Just for humor, here's Saudi Arabia.
+
+[CHUCKLES]
+
+They use oil and gas for everything. Don't bother with anything else. And they appear to import wood for fires. I don't know what that's about.
+
+But you notice all the biomass is, imported and it's all residential. And I assume that fires for show. I don't know what that is. And there is a poor country, and poor countries tend to look like that. A lot of biomass, all the oil is imported, all the coal's imported, little snippets of other things.
+
+And then just to really get there, there's Cambodia. Some hydro, I don't know where it is. Well, I do know where it is-- not much of it. Domestic biomass used in residences. All the oil is imported, used to power motorbikes. Yeah.
+
+AUDIENCE: Do you know what biomass is? I know it shows it on the left side of the box [INAUDIBLE] domestic, but it doesn't do that for wood, [INAUDIBLE], hydro, and solar energy.
+
+RICHARD SCHMALENSEE: Well, here, there isn't any. Hydro is domestic. If you import electricity as they do, it shows up here.
+
+AUDIENCE: Right, right. So biomass always comes up on the left side of the box, even though it's still domestic, whereas like solar and hydro [INAUDIBLE].
+
+RICHARD SCHMALENSEE: I'm not sure. There is some-- I'm not sure what you mean.
+
+AUDIENCE: The source is biomass as domestic, as well as solar, or geothermal, or--
+
+RICHARD SCHMALENSEE: I think solar and geothermal are by definition domestic, since these are used except for solar, for hot water, and so forth. These are used for electricity and they're domestic. You don't import sun. You import electricity.
+
+So I don't know how this is powered, but you import electricity. You don't import. I mean, if you had a line to a nuclear plant across the border, you might count it. But electricity is electricity.
+
+OK, so I want to close with a little bit of data on rich countries and poor countries. And this is something. You should see you will see data lots of places, in some of the assignments, that relate to the OECD. This is just for your background.
+
+This is who the OECD is. It's basically a rich countries club, Organization for Economic Cooperation and Development, with a few not quite so rich countries that have entered recently under US and other sponsorship. So we pulled in Mexico and Chile.
+
+We probably pulled in Korea as well. Korea is getting to be a rich country. It began, it was Japan, Western Europe, and North America.
+
+But you see, it's just under 18% of the world population, almost half of the world's energy use. You don't go too far wrong thinking of this is the rich countries club. So I want to do a little rich and poor here going forward in aggregate, not country by country.
+
+This is energy use. This is from the EIA assignment. This is energy use actual, the first three bars, and projected.
+
+But this is a pretty standard projection. The growth is expected to come outside the OECD. 17 and 1/2% rich country population of the world, half the energy use. You see by the time you get to 2030, 2035, it's well under half the energy use. Some growth in rich countries, most of the growth outside.
+
+If you do the numbers, this is one of those-- suppose the world had actual OECD energy per capita. All else equal, that would increase world use-- this is just doing percentages. This would increase world consumption by a factor of almost 3.
+
+If the whole world had us energy per capita, it would increase world consumption by a factor of 4. No growth-- just take a snapshot of 2009. Those are scary numbers. And of course, there will be growth.
+
+This is where is it going to happen. And you'll see the projection-- and again, up to 2008, the actual, and we're getting close to 2015, is non-OECD Asia. What is non-OECD Asia? Non-OECD Asia is mainly India and China, and Indonesia for that matter, but it's mainly India and China.
+
+So here's coal consumption. Recall, I said the coal market share has been growing. Where is that coming from? Non-OECD Asia-- India and China.
+
+You will recall India and China have a lot of coal. India and China, as they move out of poverty, are burning it. Not unreasonable at one level, but that's how you get CO2 emissions growth. This is world energy-related CO2 emissions, OECD, non-OECD.
+
+What's the growth? The growth is non-OECD Asia burning coal largely-- largely. So again, if you run these kinds of numbers, suppose the world got to where the OECD is, or suppose the world got to where the US is, forget growth.
+
+After that, you'd have CO2 emissions up by a multiple. As we will discuss when we talk about climate-- we'll talk about climate a little bit next time and more later, that's scary. If you go to double CO2 emissions, that's scary.
+
+But if I'm a poor country, I say, wait a minute. You guys burned your coal. You're using much more energy than we are per capita. You got rich.
+
+Don't we get a chance to get rich? You guys sit in fancy classrooms at MIT and try hard to stay awake and all of that. Don't we get to do that? So we'll come back to this, because I think this is one of the great issues of the day.
+
+I'm going to close with some final thoughts. I hope you got that there's a lot of diversity. Some of it comes from resources. But some of it comes from culture and some of it comes from politics, and some of it comes from a variety of technology, efficiency, history-- a variety of reasons.
+
+The last point, which will be a very important point going forward, which is we expect the growth to come in the future, absent anything else, from the developing world-- if the rest of the world gets rich the way we got rich, there will be enormous increases in energy use, which may not be feasible, and in CO2 emissions, which at least your children and grandchildren will not like much. I know that's an impossible thought, but you will have children and grandchildren. And this is something we'll be talking about.
+
+That's hard. We know how we got rich. We burned fossil fuels, and we used that to acquire capital stock and knowledge, and build universities and do all those great things.
+
+But that won't work-- that won't work. What will work, you got me. That's what you guys are for. OK, any questions or comments, reactions, thoughts? Yeah.
+
+AUDIENCE: You said something in the last class. Most of the US energy [INAUDIBLE].
+
+RICHARD SCHMALENSEE: Yeah.
+
+AUDIENCE: So that's true, right?
+
+RICHARD SCHMALENSEE: That's true, right.
+
+AUDIENCE: Are you going to explain that more as you go on?
+
+RICHARD SCHMALENSEE: Yeah. Which part would you like explained?
+
+AUDIENCE: [INAUDIBLE]
+
+RICHARD SCHMALENSEE: OK, we'll talk about that when we go sector by sector. But an awful lot of the infrastructure is in regulated areas. So part of the reason you could raise private capital was the capital wasn't hugely at risk.
+
+So for electric power, for instance, if you build a power plant, the regulator says yeah go ahead, you would get a return on your investment. That makes it easier. We'll come back to that. OK, thank you.
