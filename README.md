@@ -33,6 +33,7 @@ The result will be a table with (video 1) is also in page 1,3 4
 ## Installation
   Install:  pip install spacy
   Install:  python -m spacy download en_core_web_sm
+  Install:  python -m pip install --upgrade pymupdf
   This will be used for the similarity between two documents.
 ## Video Lecture Content and Text Book Document 
   Each video content is a text document and it will be calculate the similarity with each page from the Textbook
