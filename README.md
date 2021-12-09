@@ -33,7 +33,7 @@ Theme 2: Intelligent Learning Platform
 #### It is necessary to get each video content to was transcript to a text file -6hr
 #### It was implemented the similarity function using spacy (Package that calculate the similarity of documents) - 12hr
 #### In the code there are a cut on 0.7 on the similarity.
-
+#### files of the lecture in : https://ocw.mit.edu/courses/sloan-school-of-management/15-031j-energy-decisions-markets-and-policies-spring-2012/video-lectures/lecture-1-this-course-and-the-u.s.-energy-system
 
 # Project Proposal
 Theme 2: Intelligent Learning Platform
