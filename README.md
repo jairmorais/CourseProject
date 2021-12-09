@@ -17,6 +17,8 @@ Theme 2: Intelligent Learning Platform
    python project.py C:\cs410\FinalProject\Videos C:\cs410\FinalProject\Book\MITEI-The-Future-of-the-Electric-Grid.pdf > output.txt
   ### Result
   The result will be on the text file : output.txt
+  ### Using Bat File
+  run the bat file: c:\ .\project C:\cs410\FinalProject\Videos C:\cs410\FinalProject\Book\MITEI-The-Future-of-the-Electric-Grid.pdf
 
 ## Video Lecture Content and Text Book Document 
   Each video content is a text document and it will be calculate the similarity with each page from the Textbook
