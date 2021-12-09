@@ -1,8 +1,8 @@
-# Course Project
-Please fork this repository and paste the github link of your fork on Microsoft CMT. Detailed instructions are on Coursera under Week 1: Course Project Overview/Week 9 Activities.
 
 # Final Report
 Theme 2: Intelligent Learning Platform
+Jair Vieira Morais Filho - jairv2@illinois.edu
+MCS - CS410 - Fall2021
 
 ## Installation
   #### pip install spacy
