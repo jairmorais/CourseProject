@@ -1,7 +1,21 @@
-# CourseProject
+# Course Project
 
 Please fork this repository and paste the github link of your fork on Microsoft CMT. Detailed instructions are on Coursera under Week 1: Course Project Overview/Week 9 Activities.
+# Final Report
 
+## Installation
+  Install:  pip install spacy
+  Install:  python -m spacy download en_core_web_sm
+  Install:  python -m pip install --upgrade pymupdf
+  This will be used for the similarity between two documents.
+## Video Lecture Content and Text Book Document 
+  Each video content is a text document and it will be calculate the similarity with each page from the Textbook
+  The Result is the closed the Video content are from the page they are related, using that we can relate the age with each page.
+## The Result
+  The Final result is the list of video content and the pages that content are related
+  Video 1 - related to page 1,2, 5,10
+  Video 2 - related to page 3,4,11
+  ...
 # Project Proposal
 Theme 2: Intelligent Learning Platform
 
@@ -28,19 +42,5 @@ Get the list of videos for each video content.
 ## Final Result
 The result will be a table with (video 1) is also in page 1,3 4
 
-# Final Report
 
-## Installation
-  Install:  pip install spacy
-  Install:  python -m spacy download en_core_web_sm
-  Install:  python -m pip install --upgrade pymupdf
-  This will be used for the similarity between two documents.
-## Video Lecture Content and Text Book Document 
-  Each video content is a text document and it will be calculate the similarity with each page from the Textbook
-  The Result is the closed the Video content are from the page they are related, using that we can relate the age with each page.
-## The Result
-  The Final result is the list of video content and the pages that content are related
-  Video 1 - related to page 1,2, 5,10
-  Video 2 - related to page 3,4,11
-  ...
   
