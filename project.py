@@ -39,6 +39,4 @@ def Similarity(VideoPath, pdfFile):
 
 if __name__ == "__main__":
     arg = sys.argv[1:]
-    print(arg[0])
-    print(arg[1])
     Similarity(str(arg[0]), str(arg[1]))
