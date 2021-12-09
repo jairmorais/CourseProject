@@ -1,0 +1,513 @@
+The following content is provided under a Creative Commons license. Your support will help MIT OpenCourseWare continue to offer high quality educational resources for free. To make a donation or view additional materials from hundreds of MIT courses, visit MIT OpenCourseWare at ocw.mit.edu.
+
+PROFESSOR: Today I want to walk through that case in quotes. It's more of a teaching note than a case, but there are some questions to talk about and let me pose one that probably occurred to some of you as you began reading the course-- reading that case. Why are we talking about EPA at the front of a case on energy? Sam?
+
+STUDENT: [INAUDIBLE]. But especially it can depends a lot on where your energy comes from. Like, [INAUDIBLE] talked about how the coal causes like a lot of more [INAUDIBLE] than [INAUDIBLE].
+
+PROFESSOR: So on the one hand energy, Energy is the source of the kind of pollution EPA was created to deal with, and on the other hand--
+
+STUDENT: Also the different regulations impact [INAUDIBLE] deductions [INAUDIBLE].
+
+PROFESSOR: So a lot of energy policy is made in under the umbrella of environmental policy. Plus or minus coal is not going to be about coal, but it's going to be about-- or not going to be about energy. It's going to be about the environment. Let me call your attention.
+
+This was an optional reading but the National Academy of Sciences unpriced consequences paper is probably the best recent summary of this literature, and it talks about putting climate to one side. We'll come back to that. It credits coal-fired power plants in 2005 with $62 billion worth of damages-- externalities, unpriced consequences with a huge range per kilowatt hour in the damages caused by individual plants. Natural gas fired power plants, much less in aggregate and, in fact, much less, except for a few cases, per plant.
+
+Transportation, both light duty, cars and light trucks, and heavy duty, heavy trucks and equipment, add up to about $56 billion. Not that far off-- not that far off coal-fired power plants. The other interesting thing-- and we'll come back to this later later today-- there's a little-- there's a parenthetical assessment where they say-- where they look at alternative forms of transportation alternative power trains for cars, and they conclude that electric vehicles are much worse-- not much worse-- worse environmentally than diesel, which, in turn, is worse than gasoline or ethanol. And the reason is, of course, electric vehicles across the country are half coal-powered, because that's where the electricity comes from. And this, sort of, gets lost in the discussion.
+
+But there are these numbers. Where do they come from? Where do you think they come from? $62 billion is not peeling paint. $62 billion is mostly valuing premature mortality, i.e. people die.
+
+There's a little bit of health effects. People get bronchitis. But mostly, those numbers are from people dying.
+
+How would you do that? Does it make sense to compute numbers like that? Does is it makes sense to use numbers like that? How would you use numbers like that? Do you believe numbers like that? People say $62 billion worth of damages.
+
+Putting a price on human life, putting a price on risk, what do you think? You read that, what's your reaction? How about a reaction? Max, you've got a reaction?
+
+STUDENT: Probably the cost of medical expenses associated.
+
+PROFESSOR: That be one way to do it, but that's not usually how they do it. See one of the-- if you do that, you can come to the conclusion that cigarette smoking is terrific, because people die at a younger age if they smoke, and therefore they don't have the long care costs of people in their 80s or 90s, because they don't get to their 80s or 90s. So you can measure costs of sickness sometimes that way but not death, not death. Anybody else? Julian?
+
+STUDENT: What would be their contribution to the GDP and their economic contribution is [INAUDIBLE].
+
+PROFESSOR: That's one way to do it. Do you like that? You could do it that way.
+
+STUDENT: I would try and take all their economic impact, including the health costs, their [INAUDIBLE] of tax base, but how much they cost in taxes.
+
+PROFESSOR: So basically retired people-- and this is beginning to beginning to bother me-- retired people should have a negative value, right? Because they're drawing down social security. They're drawing down Medicare. They're not working. Just gone. So that method has been used. It does have that consequence I just described. But for working age people-- and sometimes that's done in court cases. So someone is killed by negligence and you sue.
+
+And what do you get? Well, one way that sometimes calculated is, well, how much money would-- the wife sues. The husband was killed at work. The wife gets the husband's expected lifetime earnings. That isn't what they do here because a lot of this is mortality of older people, and you don't want to come up with a negative number. The way they do it-- because it's a little bit of a little bit of a puzzle-- the way they do it is they look at, at least recently, you look at weight premiums for risky jobs.
+
+So you say, how much more does it take to persuade somebody to be a welder underwater, which is a bit hazardous than they'd be a welder on land. And a number of calculations like that. Because you're not actually valuing a death when you do these studies. You're valuing an increase in risk.
+
+So you increase the risk of death. And you say, all right, well, in the marketplace, what are people willing-- what does it require, what do you have to pay people to get them to assume an increased risk of death in certain settings? And then you play with that for a while, make some assumptions, roll it around, and say the value of a premature death $6 million, which is a round number that's used. And then you say, OK.
+
+We look at how many people we expect will die early because of small particulates from coal-fired power plants. And we value that at $6 million apiece. So you're not valuing a death so much as you're valuing an increased risk of death. So that's how you do it. Should you use numbers like that to make decisions? There were some readings on whether cost benefit analysis is ethical. And some of it comes to that.
+
+STUDENT: The person [INAUDIBLE] not really [INAUDIBLE]. I wouldn't place to much attention on the very specific, value, per se. Maybe it would be-- for me, at least-- it would be like relatively-- so the same basic assumptions made for any different source, maybe coal or natural gas. Maybe we see these values relative. So it's much higher for coal than for natural gas, just given the case between the two. But I wouldn't do a whole analysis saying, OK, $6 million here and $6 million there. They could get cancer, to OK, I mean--
+
+PROFESSOR: But you got to know something about not just relative, but absolute, to know whether it matters. If I told you the damages were $5 from coal-fired power plants and $0.35 from gas-fired, that wouldn't affect any decisions. If I told you it was $500 billion versus $200 million, that would drive a decision. So I take your point, but sometimes you've got to have a sense of the absolute, not just the relative.
+
+STUDENT: May I ask--
+
+PROFESSOR: Of course.
+
+STUDENT: --is there any sense at least of error, or a band number of these--
+
+PROFESSOR: Oh, yeah. I mean, all this stuff is subject to error. Take coal fired-power plants. Take a particular plant. First thing you're doing is you're estimating where the stuff from that plant goes. OK, so that's a transport model of one kind or another, which is averaging over a bunch of weather conditions.
+
+And then you're using-- and there's error there, because you can't measure that well-- and then you're using a dose response curve based on a number of different kinds of studies to say, if this area gets this kind of particulate concentration over this period of time-- oh, by the way, how much time do people spend outside breathing it versus inside? Et cetera, et cetera. Then we would expect this increase in the risk of death for people in this age bracket.
+
+Sure, there are error bars. You don't see them, but there are pretty good size error bars. In fact, critics say they're very wide error bars. And similarly, the human life, even the people who do this stuff, you're comparing a risk voluntarily assumed with a risk imposed. How many of you ride motorcycles? How many of you ridden on a motorcycle? This is a risky activity.
+
+This increased your probability of death significantly. You didn't think about it. If I told you, however, we were going to pump poisonous gas into your room that had the same effect, you'd go crazy. People distinguish between risks they choose to assume and risks that are imposed. And I don't know how to value that. So you had a comment? Yeah.
+
+STUDENT: I think this is useful for bringing attention to an issue, rather than the decision-making. Because when you come to policymakers, they want a number that they can associate with the issue.
+
+PROFESSOR: Actually, policymakers tend to hate this stuff because there is this value in human life aspect.
+
+STUDENT: But when you go through all the different steps. You go through all the inputs, all the assumptions. They don't want to go through all that. They want to compare numbers.
+
+PROFESSOR: Well, we'll see in a second. Distinguish different kinds of policymakers. But people who are looking for votes do not like to say a human life is worth $6 million or say anything that sounds like a human life is worth $6 million, because it's priceless. Saying it's priceless doesn't get you a decision unless you can make some other assumptions, which they did.
+
+STUDENT: Well, when they use that number, they don't publicize the fact that it is [INAUDIBLE].
+
+PROFESSOR: I mean, every presidential administration since, depending on how you think about it, Carter-- but certainly since Reagan-- Republicans and Democrats have done this kind of analysis quietly. OK, anything else? Yes.
+
+STUDENT: I had a quick question about the electric vehicle statistic.
+
+PROFESSOR: Yeah.
+
+STUDENT: Is that based on electric vehicles that are only run of coal-fired plants? Or is that--
+
+PROFESSOR: Assume the average generation mix, I think. You can go back and check. But I think that's what it said-- that assuming the average mix, which gets you about half coal ballpark. Yeah?
+
+STUDENT: Just to confirm, they did not price carbon--
+
+PROFESSOR: Correct. Not in those, they didn't. There's a discussion-- again, you can look at it-- of relative carbon emissions, right? And coal gives you about twice per kilowatt hour what gas gives you in terms of carbon emissions. And they talk a little bit about transportation. Now, I guess we won't. I was going to say we will come to some discussion of pricing carbon.
+
+The Obama administration has an official value for carbon emissions that it uses for internal decisions. It sounds like a reasonable number, but it rests on weak foundations because-- we'll talk about this, but trying to understand the magnitude of climate damages in a century and discounting it back is a difficult exercise. OK.
+
+Let me move along. I want to talk about this property rights analysis because I think it's useful to think about. There are those people who actually said that where you really don't need this kind of government interference. You could just assign property rights to either, say, clean air or clean water, or property rights to dump pollution and let the market sort it out. This is the so-called Coase theorem.
+
+And the example that's given in the Viscusi et cetera reading is this one. You have a mill. You have a river. And you have a town. The mill dumps pollution into the river. The town takes water out of the river. There's $500 worth of damage. OK, so drinking the polluted water or using it to wash clothes or whatever causes $500 worth of damages. The mill could clean it up for $100. The town could treat the water for $300.
+
+The argument goes, there is no problem here. We just need to assign property rights. Suppose you say that the town is entitled to clean water. The town is entitled to clean water. The town takes legal action against the mill. The mill spends $100 and cleans up. Simple. Suppose the mill is entitled to pollute.
+
+Give them the property right. Then what happens? The town could clean up for $300. But what would most likely happen is they go to the mill and say, look, we'll pay you something over $100 to clean up. Something between $100-300. You're going to pay them more than $300 because you could do it yourself.
+
+They're not going to take less than $100. So there's some bargaining room. You're going to get rid of the damages either way because it's cheaper to get rid of them than to bear them. And either way, what happens is the mill cleans up. In one case, the mill pays. In the other case, the town pays. But in both cases, the mill cleans up, the pollution goes away, and all you had to do is assign property rights. So first of all, are there questions about that? Does that make that little example makes sense in its own terms? Yeah?
+
+STUDENT: What does the mill need- like, the mill is polluting, then they're sort of claiming those rights anyway, right? So then--
+
+PROFESSOR: Well, we have that happen at the outset, and then we and then we establish property rights. Then we establish property rights. So this is the status quo before we put the law in effect, and what the law says is instead of yelling at each other, one of you has the right to enforce action against the other in court.
+
+So either the town can force the mill to clean up or the mill can do whatever it wants unless it's bribed or paid. So we start out with a situation in which there are no property rights. The mill is polluting, the town is complaining. We assign property rights, the problem gets solved, is the argument. Either way, we assign them.
+
+STUDENT: Are property rights necessary for the town to clean up the water? Because [INAUDIBLE] river and they want water.
+
+PROFESSOR: Well, if the town-- I mean, you could imagine what property rights determine here is who pays, basically. Because if the-- which thing is, if you don't have property rights, the town's going to go up here and try to bargain. Because you're saying, implicitly, unless you do something, the mill just pollutes. Well, that's equivalent to saying the mill has the right to pollute.
+
+If the mill has the right to pollute, then the town is going to have to pay them not to. If the town has the right to clean water, then the mill is either going to have to clean up or pay the town to clean up. It's cheaper for the mill. The mill cleans up. So if you say the mill is just going to pollute, not if the town can stop it.
+
+Not if the town can stop it. That comes to the next question, is why won't it work? One way one reason it might not work in a real life case is the town doesn't happen to have chemists and doesn't realize that the water is dirty. So you might want to say, gee, a role of government is to do some science here, at least, and figure out what's going on to do the studies of damages. And I want to make sure everybody's got the example before we go to run down this list a little bit. But are you on the example? Or are you on why it might not work?
+
+STUDENT: I'm on the example I was wondering, how do you decide who gets the property right?
+
+PROFESSOR: Coase's point is it doesn't matter. I mean, it matters from the point of view of fairness, maybe. You might say it's fair to have the polluter pay. But Coase's point of view is you clean it up either way. His example was, in fact, a train. And this was a coal-fired steam engine running by a farmer's field. Sparks come out of the smokestacks. Sparks start fires. The farmer can put out the fires or the railroad can clean up the smokestack. Whoever has the property rights are going to get the lower-cost alternative done.
+
+STUDENT: One thing with that scenario or with the mill scenario, even if the mill had property rights, then wouldn't the town want to bribe them either way, whether or not they have the property rights?
+
+PROFESSOR: Exactly. Well, if the town has property rights, it doesn't have to bribe. It can compel. It'll bribe if it has no alternative. That is to say, if the mill has the right to pollute, then it'll have to bribe. If the town has the right, it can sue. It can compel. Yeah?
+
+STUDENT: Also assuming the cost of damages is greater than the-- the $500 is greater than the $300, which may be true--
+
+PROFESSOR: Yeah, it could-- if I make this 50, then nobody cleans up. That's $50 worth of damages, then the mill has the right. The town isn't going to spend $100 or more to save itself $50 worth of damages. And if the town has the right, well, that's actually an interesting question. If the town has the right to clean water, in that case, would it compel the mill to clean up?
+
+I think you get the bargain going the other way. You get the bargain going. You've got the right to clean water. The mill pays them $60 to accept the damages. The mill covers the cost of the damages because the efficient thing, in this case, is not to clean up, assuming this is a number that makes some sense.
+
+OK. Anything else on this? OK, why do we need EPA? Why don't we just do this? One answer is, gee, there's an information problem in a lot of these areas. So maybe a role of government is to do the science, tell people about it, make sure the town knows, make sure the mill knows. Maybe even work on clean-up technologies. All perfectly sensible things. And then assign property rights, right? Yeah?
+
+STUDENT: It's really complicated, say, if you had five miles ahead of the town and they're all polluting, and then you have the case where one mill says it pollutes less so it should have to clean up less. And then it's just a huge argument over monetary value.
+
+PROFESSOR: And let's suppose we have six towns. OK, so you can have-- so let me just write a little bit. The first thing we talked about that made the cameras move. The first thing we talked about was information. And the second point here is number of players. There's just a whole lot that comes under that heading.
+
+If you think about applying it to air pollution, so there's a coal-fired power plant in Salem, Massachusetts. The coal-fired power plant in Salem, Massachusetts is dirty. Everybody in Salem and around Salem gets affected, to some extent. How does this work? I give every person property rights? And how do 20,000, 30,000 people act collectively? Sue in court. So when you have more than these simple examples, it gets to be hard.
+
+And the other one, just to fill it out, is just transaction costs. In a world in which everybody is suing everybody else one way or another and bargaining over cleanup costs, that's a world in which a lot of money is spent doing that. So the usual argument here is, well, this is a lovely exercise.
+
+And it does make a good point, I think. But frankly, when you go to the real world, you need a different mechanism to deal with externalities. So that's an argument for involving the government. It's not necessarily an argument for involving the federal government. Before 1970, most states had environmental agencies. Why do we need a federal agency? This is a cue for all the Republicans. Go ahead.
+
+STUDENT: The president decides that it's OK to pollute a lot. That could be in the atmosphere and affect the states that border.
+
+PROFESSOR: So pollution across state lines. Absolutely. Anything else cross state lines? David?
+
+STUDENT: I was just going to say it crosses national lines, too.
+
+PROFESSOR: We'll see-- when we talk about acid rain-- we'll see that that pollution crossing the Canadian border turned out to have an important implication. It does cross national lines, but since we don't have a world government, having a world pollution agency is not an option, although there are international agreements. The Montreal Protocol that phased out ozone-depleting chemicals was an example of exactly that. People got together to solve a global problem. Climate change is harder. Brendan?
+
+STUDENT: [INAUDIBLE]
+
+PROFESSOR: Electricity crosses state lines, so what you're saying is you could generate in some place that's dirty and sell to someplace that's clean and disadvantage the entities in the collinear state. Anything else? Ryan?
+
+STUDENT: Well, there's not only air pollution. There's also river pollution, including the Mississippi River. But also, if you-- I don't know if it's the case-- but if you mine in one state and it gets dirty from the mining, and you sell it to a different state, there's like some sort of transaction there.
+
+PROFESSOR: And there's a transaction there? Anything else you might worry about-- if you're a clean state that you might worry about? Yeah, Max.
+
+STUDENT: I mean, it's the economic thing. So if one state decides that they're going to deregulate and allow pollution to go [INAUDIBLE] tax reductions in states that are cleaning the economically poor because corporations--
+
+PROFESSOR: The that everybody has is jobs-- is that you'll basically be Mississippi decides that it really needs jobs. It's a low-income, low-wage state. So apart from being tough on labor unions, it's also going to be real easy on pollution. And everybody in Mississippi says, well, I don't like to breathe that air, but I'd like to have a job. You have a race to the bottom, so to speak.
+
+And pollution, it's a worry. Whether it happens or doesn't happen, it's a worry that you really needed some national standards or some national something. But let me pause and I'm just going to pose a question that we we'll come back to later in the course, which is how come it happened? For all the years, people worry about dirty air and dirty water. This isn't a new concern.
+
+There's a very old act that forbids discharge of anything into the navigable waters of the United States. It's been ignored since it was written in the 19th century, but pollution wasn't discovered in 1970. A Republican president signed the Clean Air Act amendments and created EPA in 1970. And there's a historical answer to the events that led up to it. But I'd like you to think about the fundamental question-- is what turned the politics from absolutely nothing going on at the federal level to a new agency with strong mandates. Don't answer that question. We're going to do it later.
+
+You're going to say Earth Day. And I'm going to say that's right. And then we're going to say, where did Earth Day come from? So we've got EPA. But as the case says, I mean, this comes down to, do policymakers like numbers? What the law said-- these are the National Ambient Air Quality Standards.
+
+So one of EPA'S jobs is to say, how clean must the air be everywhere in the United States? And you could imagine doing that in two different ways. You could imagine doing those kinds of damage numbers, damages at different levels of air quality, and look at the costs of obtaining different levels of air quality. Do the maximize benefits minus cost. What the law told EPA to do, however, was to protect human health with an adequate margin of safety.
+
+Why do you think they did that as opposed to good old cost benefit analysis, which every economist would tell them they should have done? And that law has been in effect since 1970 with every economist saying that doesn't make any sense. Take a guess. Somebody who hasn't spoken yet. Rachel, what do you think?
+
+STUDENT: Politics.
+
+PROFESSOR: Politics. But what kind of politics?
+
+STUDENT: In the sense that the president is creating this agency that could be in charge of this. It might be related to the cost benefit analysis.
+
+PROFESSOR: But he has to do an analysis. He has to protect human health with an adequate margin of safety. And that analysis will be challenged. It'll be challenged by industry. It'll be challenged by the environmentalists. So you don't just make up the numbers. You have to show that you're protecting human health and you have to put in an adequate margin of safety.
+
+STUDENT: [INAUDIBLE] the EPA-- I forget the exact number. It's like one in every 10,000 different risk factors depending on what it is. But that sounds like, oh, only one out of every 100,000 people is going to get cancer, versus we're saying you getting cancer is worth X amount of costs.
+
+PROFESSOR: I think it's the optics. I think that's right. This assumes that there is some level below which you're safe and above which you're not safe. And if we just get away get a little bit below that low level, we're all safe. The evidence, as far as I know, on all these pollutants is it smooth. There is no threshold.
+
+The law presumes the threshold because that's easier to talk about. And then, internally, you can say, well, we'll use a one in a million or one in 10 million, or something like that. And then you can say we're protecting human health. You don't have to stand up and say, valuing a human life at $6 million, dot, dot, dot. It is the optics. And I think everybody who's thought about this understands that-- that this is an illogical criteria.
+
+It means as you get better and better at measuring things, you have to set tighter and tighter standards because you detect human health effects at lower and lower concentrations, which is not necessarily a bad thing, but it's kind of inevitable and kind of artificial. Why not just use a price? So why not, instead of setting standards-- this is an example from the graph from the reading-- suppose that-- and it deals with a very simple case.
+
+Suppose that here is the marginal cost of producing gasoline, let us say, and there's the demand. So this would be the equilibrium with no regulation. And Viscusi says, well, suppose we know the damages per gallon of gasoline produced is given by the distance between these two curves. So we tax the production of gasoline.
+
+Again, a simple model. We suppose that's the problem. We put a tax equal to this amount here, then the equilibrium is at the point where production cost plus the marginal value of damages equals the market price. You don't want to produce less because the total cost production plus damages is less than the amount the market's willing to pay. You don't want to produce more because the total cost on the margin, the total cost for additional units, exceeds what the market's willing to pay.
+
+So you impose the marginal cost of damages as a price. Everything is swell. Economists are happy. And you used the price system. Why might you not want to do that? Well, maybe you do. Why would that be hard? Let me just start there. Part of the reason you don't do it is the optics.
+
+Again, you'd rather say we're protecting human health than we're imposing a marginal tax of $0.60 a gallon to reflect environmental the value of human life lost. That's not a great headline. But suppose you could find a way to disguise it. Suppose you just do it. This is the charge. Yeah?
+
+STUDENT: Well, if you're going to tax, say, coal, more than you would tax oil for having high damages, there's also reasons to tax oil more than coal because oil's imported and coal is domestic. So how do you--
+
+PROFESSOR: We'll do all the arithmetic. We'll figure out the marginal value of reduced energy security. We'll figure out the marginal value of CO2 emissions. And we'll figure out the marginal value of-- marginal cost, rather-- of a little bitty particulates that get in your lung and kill you. And we'll just add them up.
+
+STUDENT: And then you're really getting into the optics of showing how much you're valuing a human life in comparison to things like--
+
+PROFESSOR: Even if you could-- well, I mean, economists all love this. You do have the optics problem. The other problem you got to is that's hard. That's hard, right? Because you saw that range of damages for coal-fired power plants because that reflects where they are. So you'd want to do this calculation at least for every coal-fired power plant.
+
+Every gas-fired power plant, and oh, by the way, every car. Because the damages depend on where you drive and how far you drive. So you'd want to have taxes for everything. Now, as an economist, that's little short of paradise. But as a practical matter, that's really hard. That's really hard. So what you get instead-- there are prices, occasionally-- we'll talk about some systems that are price-driven-- where it's easier. Suppose you're worried about climate.
+
+Well, to a first approximation, carbon dioxide goes in the air. Carbon dioxide mixes globally. You don't care where it comes from. You could have a single price for carbon dioxide. Mercury from coal-fired power plants, the damages depend on where the plant is. So if you're going to do prices, you're going to have to do different prices. That's hard. Sometimes it's not quite right that it doesn't matter where it comes from but it's close enough. David?
+
+STUDENT: It's only really hard if you want to do it right. So what the EPA does now where you said they said some standard of like, how much pollution you can put out, but they just kind of hit the limit arbitrarily.
+
+PROFESSOR: And then-- well, they do two things. They do two things that the case talks about. They do other things, as well. But the two things the case talks about is they set air quality standards. And they say everywhere in the country the air has to meet these certain standards.
+
+Well, you could say, gee, it makes sense to let the air be dirty in Los Angeles because it's really hard to clean it in Los Angeles. You can argue about whether that makes sense. But they don't do that. The other thing they do is they set standards and they let the states figure out how to do that. Look, Ohio's got to be clean. Illinois has got to be clean. Figure out what to do. If you can find a way to minimize cost, even if you want to price stuff to do it.
+
+You, the states, figure out how to do it. We'll check your plan to see if it's going to work, but you give us a plan. That's not terrible. Not great, but it's not terrible. Then the other thing they do-- that the case mentions-- is they set standards for new power plants. And those are the same everywhere. And you can argue, yes, no, is that the right thing to do? But it's better than you tell me where you're going to put the plant, I'll calculate the tax. Because that's hard.
+
+A lot of what goes on here is you have two imperfect approaches. And I'm just saying that while this is really a textbook ideal, it's hard. And while what EPA actually does isn't very good from a textbook point of view, it sort of works-- particularly, the air standards.
+
+A lot of us would say, look, Los Angeles is really hard to clean up. Let them be dirty. And of course, that's practically what happens because it's been impossible to clean LA to meet national standards. But at least the principle is if you move to LA, you're entitled to clean air.
+
+So nobody's doing it perfectly. The question is, which of the imperfect methods is A, workable and B, reasonable? And all I'm saying is that you don't want to get caught up in the beauty of this without thinking about the complexity of doing it. Really, you could say, all right. If I'm concerned about acid rain in the east, then I will make I will act as if it doesn't matter where sulfur dioxide goes up into the air. Does it matter? Yes, it matters. Does it matter a lot? Well, not so much within certain bounds. So yeah, It's not quite right. But I'll use that assumption. It'll let me do something I couldn't do otherwise.
+
+STUDENT: Does it matter who the rain is falling on?
+
+PROFESSOR: Well, it does matter who the rain is falling on. Let's hold this for about four weeks. And then I want to go into that in detail. Yeah, in the back.
+
+STUDENT: I had a question. How do you handle [INAUDIBLE] factors? Something that jumps to my mind is farming. You use pesticides, or ammonia fertilizers that get into the water. And not using those reduces food production. What do if you have increased environmental risk of dying? On the other side, you also have increased risk of more expensive food, or not enough food, or things like that.
+
+PROFESSOR: Well, actually, that's a little off track. That turns out to be hard. We control-- this is not, of course, about water pollution. And I don't want to spend much time on it. But we control point sources. So if you have that mill over there, EPA will limit, or the state will limit-- I'm not sure how that works-- what you can put in the water.
+
+If you have a form that's called nonpoint source. You get runoff. You could imagine, in theory, doing cost benefit calculations about comparing increases in food production costs with ecosystem damage-- which is largely what you're getting, you're getting phosphates and other nutrients in the water that damage ecosystems and such-- as well as increased cleanup costs downstream. And that might tell you what level of fertilizer use is optimal or with certain products should and shouldn't be used.
+
+Enforcement is a little tough. So we really don't control nonpoint source water pollution very well in this country. And I was involved in discussions in Washington 20 years ago now about, can we think about how to do this? And it's just a head-scratcher. Because you really don't want the black helicopters over every farm, but you know what's the alternative?
+
+So let me move along here. So we've talked about a number of these things. Oh, one of the other things-- let me just go to the next. So this is EPA. It's November 1974. What just happened? Why do we all of a sudden care about energy? Scott? You are Scott. You're not Scott. You don't have a name card. He's Scott. Who are you pretending to be today?
+
+STUDENT: Sean.
+
+PROFESSOR: Sean, OK.
+
+STUDENT: Oil prices?
+
+PROFESSOR: Oil prices. What did they do?
+
+STUDENT: Embargo. OPEC.
+
+PROFESSOR: OPEC imposed an embargo. It didn't keep oil from getting to us, but the prices went way up. So Nixon, all of a sudden we talk about, we're very threatened. The Arab countries wouldn't ship to us. We got oil. It doesn't matter oil. Tankers go to sea. The tankers go where the tankers go. People buy them at sea and redirect them. So we got oil.
+
+But Nixon says we need to be independent by 1980. So first question is, what does energy independence do for you? And is energy independence the same thing as energy security? And how is this how important is it, if it's important? Reactions? Was that the right goal? Was that a right goal? Forget the fact that we failed miserably. Was that worth spending money on? A lot of money? And if so, why? And if not, why not?
+
+STUDENT: [INAUDIBLE] any energy sources from other countries, but at the same time, a global energy crisis happened in the world, you would still be affected because you're only independent, but other products that you are importing from other countries still depends on the energy crisis.
+
+PROFESSOR: Well, did everybody get that? The argument is that if there is a major energy crisis, even if we're not importing any oil, which is what matters, will be affected. You're saying will be affected because we will import things from countries that are affected. Import other things. We'll also export to countries that may have trouble buying. But also I mean, you saw the diagrams for Western Europe. These are long-term allies.
+
+Our policy will be affected if suddenly-- suppose Russia turns off the gas pipeline. Do we just say to our European friends and allies, buy some wool socks. It's going to get cold. No. Our policy is affected. So one argument is even if you're energy independent, you don't live behind a wall. Any other thoughts? Just agree, disagree.
+
+STUDENT: [INAUDIBLE] is in coal, so we don't necessarily want to be running independently on coal because it pollutes more.
+
+PROFESSOR: OK, so it matters how you become independent. OK. Good point. There's a trade off. There may be a trade off. If you have nice, cheap natural gas, maybe not so much. But, yeah?
+
+STUDENT: [INAUDIBLE] consideration for energy security. We decide to become energy independent by relying on nuclear, and that makes us vulnerable to an attack on a nuclear plant, for example.
+
+PROFESSOR: Security has multiple dimensions. So you might be vulnerable to terrorist attacks on nuclear plants the way you wouldn't necessarily be vulnerable if say you're getting oil from Canada by pipeline. Also may depend who you're getting your energy from. Yeah? Max? I'll go back.
+
+STUDENT: [INAUDIBLE] security, looking at that, I've always though energy independence doesn't necessarily imply security implications as a matter of national interest. We're the largest importer of oil in the world. We stop importing oil from countries like Saudi Arabia and other countries in the Middle East and they might not be so happy to help Assad if Israel goes south.
+
+PROFESSOR: That's an interesting hypothetical. Yeah? Good point, though. Good point. There's a lot of other connections. I can't read it. Could be James. OK.
+
+STUDENT: If it costs too much to be energy independent, it probably will hurt the economy.
+
+PROFESSOR: Could be too expensive to do. OK, actually, let me give you let me give you two scenarios. One, all of our oil is-- we have the same total energy use that we have now. All of our oil is imported. We import five barrels a day. The other case is we're energy independent.
+
+We use twice as much oil as we do today. So one case, we have no imports. The other case, we have all imports. In which case are we more secure? Which case are we less vulnerable? Let me put it that way. Lots of oil, all domestic, versus a little bit of oil, all imported. What are the risks? What are the risks you worry about? Yeah?
+
+STUDENT: If you import, I guess there's multiple sources and more negotiation. Whereas if you're all self-sufficient, in a sense, if something were to go wrong, you'd have nowhere to go with it.
+
+PROFESSOR: Well, I didn't say there was nobody else in the world. I just said all of our oil is domestic. There are still tankers. There are still ports. There's still the world market. Manuel?
+
+STUDENT: If all the oil is domestic, we might run out in the next few years.
+
+PROFESSOR: Right let's assume we got lucky. We got so we got lucky. We have a lot of it. Jake?
+
+STUDENT: [INAUDIBLE] much more expensive. It's kind of like the same as you have in sugar--
+
+PROFESSOR: All right, let me make a nice hypothetical. Same cost. We're producing world prices. Let me lead you in the direction I want to go. Suppose the world price doubles. In which scenario do we get hurt worse? A little bit of oil all imported, a lot of oil all domestic?
+
+STUDENT: I guess if world prices were doubled, we'd be hurt less if all our oil--
+
+PROFESSOR: Oh, so you would separate our prices from the world price? Oh, I didn't say it was separate. I just said we produced it all. Britain was self-sufficient in oil for a long time.
+
+STUDENT: We would export it. So I guess we might--
+
+[INTERPOSING VOICES]
+
+PROFESSOR: What would happen--
+
+STUDENT: We would export oil because we'd make more money.
+
+PROFESSOR: Straight. So wouldn't you expect the domestic price to equal the world price in both cases?
+
+STUDENT: Yes.
+
+PROFESSOR: OK. So we use a lot of oil. The price doubles. Versus a little bit of oil and the price doubles.
+
+STUDENT: Using less oil.
+
+PROFESSOR: Using less oil would make us less vulnerable to that shock. So the amount of oil matters as much as where it comes from. The difference is, do the checks go to Saudi Arabia or do they go to Texas? Or now North Dakota. But if you drive a car it doesn't much matter to you. It's still a doubling of your cost. Yeah?
+
+STUDENT: During the crisis, I think it became important not only for strategic, political reasons, but also because the public perception changed completely because Americans never really had faced an overall energy crisis. It's not just about price. People would go to the gas stations and they couldn't get gas. So there was actually a supply--
+
+PROFESSOR: Well, that was in '79. And that's actually-- because I was actually taking a long road trip during that. And that was in fact, because of government regulation. We decided we'd hold the domestic price down and that made it hard to get gas. People panicked. But let me hold off. We'll come to later.
+
+So I'm going to answer this one just in the interest of moving along. Project Independence. Independence is a nice-sounding goal, but it's not necessarily, if you think it through-- and there's a nice recommended piece on the list about this-- not necessarily the most important goal. You might want to use less oil, period, since oil is what oil is very volatile. OK, it's '75. I'll answer this, too, because we're moving slowly. Oil prices have been pretty stable since it's only been a year.
+
+Here is the choice. CAFE standards on cars or a gasoline tax? Which do you do? Which do you do? You're on President Ford's council of economic advisors. In fact, one of my teachers was on President Ford's council of economic advisors. Which do you think he advised Ford to support? Standards for motor vehicles or taxes on gasoline? And why? Which would you support, and why?
+
+STUDENT: He probably supported standards of regulation because taxes are fairly unpopular and I understand it's--
+
+PROFESSOR: So the political argument would be can't say tax or somebody will shoot you. Put that aside for a moment and we'll assume you could actually say the word tax out loud. There was a time when you could in this country. Yeah?
+
+STUDENT: If you opposed the tax, then everybody has to pay equally and there is no incentive to buy [INAUDIBLE].
+
+PROFESSOR: Well, the more expensive gasoline is the more expensive a gas guzzler is for you to own. So you'd expect gasoline prices to change vehicle purchases, right? So it doesn't remove the incentive for me to decide what to buy. From General Motors' point of view, sure. If you buy a guzzler, I'll make a guzzler. The tax would work through consumers. Andreas?
+
+STUDENT: I think it depends on what your goal is. [INAUDIBLE] but if your goal is to reduce pollution, for example, I would think they would make more sense to tax because I would say that, in terms of making engines more efficient, I think the gas price itself would lead to more for the country. Because if gas prices are very expensive, you'd want to get cars that are more efficient, like we have with airplanes right now and stuff like that. You would have engines more efficient so you can use less. And I think it's fair for an issue like pollution where everybody can pay for it as opposed to people who--
+
+PROFESSOR: What are the different-- good points. What are the different effects on the cost of driving once you own a car?
+
+STUDENT: I was going to say, with you the CAFE standards, if you have a more efficient engine, you might be also encouraged to drive more.
+
+PROFESSOR: Driving is cheaper, yeah.
+
+STUDENT: It's cheaper as opposed to like taking with bus or something.
+
+PROFESSOR: I was going to let Julian get the answer, but you probably have another point.
+
+STUDENT: Well, I was going to talk about where the cost [INAUDIBLE] tax or a CAFE program to make work more [INAUDIBLE]. Because motor vehicles are a relatively-- like, in the last decade, you still have to drive to work. You still have to go to school Et cetera. Et cetera. But if you have a motor vehicle tax, that would probably pass onto something like manufacturers and they would--
+
+PROFESSOR: Oh, sure. Motor fuels tax will raise the cost of gasoline at retail. That's what it's supposed to do. Yeah.
+
+STUDENT: I mean, it depends on [INAUDIBLE].
+
+PROFESSOR: First approximation is it's the consumer, right? If it costs more to make efficient cars, the consumer will pay. If gasoline prices rise, the consumer will pay. So on that level, it's probably a wash. The question is the impact on incentives. Let me pose you one. Suppose I have an old gas guzzler. I have an old car that gets lousy mileage. You do a gas tax or you do a CAFE standard. What are the impacts on me, and what do I do?
+
+STUDENT: Well with the cafe standard, your car might cost more initially.
+
+PROFESSOR: No, I own it. It's an old car. It's a 1966 Pontiac Bonneville. It gets twp miles to the gallon, but the sound is good. OK? You've imposed a CAFE standard on 2011 model cars or you've doubled the gas tax. What do I do in those two cases? Maybe I scrap the car, right? Maybe I scrap the car earlier because it's more expensive to run than a new car. So I do want to cover a little more ground.
+
+Most economists would say you'd want the gas tax because it affects driving, it affects all drivers, and ultimately, you expect it to affect motor vehicle design because you've changed buying incentives. The counter is people react slowly to price changes. You might not get the effect you want right away. The politics are not as good Yeah Scott?
+
+STUDENT: Excuse me. I think of the modern day example back in 2008 and 2009 when gas prices went up to like $4 a gallon, then people's buying preferences did change. A lot of people started buying smaller cars. More compact vehicles and SUVs sales were really hit hard. So I think that kind of shows that--
+
+PROFESSOR: There are a lot of papers on this they come to the conclusion that there certainly is an effect, how big the effective is, how long lasting the effective is. A lot of debate. But certainly in 1980 when prices spiked, there was a big shift to economy cars. What else might we have done to use less petroleum besides either a gas tax or a CAFE standard? Yeah.
+
+STUDENT: Carpool program.
+
+PROFESSOR: Carpool program. Getting warm. Yeah?
+
+STUDENT: Improve public transportation?
+
+PROFESSOR: Subsidizing public transportation is sort of the European answer to it, which is, instead of getting the cars more efficient, get the people out of the cars. And there was a little bit of discussion of that, but that's not terribly popular, particularly in spread-out Western cities. If you compare Boston, which is fairly dense, with a Los Angeles, or a Denver, or a Salt Lake City, public transportation's tough because the cities were built for cars. So it's a longstanding debate.
+
+I'm going to move quickly. President Carter's packing his bags. What's happened to oil prices? It's late 1980. Do you remember the hostage rescue? You don't remember the hostage rescue. The hostage non-rescue in Tehran? Oil prices spiked. So now we come to coal because the proposal is, look, we know how to make liquid fuels out of coal. Germany did it in the Second World War. People have been experimenting with it since the 20s.
+
+This is not magic. Processes can get better. Catalysts can be improved. But basically, we know how to make liquid fuels out of coal. We're sitting on a ton of coal. Ton understates it. We're sitting on lots of coal. We are the Saudi Arabia of coal. Why are we fooling around here? Why don't we do a synthetic fuels industry in this country as they did in Germany, as they did in Japan, as they did and are still doing in South Africa, and make liquid fuels from coal and use American coal? So good idea. And climate was not on the table at this point. So climate is not a consideration for Carter.
+
+STUDENT: [INAUDIBLE] process where I remember from Germany doing it during World War II, it was their last ditch effort because they were basically isolated from the rest of the world.
+
+PROFESSOR: When they got cut off from the Iranian oil. Right.
+
+STUDENT: They had to fuel their war machine by themselves. So that was their only option is to turn to-- I think they exhausted all of those supplies, too.
+
+PROFESSOR: Well they made a dent. They made a dent. So one thing you want to think about-- and we talked about this-- is gee, it might be expensive. So one thing you might want to know, the answer to that question is, well, what's this stuff going to cost per gallon? Can you give me a number? And if it's five times the market price, maybe not.
+
+And if it's 1 and 1/2 times the-- well, we're in 1980. And in 1980, oil prices have gone up like that and all the forecasts called on them to continue to rise. It's a great story of how forecasts extrapolate. Every published forecast said that they were going to continue to rise in the event that collapsed. But in any case, you might want to know how the cost would compare. Anything else you might want to think about? Scott?
+
+STUDENT: If the synthetic fuels industry starts off well and the oil price drops, you then lose that industry that you invested so much in.
+
+PROFESSOR: So you might want to think about risks, in addition to just what it cost. Given the history of the oil price, given the fact that 1980 is a peak historic, maybe it's not really going to continue to rise as everybody says it is. Maybe there is just some chance that the Iranian situation will settle down and prices will come back. So you'd want to worry about the cost and you'd want to worry about the risk. Anything else you might want to consider? Yeah.
+
+STUDENT: You want to worry about the pollution in terms of how it relates to oil.
+
+PROFESSOR: Yeah, that's where I was going. And this is in 1980. Climate is not on the table, but local pollution, all kinds of other pollution is. So you might ask the question, what's this process look like environmentally? Then, of course, you would factor in energy security. And you reach a decision. You might also ask, are these processes really mature?
+
+But in any case, you might or might not advise-- I would say opinion was quite mixed on this. This wasn't going to be a government industry. This was going to be a public-private partnership. They were going to help private industry develop, not build a government industry. So it wasn't a nutty design.
+
+And it wasn't a nutty idea, given all the coal. But a lot of these questions that you raised, I don't think were adequately answered at the time. So now it's 1986. Reagan is president. What happened to oil prices? I just told you. They collapsed. How well has the synthetic fuels corporation performed? Well, badly? Matthew doing the thumbs down. OK. Yeah?
+
+STUDENT: About 60% of the ethanol plants in the US close by mid-1980s. So pretty poorly.
+
+PROFESSOR: Well, this wasn't ethanol. This was-- well, some was ethanol, actually. Yeah. So should we shut it down? Yeah. You should shut it down. Shut it down. And the facts-- you'd want to have the same facts we had before. But here's the hypothetical that I find intriguing. Suppose oil prices collapse but the thing that actually worked, in the sense that the plants were working, and it costs twice as much, but it was domestic. Would you subsidize it? Is reduced use of petroleum based fuels worth it?
+
+STUDENT: I would say at that point, what you do is you stick it in your back pocket as like a safety card. And also you've got to invest in trying to bring the cost down more and increase the efficiency, so in case oil prices jump again, then you're like, oh, we had this card in our back pocket.
+
+PROFESSOR: So you try to mothball the plants, basically. Do a little do a little R&D, mothball the plants. See if you're going to upgrade them. Not bad.
+
+STUDENT: I would say it depends on the domestic impact. Because if you're going with synthetic fuels and you have like an area the size of Texas planted completely with sugar cane--
+
+PROFESSOR: No, these are coal-based, basically. So it's strip mining in Wyoming. You know, nobody lives there. It's OK you don't want to look at photos of strip mines. OK, this would actually be a more interesting decision. You'd want to think about employment, by the way, if you're a politician and you just built this industry and you said, oh gee, too bad.
+
+Oil prices collapse, you die. The political pressure to save a government-sponsored enterprise would be significant. And you'd worry about the environmental impact of running it and shutting it down. The cost of subsidizing down to world prices would be the equivalent of the cost of imports, based on this. That's a lot of money. You probably wouldn't want to do that. It's climate. What's happened to oil? It's 2012. Here we are.
+
+What's happened to US import dependence? It's gone up. What's happened to CAFE standards? Not much. Yes? Not much. The case should have mentioned, in fact, it a little bit overstates the inaction. So let me correct that. There was a 2007 law, passed and signed by President Bush, that called for increases.
+
+The Bush administration proposed increases. The Obama administration finalized them for the next several model years and has agreement with manufacturers. So they're moving now. But from the mid 1980s until late in the last decade, nothing happened. How come?
+
+Rachel?
+
+STUDENT: Well, [INAUDIBLE] for a while and then the economy picked up and it started to go up, but then the economy crashed again And then it became less of an issue.
+
+PROFESSOR: So energy really wasn't on the table. And the auto companies were being hammered by imports. And--
+
+STUDENT: [INAUDIBLE]
+
+PROFESSOR: Other things to worry about. It's always-- and from the point of view of the industry, if you can keep it off the table, you want it off the table. People like large, fast cars. All the R&D went into performance. Engines got more efficient. Lots more efficient. But they also got bigger. And cars got bigger. And we all drove SUVs, and we're fat and happy, at least, as I recall. What's new. 2012, what's the new issue? Just one word. One word. OK, how about a hand? Logan, what do you think?
+
+STUDENT: Nuclear energy?
+
+PROFESSOR: No, no. Back in the back?
+
+STUDENT: Climate?
+
+PROFESSOR: Climate. Hey, there we go. Climate. Climate became an agenda item in Washington in the late 1980s. In 1992, most of the world ratified the UN Framework Convention on Climate Change. I'm not going to say something about climate. We have with us one of the foremost climate scientists in the world, who is going to Kibitz.
+
+And tell me when I say something wrong, which I probably will in the next five minutes. Professor Solomon, a recent addition to the MIT faculty, I am flattered that she's here. And we'll see how this goes. I'm just going to say a little bit about climate. We'll come back to it, perhaps when she's out of town and I can get away with more. I just want to say a little bit today. We're going to come back to it. This is more political background and just one conceptual point.
+
+This is the hardest policy problem I've ever encountered. And it's hard for a variety of reasons. It's hard because it's a global problem. It would require significant actions by rich and poor countries. You saw the differences in energy systems. All of those different energy systems would have to do something different over the next 20 years and beyond to make a dent. And inconveniently, we lack a world government.
+
+So if you think it's hard to get agreement in Congress, you can pass a law, people can be compelled. Internationally, you can't do it. Another issue that makes it hard is the time scales, right? Climate is an intergenerational issue. CO2, think order of magnets-- it's not a half life, but in order of magnitude, sort of a half-life of a century. There will be a lot of it around. Abraham Lincoln's CO2 is still up there, in quantity.
+
+So we would need to do things today to benefit our great grandchildren. This is not always an easy sell. Cost today, benefits way down the line. And another thing that's conceptually hard-- and we're going to play with this when we do the climate negotiation exercise-- is it's hard for people to get their head around the dynamics involved in CO2. And we'll do just a 3-minute exercise to make this point.
+
+So I'm going to ask you to think through what a picture would look like. So here is the atmospheric concentration of carbon dioxide. Just imagine the scenario. It's risen up to 2000 to 2010-12. And suppose it gradually rises and stabilizes. In fact, this is pretty aggressive. It stabilizes at 400 parts per million, which is quite aggressive. And here is the rate at which it's removed from the atmosphere by natural processes.
+
+Lets just keep life simple. Suppose that rate is constant. Now, think in your head or draw a picture. So what I gave you there was concentration in the atmosphere. A scenario-- this is sort of actual data. This is suppose. This is sort of actual data for emissions. Suppose that's the rate at which it's removed from the atmosphere, right?
+
+So this is gigatons per year. These are rates. That was a stock. These are flows. What would the emissions path have to look like for this graph to be consistent with the prior one? OK, don't answer. Just form an answer in your head. Got it? Got the picture? Got the answer?
+
+It has to look like that. It has to come down to equal removals at the end, or it doesn't stabilize. Right? Stuff coming out has to equal stuff coming in. Water flowing into the bathtub has to equal water flowing out of the bathtub. Now, I assume you all got this right because you're all smart. Lots of people don't.
+
+This is a study published in Science that used Harvard and MIT graduate students. You guys are all smarter than graduate students. I understand that. 75% of the sample didn't get emissions equal to removals at the end. They didn't draw a trajectory that hit at the end. This is a little tougher, violating conservation of mass. That's a little tricky. But over half asserted, yeah, you can be stable. You don't have to get to the end. You don't have to equalize at the end.
+
+Well, these are Harvard and MIT graduate students. Lawyers have even more trouble with this. Nothing against lawyers. Some of them once were Harvard and MIT graduate students. So this is missed a lot. And it's a thing that makes the negotiation process complicated.
+
+The exercise we're going to do here is one that's been run through with actual negotiators with the purpose, developed here by my colleague John Sterman, of getting them to understand at an intuitive level the consequence of those dynamics. For this purpose, you think of the atmosphere as a bathtub. The height of the water in the bathtub is the concentration. Emissions is what comes out of the faucet and removals is what goes down the drain.
+
+If you're worried about local air pollution that stays in the atmosphere for hours, you just worry about emissions. You reduce emissions and you got it. For this problem, that doesn't do it. A sharp cut in emissions is consistent with the atmosphere having more and more greenhouse gases. That's different. That complicates the problem. OK, so I'll just-- a little more history. Are there questions about that? Yeah.
+
+STUDENT: Is the removal rate proportional to the concentration of--
+
+PROFESSOR: I don't know. Is it? Is the removal rate proportional to the concentration? Sort of.
+
+- It can be.
+
+PROFESSOR: It can be. I just did a constant rate to make the exercise simpler. You could imagine it rising over time slightly. The same thing would have to be true. You'd have to get emissions down to removals to stabilize.
+
+STUDENT: But [INAUDIBLE] a little bit more CO2, the removal rate is rising.
+
+PROFESSOR: You will stabilize at a higher level.
+
+STUDENT: Yeah, which is also not good.
+
+PROFESSOR: 400 is pretty aggressive. OK, a little bit of history and then we will chat today. So again, this is a set up to what we'll be doing in two weeks. Since the '92 convention, there have been 72 meetings of the parties to that convention. The third meeting produced the Kyoto Protocol, which obliged rich countries-- those rich countries that ratified it-- to reduce emissions. Many ratified. We didn't.
+
+And President George W Bush rejected the protocol in 2001, and so we are the big emitter not playing. There have been lots more meetings. The Copenhagen meeting was widely publicized. The most recent one was in South Africa. 17 conferences. Yeah, most recently in Durban.
+
+You are going to be conference of the parties, beginning at the end of this month, and you're going to solve this. OK? But for now, it's 2012 and we're President Obama. What do you do about coal? We have a lot of coal. It's dirty. Should we do more of it? Less of it? This is not a right answer question. This is a what do you think question. You surely have opinions. Yes?
+
+STUDENT: Start with retrofitting and using point-source capture, which is getting reasonably effective. I mean, even MIT-- you can make these coal plants better and better. And that could reduce your emissions.
+
+PROFESSOR: Well, you can. We haven't done it at commercial scale. You can imagine capturing-- if you're worried about local pollution, yeah, you can scrub them and make them cleaner. If you're worried about carbon dioxide, you can take carbon dioxide out of flue gas. It's not cheap. And then you've got to put it someplace. So you can do it, but it may be quite expensive. Yeah?
+
+STUDENT: You can retire the really old, inefficient coal plants and replace them with natural gas plants.
+
+PROFESSOR: So you would say the answer is you would favor moving off coal.
+
+STUDENT: For the ones that are inefficient, that are older than all of them.
+
+PROFESSOR: OK. Matthew?
+
+STUDENT: Although the CTL plants weren't successful when they were created, it's possible that we have the technology now to make them more successful and less expensive.
+
+PROFESSOR: Which plants?
+
+STUDENT: The coal to--
+
+PROFESSOR: Coal to liquids?
+
+STUDENT: Just because they tend to pollute less than coal to electricity does.
+
+PROFESSOR: When burned. About the same amount of CO2 lifecycle. But they burn clean.
+
+STUDENT: So that might be more efficient or useful.
+
+PROFESSOR: So you might revisit the coal to liquids question. Again, we're putting shale gas off the table for this discussion. You might revisit coal to liquids to see if we can do it better. Yeah? Anybody else, a thought? Yeah, Scott?
+
+STUDENT: I heard about an experimental technology that uses the carbon dioxide from burning coal to create cement, which is also a really carbon-intensive process. So looking at processes like that, or similar to that, to see if we can develop on a commercial scale.
+
+PROFESSOR: So you'd spend some money on R&D to see if we can find clean ways to use coal, rather than give up on it because we've got so much of it. And we touched on that one. Electric vehicles. Any electric vehicle fans? Is that a way to use the coal? Brendan?
+
+STUDENT: Yeah, I think it makes sense to move toward electric vehicles because we can increase our grid side by adding additional plants in terms of looking at natural gas or nuclear plants to make up the difference.
+
+PROFESSOR: So you think electric vehicles are a good thing to explore, at least. Cost, an issue?
+
+STUDENT: Well, with projected rises in oil prices, not so much. Not as much as I would be if they were--
+
+PROFESSOR: I need to put up a graph of the forecast of oil prices in 1980, which were just amazing and all wrong. But, you know, you're right. If I'm betting money, I'm betting in the long-run up, but not down, particularly with the rise of with the rise of China. OK, 30 seconds of free-for-all before we break. Any other policies that we haven't talked about that we should have talked about that will deal with this thing? Have you a silver bullet? We've all been looking for one.
+
+STUDENT: I'm extremely pro-nuclear energy, but I understand that it's extremely expensive. One of the reasons it's so expensive is because of all the regulation and [INAUDIBLE]. I would like to reform regulation. I think that would be-- move toward a long-term nuclear solution. Maybe use natural gas as an interim solution. It's easier and cheaper compared to a natural--
+
+PROFESSOR: Well, there have been some reforms to nuclear regulation like design licensing instead of plant licensing. But one issue is Fukushima. OK--
+
+STUDENT: Fukushima was--
+
+PROFESSOR: I know. I know. I know. I know. One last thing I'd like you to do. Could you for one second close your eyes? Close your eyes. Because I don't want people looking at each other. Those of you who think of yourselves as libertarians, small government Republican-types, please raise your hands. Down, please.
+
+Those of you who think of yourselves as kind of liberal Democratic, I-don't-want-the-poor-to-starve, raise your hands. OK, you're going to try to put the Republicans on one side of this debate and the Democrats on the other. We're going to have a bit of a debate next Tuesday between two opposing views of the role of government. I just wanted to see how you divide. There are a lot of agnostics. Democrats outnumber Republicans. So think about that as you read for next week. Have a good weekend.

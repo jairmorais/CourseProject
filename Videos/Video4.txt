@@ -1,0 +1,529 @@
+- The following content is provided under a Creative Commons license. Your support will help MIT OpenCourseWare continue to offer high-quality educational resources for free. To make a donation or view additional materials from hundreds of MIT courses, visit MIT OpenCourseWare at ocw.mit.edu.
+
+RICHARD SCHMALENSEE: Let's do a little general discussion of some of the political issues that we will encounter. This is a-- if you read why there are governments, if you read what governments say about why they are established, you get very high-flown language. This is The Declaration of Independence, life, liberty, and the pursuit of happiness. Governments are to assure those rights.
+
+This is The Constitution, a little less high-flying-- establish justice, ensure domestic tranquility, provide for the common defense, promote the general welfare, and secure the blessings of liberty. You will notice that we have domestic tranquility, common defense, things that are a little less high-flowing than life, liberty, and the pursuit of happiness.
+
+Does anybody know where this comes from? This is the law that it's actually an act the English government that sets up Canada as a separate state. Peace, order, and good government-- somewhat different emphasis than life, liberty, and the pursuit of happiness.
+
+If you look at-- lots of other governments don't write down-- or lots of other countries, lots of regimes, postrevolutionary, Henry VIII, Ivan the Terrible, Khmer Rouge, Joseph Stalin, Adolf Hitler would not write statements like that. But they had goals. They have goals.
+
+A key element of a functioning government is a near monopoly on the use of force. If you think about it, when you think about Somalia is a failed state, or Libya is a failing state not that long ago. What broke was the monopoly on the use of deadly force-- near monopoly-- near monopoly.
+
+Is Syria a failed state yet? Probably not. Is it en route? Maybe. But that's-- every government that's really a government-- really a government-- has a monopoly on the use of force.
+
+It also has-- governments tend to have legitimacy. That is to say, even in North Korea, people aren't followed around by a man with a gun. People follow orders without the use of force, generally-- generally.
+
+Legitimacy can come from a number of sources. Again, if you think about it in the abstract, the US government probably gets its legitimacy from the fact that most people think the processes followed are reasonably fair.
+
+You might not have liked the decision in Bush versus Gore that gave the election to Bush, but it followed a certain process and, yeah, you didn't like it, but fundamentally, the process was OK. You don't like the Bills that come out of Congress, but you know how people are elected-- blah, blah, blah.
+
+In the days of the divine right of kings, legitimacy came from someplace else. Legitimacy came from the fact that that king was the king. And God said, he's the king. Do what he says. That's a pretty good source of legitimacy.
+
+Or you could have a government that's arbitrary, doesn't have divine rights, but is doing things that people like. You might ask, why was the Hitler government-- why did it have legitimacy in Germany? Because the variety of the goals it was pursuing were popular goals.
+
+Was the process that put it in office fair? Not really. Was Adolf Hitler divinely endorsed? Not really. But restoring German self-respect, expanding the territory of the country, making it a power again, et cetera, et cetera, those were popular goals.
+
+And sometimes-- North Korea-- you have legitimacy because the consequences of not following orders are pretty terrible. So you follow orders.
+
+Governments also have policies and a process for changing them. I want to spend just a couple of minutes about how the market system-- the market, which you all studied in economics, differs from the political world, which we will be spending some time on here.
+
+In the market, we think of individuals or firms pursuing self-interest. That happens in the political world. But what also happens in the political world is, A, groups are involved, not just individuals-- parties, interest groups, trade associations, industries acting together.
+
+And you see the pursuit both of self-interest and have different views of the public interest. Because in the market-- right-- you make decisions for yourself, firm makes decisions for itself. In the political world most decisions are for the community.
+
+So the question is not only what's good for me-- that matters, obviously-- but what's good for the community. How do I think a government should work? How do I think a community, a state, a country should be organized? What goals should it pursue?
+
+That gets us to the question of ideology. In the market, individual decisions are driven by individual preferences. In the political world, ideology matters. Different views of how the state should operate, how society should work, and what arrangements should be adopted.
+
+So you and I might, for instance, agree that society should take care of poor people-- or that poor people should be taken care of. People on the market side might say, yeah, that's what families are for. That's how the state should be organized to achieve that goal, is families should understand that that's their duty to take care of poor relatives and poor friends.
+
+People on the state side might, say, well, that's all well and good, but that won't work. That won't work.
+
+You might have different goals, of course. People on the market side might say, the notion that the poor should be taken care of is a bad idea. It'll rob them of incentives. And if the poor don't have incentives, they'll be a burden on the rest of us, and we just shouldn't have that.
+
+People on the state side might say, no, no, no. You've got to take care of the poor, it's simple humanity. Forget all the incentives.
+
+Those are ideological statements. Those are statements about how the government, how the society, how the community, what should it work to do? And how best to get there?
+
+They don't arise-- those kinds of issues don't arise in the market, right? Market economy, you're buying, you're selling, you're pursuing your interest, you're maximizing profit. None of this stuff comes-- it may come up, but it's not central. It's not central.
+
+In the political system, it's central. So if I can do this-- let me just for fun-- if I've still got it. No, I don't still have it-- wait a sec. Yeah, I do. Just for humor. Let's do Howard Roark. This is a statement of ideology.
+
+[VIDEO PLAYBACK]
+
+- I shall call no witnesses. This will be my testimony and my summation.
+
+- Take the oath.
+
+- Do you swear to tell the truth, the whole truth, and nothing but the truth, so help you God?
+
+- I do.
+
+- Thousands of years ago, the first man discovered how to make fire. He was probably burned at the stake he taught his brothers to light, but he left them a gift they had not conceived. And he lit the darkness off the Earth.
+
+Throughout the centuries, there were men who took first steps down new roads armed with nothing but their own vision. The great creators. The thinkers, the artists, the scientists, the inventors stood alone against the men of their time. Every new thought was opposed. Every new invention was denounced.
+
+But the men of unborrowed vision went ahead. They fought, they suffered, and they paid, but they won. No creator was prompted by a desire to please his brothers. His brothers hated the gift he offered. His truth was his only motive. His work was his only goal.
+
+RICHARD SCHMALENSEE: This is a model of progress. Where does it come from?
+
+- --his creation, not the benefits others derived from it. The creation which gave form to his truth. He held his truth above all things and against all men. He went ahead whether others agreed with him or not, with his integrity as his only banner.
+
+He served nothing and no one. He lived for himself. And only by living for himself was he able to achieve the things which are the glory of mankind. Such is the nature of achievement.
+
+Man cannot survive except through his mind. He comes on Earth unarmed. His brain is his only weapon. But the mind is an attribute of the individual. There is no such thing as a collective brain.
+
+The man who thinks must think and act on his own. The reasoning mind cannot work under any form of compulsion. It cannot be subordinated to the needs, opinions, or wishes of others. It is not an object of sacrifice.
+
+The creator stands on his own judgment. The parasite follows the opinions of others. The creator thinks. The parasite copies. The creator produces, the parasite loots. The creator is concern is the conquest of nature. The parasite's concerned is the conquest of man.
+
+The creator requires independence-- he neither serves nor rules. He deals with men by free exchange and voluntary choice. The parasite seeks power. He wants to bind all men together in common action and common slavery. He claims--
+
+RICHARD SCHMALENSEE: That's what we call a government.
+
+- --a tool for the use of others. That he must think as they think, act that they act, and live in selfless, joyless servitude to any need but his own. Look at history. Everything we have, every great achievement has come from the independent work of some independent mind.
+
+Every horror and destruction came from attempts to force men into a herd of brainless, soulless robots without personal rights, without personal ambition, without will, hope, or dignity. It is an ancient conflict. It has another name. The individual against the collective.
+
+Our country, the noblest country in the history of men, was based on the principle of individualism. The principle of man's inalienable rights. It was a country where a man was free to seek his own happiness, to gain and produce, not to give up and renounce; to prosper, not to starve; to achieve, not to plunder; to hold as his highest position a sense of his personal value, and as his highest virtue his self-respect.
+
+Look at the results. That is what the collectivists are now asking you to destroy, as much of the Earth has been destroyed. I am an architect. I know what is to come by the principle on which it is built.
+
+We are approaching a world in which I cannot permit myself to live. My ideas are my property. They were taken from me by force by breach of contract. No appeal was left to me.
+
+It was believed that my work belonged to others to do with as they pleased. That they had a claim upon me without my consent, that it was my duty to serve them without choice or reward. Now you know why I dynamited Courtland. I designed Courtland. I made it possible. I destroyed it.
+
+I agreed to design it for the purpose of seeing it built as I wished. That was the price that I set for my work. I was not paid. My building was disfigured at the whim of others who took all the benefits of my work and gave me nothing in return.
+
+I came here to say that I do not recognize anyone's right to one minute of my life, nor to any part of my energy, nor to any achievement of mine, no matter who makes the claim. It had to be said. The world is perishing from an orgy of self-sacrificing.
+
+I came here to be heard in the name of every man of independence still left in the world. I wanted to state my terms. I do not care to work or live on any others'. My terms are a man's right to exist for his own sake.
+
+[END PLAYBACK]
+
+RICHARD SCHMALENSEE: So I'm not-- I'm not going to ask for a vote. But you see that is an ideological statement. It is about how the world must be organized-- should be organized-- to permit progress.
+
+The inventors have to be free to invent, the parasites have to be suppressed. It's an ideological statement. It's not just how he wants to live, but how others should live. How the government, how the society should be organized.
+
+There's another example on the list, which was long, and tedious, and optional, so I assume nobody read it. But I will give you the story. It's kind of an amazing story.
+
+It's a description of the London electrical system-- the Hughes reading-- before the First World War. Now by, say, 1914, there was lots of electricity in Chicago. Chicago was electrified. There were trolleys. There was a company that spanned the city.
+
+There was a lot of-- electricity had penetrated a good deal in Berlin. Again, a single system, modern by the standards of the day.
+
+In London, there were-- what's it say? 65 utilities operating on 10 different frequencies with 24 different voltages delivered to customers. And it's not like London was populated by idiots or there weren't engineers. There were plenty of engineers. They had societies of electrical engineers, just like the Germans did and the Americans did.
+
+And commissions regularly said, this is insane. This is crazy. Appliance makers said, this is nuts. We can't sell the same appliances in this part of London that we sell in that part of London. The US has a standard, Germany has the standard, London has 10 frequencies and 24 voltages and 65 companies.
+
+So why? Well, since nobody read it but me, I'll tell you why. Because London was divided into a set of local governments that had, since the Middle Ages, authority over their domains. And the ideology was this is local. It goes to residences. It goes to factories. It's the domain of local government.
+
+That was the ideology. That's the statement about how that society should be organized. Local government should-- no maximization here-- local government should have control over local utilities. It took them a long time to get past that.
+
+And you say, wait, couldn't you just say that that's all fine, that's a nice ideology. But why don't we just get the electrical system right? It was the biggest, richest city in the world and it had a terrible electrical system because of this ideology. How could they possibly have gone with it?
+
+Well, you will see in the course of human event, as you read the paper and as you read other things, this kind of thing happens all the time. Beliefs about how things should be organized, beliefs about the right way for a community to organize are very strong. They don't change rapidly.
+
+We have a federal system. I will discuss later on how we regulate the electric power system in this country. And we do a lot of pretending that electrons don't cross state lines. But of course they do. But the ideology is that's a state function.
+
+And if you stand up and say, why in heaven's name-- I mean, we do have national standards. It's not like London. But if you stand up and say, this ought to be a federal function, you'd get shot. I mean, it's just not on the table.
+
+You can't have a technical debate about would it be good or bad because of the strength of the ideologies. Now I don't say that as an indictment of human society. You have to have beliefs about how the world should be organized. How do you function without them? Just like you have to have preferences about do you like tacos or burritos? I mean, you have to get through life.
+
+You have to have views of how the world should be organized and how people-- how the government should pursue certain goals. Those beliefs might want to occasionally brush up against facts, just like your preferences for ice cream might occasionally want to brush up against facts about cholesterol. But fundamentally, just like you need preferences and habits to get through the day, individuals in the political world need ideologies. So that's not a pejorative statement.
+
+The other point I want to make-- a difference between the market and the polis, the political world, is we generally assume in economics that individuals-- at some point in time, at least-- have relatively well-defined preferences. Well-defined preferences basically just means you're consistent. You don't behave in a way that that's obviously evidence of an unsound mind.
+
+Political judgment can be inconsistent in that sense. Let me just give you the simplest case of the Condorcet paradox, which a very bright Frenchman discovered in 1785. And it's a special case of a general rule that says-- for which Ken Arrow got a Nobel Prize-- and it says, basically, any regime without a dictator will behave inconsistently in roughly the following sense.
+
+Let me say I've got three individuals, three voters. This is what the slide says, but I'm going to unpack it a little bit, 1, 2, and 3. And there are three alternatives A, B, and C. So individual 1 prefers A to B and prefers B to C. Individual 2 prefers C-- that's her first choice-- C to A, and A to B. Individual 3 prefers B to C to A.
+
+OK. So suppose I have a vote between A and B. If I have a vote between A and B, 1 prefers A to B, 2 prefers A to B. So if I vote, A is preferred to B. Now let me do B versus C. 1 prefers B to C, 3 prefers B to C. So the vote tells me that B is preferred to C.
+
+Now let me do A and C. 2 prefers C to A, 3 prefers C to A. C is preferred to A. That is inconsistent behavior. If an individual behaved in that fashion, and said, I prefer chocolate to strawberry, I prefer strawberry to vanilla, but I prefer vanilla to chocolate, you'd say, I'm sorry, wait a minute. What? But in voting, that can happen all the time.
+
+And it also says, for instance, if you'd like to-- you'd really like to be the chairman of this committee because if you're the chairman of this committee, whoever you are, you can set the agenda to get the outcome you want. Suppose you're number 1. You want A. So what do you do?
+
+You first have a vote between B and C. B wins. Then you say, OK, let's try A and B-- A wins. Of course, if you're number 2, then what you'd like to do is start with the A/B vote-- A wins. And then do the A/C vote-- C wins.
+
+The kind of consistency that we expect when we talk about individual behavior is not a necessary feature of political behavior, of collective behavior. With a dictator, OK, sure. With a voting system-- you name your system, it is capable of that kind of inconsistency, even if it's not-- even if it's not voting. So let me do just-- have a couple more remarks before we get to the case.
+
+In the market system, the main process is competition. There may be other things going on, depending on the system. Is competition perfect, is it not perfect? Is there monopoly? But the central feature of a market system is competition.
+
+Competition happens in politics, but it's not the only process. Think about what we're going through now in the Republican primary process. There's a ton spent trying to influence. That happens in politics.
+
+It happens through TV ads. It also happens in parliaments and legislatures when people try to persuade other people. You try to persuade them to act in ways that benefit you, and you try to persuade them that, in fact, it benefits them to do so-- influence.
+
+Cooperation-- again, what are political parties all about? They're a group of people working together for a common end, typically, or a team, or a set of folks in a legislature trying to get something done. Groups act politically. You listen to-- you read descriptions of Japanese politics, and it's all about this faction and that faction. It's all about cooperating groups in the same party but pursuing different ends.
+
+And loyalty-- changing your position a lot in politics costs your friends, costs you influence. So a lot of what happens is Democrats hold their noses and vote for a Democrat they don't really like because she's a Democrat. Republicans do the same thing.
+
+We'll see that in the fall. I'm loyal, this is what I believe. It's not perfect, I'm going there. There's nothing like that in the marketplace. You may be loyal to Chevrolet even though it produces a lousy car, but this is not a common event.
+
+Loyalty in politics is more important, cooperation's more important, and influence Yeah, there's influence in the market-- of course, people advertise. But influence is sort of central to politics. There's not much influence in the wheat market. But there's a lot of influence in the Republican primary market.
+
+All right. So when you think about-- there's competition-- people try to win, people want to advance, and so on. But it's different.
+
+Finally, when you think about politics-- when you think about the market, the goals you think about are utility or wealth. And I just said wealth to save space, but you think of folks as self-interested in a particularly narrow way. In politics, of course, people pursue wealth-- of course.
+
+But they also pursue power and power is different. Power is sometimes-- sometimes is conferred by an office. You're president, the system has legitimacy, therefore you have power. Power means you can get others to act against their self-interest.
+
+You can get them to pay taxes, for instance. You can get them to put their lives on the line in a war. You have the ability to do a variety of things against-- to get people to do a variety of things against their self-interest, either for you or for your view of the public interest.
+
+So the important coin of the realm in politics-- and again, there's nothing quite like it in the market system-- is power-- is power. Power comes from influence, cooperation, loyalty, sometimes force, also comes from the legitimacy of the government you're in.
+
+You hear occasionally about people in legislatures being powerful not necessarily because they have some office that makes them powerful, but because they've managed to attract a set of followers because they have some ability to confer favors because, because, because.
+
+When I was in Washington, John Dingell, the Congressman from Michigan, was legendarily powerful. He was chairman of a committee. He was a Congressman, he was chairman of a committee. The committee had a lot of jurisdiction.
+
+Dingell also had a very smart staff. Dingell also knew everybody in town. Dingell would send letters to people in the executive branch called Dingellgrams that would consist of four pages of detailed questions written by his staff that needed to be answered within a week.
+
+You get a letter from like that from anybody else, you'd say, yeah, right. You got a letter like that from Dingell, you answered it. You put people on it and you answered it because Dingell had power-- Dingell had power. Hard to exactly describe why Dingell had power, but Dingell had power. He could move votes, he could build coalitions, he could operate. He had power.
+
+OK. We now have our introduction to political science and political philosophy. Let's do a little bit of Carter Coal. Some of the background-- which we didn't quite give you, but let me just do a little bit of that to get to it. This is the New Deal period, and Roosevelt is doing-- has gotten a Democratic Congress to pass a variety of laws that extend the power of government in an attempt to use the power of government in a variety of ways to deal with the Depression.
+
+Beginning in early 1935, the Supreme Court was striking these down regularly as unconstitutional. There was a fairly long list of things struck down. They'd struck down an earlier piece of legislation in the-- oh, I'm forgetting it now. It's one the-- the Schechter decision, Schechter Poultry, struck down basically an industry regulatory statute that, like the coal statute, the Bituminous Coal Conservation Act, was an attempt to raise prices and raise wages.
+
+The theory was we have ruinous competition, so we're going to deal with the Depression by getting prices up, which will get wages up, which will get people spending, which will get us out of this mess. Now it's not the best economics, but that was the deal he was trying to do.
+
+And this act which just focused on the coal industry, attempted to raise prices and wages, and was drafted to get around Schechter. So they'd thrown out an earlier law in the Schechter decision. So somebody said, all right. Let's write this so that under the standards of Schechter, its legal.
+
+It involved getting people to-- getting coal manufacturers to obey the law by imposing a tax on them, most of which was refunded if they followed the practices laid out in the act. It's Carter versus Carter Coal-- I love this. This guy's board of directors votes to pay the tax. The CEO sues them.
+
+This is an odd action. The law says you have to pay the tax. The board says, yeah, we'll pay the tax. The CEO says, the hell we will, and sues the board. Okey-doke.
+
+And as long as you have recognized, and as you've discussed last week, this case on its face is a technical exercise in legal analysis. This is how court decisions are always written.
+
+It's fascinating. Judges never say, well, there's this consideration and there's this consideration. And in the balance, I think I should go this way. They almost always say, there's this consideration and people have made this argument, but it's junk, so we should go this way.
+
+And those tend to be-- reflect differences in ideology, right? It's clear that Sutherland and Cardozo-- we'll talk briefly about Hughes-- but Sutherland and Cardozo have a different view of how the United States should be organized and how the government should be run.
+
+So let's do this. What are the two provisions at issue here? Anybody? Brendan, you've got a great sign. Other people will have a great sign, but I can read yours. What are the two provisions in the Bituminous Coal Act that the court is dealing with?
+
+AUDIENCE: First, like the Commerce Clause. Like whether the--
+
+RICHARD SCHMALENSEE: That's the issue in terms of constitutionality. But what are two things that the act did that are challenged here?
+
+AUDIENCE: First, can you just set a manipulation for price, like this is what the price has to be.
+
+RICHARD SCHMALENSEE: It set a price for coal. OK. Anything else? Scott, what else did it do?
+
+AUDIENCE: Put a tax on it.
+
+RICHARD SCHMALENSEE: Put a tax, yeah, yeah. But that was an enforcement mechanism. What did it do in terms of-- Sam?
+
+AUDIENCE: Wage for the workers?
+
+RICHARD SCHMALENSEE: Wage for the workers. So you've got a price control and a wage control provision. Let's talk about Sutherland. Those of you over here must know what Sutherland-- why did Sutherland say both of them were unconstitutional? Yeah?
+
+AUDIENCE: It says that the mining of coal is strictly production and it doesn't deal with commerce. It's just production is local, then there's no reason for the federal government to--
+
+RICHARD SCHMALENSEE: So the production is not commerce. Mining the coal, making the machine is not commerce. And the federal government has the power to regulate commerce. But it doesn't have the power to regulate production. Unless, of course, it's directly involved in commerce, and what did he say about that?
+
+Whatever the heck that means. It's indirect, it's not direct. OK. What did he say about the other provision? Rachel?
+
+AUDIENCE: He said that they were independent of each other. So that the first one was unconstitutional, that they could evaluate the second one separately?
+
+RICHARD SCHMALENSEE: It's an interesting opinion, right? They wrote the law. In the law, they said, invalidation of any part of this law will not affect the validity of the others. And Sutherland said, yeah, I know they said that, but they passed them both. So clearly, they're linked. So if one is bad, the other's bad, goodbye.
+
+That was interesting reasoning, right? That was one where you'd say, that's not technical. That's ideology. That's his statement about, I don't like that either. And since they're in the same bill-- you wonder, if they'd just gone on and done the second bill-- so group A, what's Sutherland saying about the proper role of government? Yeah?
+
+AUDIENCE: Basically a slippery slope. He said, every journey to a forbidden end begins with a first step. And if you're starting to remove power from the states, then it's easier to next step, basically, towards a more powerful [INAUDIBLE].
+
+RICHARD SCHMALENSEE: Yeah. So that's a great line, isn't it? The slippery slope, single step. That was one of his better lines. It is exactly-- "Every journey to a forbidden end begins with the first step." The forbidden end.
+
+So Sutherland's view is we got to be very strict about what we let the federal government do because once it starts expanding, we're toast. But what's the forbidden end that he worries about? Where does he not want to go? Anybody over here? Chad? You've made it black. I can read it. That's great. We'll get you a better one soon.
+
+AUDIENCE: So I think that he doesn't want like the federal government to turn it [INAUDIBLE]
+
+RICHARD SCHMALENSEE: OK. What's your definition of tyranny?
+
+AUDIENCE: Having full power and doing whatever they want without going back to the people.
+
+RICHARD SCHMALENSEE: OK. Suppose they still had elections-- they still had elections, but the government had a much broader role. Is that tyranny?
+
+AUDIENCE: It depends.
+
+RICHARD SCHMALENSEE: It depends. There's an interesting-- I'm reading this monstrously thick biography of Hamilton. And this was exactly the debate over the Constitution. And it was the debate over Hamilton's extending executive powers, that it's going to be a tyranny unless there's a check-- unless there's a check. You had a comment?
+
+AUDIENCE: Yeah. To a degree, you could argue that when the government would begin to impose the tyranny of the majority on a minority, that would be when they overstepped their bounds.
+
+RICHARD SCHMALENSEE: And Sutherland wouldn't agree, would he, that the Bill of Rights is a sufficient check on that. Sutherland would say, the Constitution says the federal government has limited powers. Once you go beyond them, where do you stop?
+
+I mean, the Bill of Rights stops-- stops you at some point, but there's a lot of ground between-- yeah. yeah?
+
+AUDIENCE: He also says he doesn't like think the states should just become main divisions. He think it's important that they have their own identity where they can determine what happens. So even if the federal government when a tyranny, wasn't taking a toll on the people, per se, if they undermine the state's own laws, then that's what he thinks is wrong.
+
+RICHARD SCHMALENSEE: So he's-- he's what we now call a Federalist, what back in the day they called a Republican. He believes the Constitution says the states should be strong, the states should have a lot of power. Maybe states could regulate wages if they wanted to, but the federal government can't, OK? So this is a limited government point of view.
+
+Was Sutherland right? Team A? Let's hear a stirring presentation from team A. Somebody revved up here? Oh come on. Matthew, you ready to go? Did you get yourself psyched up over the weekend? OK.
+
+AUDIENCE: Based on the results of the case, yes, he was right.
+
+RICHARD SCHMALENSEE: Why? Why is that the right view of the role of government? You could quote Howard Roark, right? Howard Roark would have liked this. Regulate wages? Anyway.
+
+AUDIENCE: Yeah. I mean, they were trying to regulate something that was not defined in the Constitution for that government to do, which was the production of the coal.
+
+RICHARD SCHMALENSEE: So put aside the legal argument. How about the philosophical or ideological argument? Why would you-- if you would-- agree with him absent the legal background?
+
+I mean, what's your view about how-- team A-- about how society should be organized and about how it should function? Because Sutherland has a view. Is that a view you share? If so, why is that a good view? I don't mean to push you. There we go. We'll go--
+
+AUDIENCE: An interesting analogy would be that we're being recorded here-- recorded here-- and it's, say, crossing national lines. And I can say something which might be censored in other countries. But this law-- I know it's an analogy and you should take it that way-- but what this law would want to do is censor me as opposed to censor the broadcast.
+
+Because they're trying to change production, not commerce. So what they're saying is, let us produce what we have. And then once it crosses state lines, if you want to regulate it at that point, that's commerce. But don't change production.
+
+RICHARD SCHMALENSEE: Could-- would you agree that it would be appropriate for the state of West Virginia to set wages for coal mines if the federal government can't? Because a Sutherland person-- a good team A person would say, yeah yeah, yeah. There's a constitutional reason why the feds shouldn't do it. But I'm not happy with the states doing it. Yeah?
+
+AUDIENCE: Because it's up to the free market to decide what the wages should be, not the government to step in and do it for the market.
+
+RICHARD SCHMALENSEE: So you think this is overruling individual choice in a way that's inappropriate? Yeah?
+
+AUDIENCE: Just in my opinion, I think in this case, it's saying that the central government-- or I guess, if you want to push it to state governments-- they're taking over too much power and they're basically dictating how a person should run their company by saying, OK, you have to sell it at this price. You have to give this amount of wages.
+
+This is like they're setting the guidelines and instructions on how to run your company, whereas in this-- where as Coal in this case, says, I don't want to follow these rules. I want to run my company how I run. How I want to run my company. I have a vision of how I want to sell coal, how I want to make the lifestyle for the workers here. And if it's my company, I should be able to do that.
+
+RICHARD SCHMALENSEE: Is that the right way for society to be organized? That's a statement about-- that's an ideological statement. That not only is that what he's saying, but that's the right thing to say because that's the right way to organize society. Let me go back to the back-- yeah?
+
+AUDIENCE: Yeah. I think on the philosophical side, like you want-- if the federal government puts a lot of regulations on wages and production, then you-- like Steve was just saying, you take away all the are entrepreneur like opportunities out of that situation so that it's just kind of filling the [INAUDIBLE].
+
+RICHARD SCHMALENSEE: So it's a bad way to organize society when there's too much government because you restrict, as Howard Roark would say, the entrepreneurial energies, the creativity, et cetera. And of course, the ability of Carter to squeeze his workers. Andreas?
+
+AUDIENCE: I was going to say, yeah, in general, he's thinking about markets and thinking about their-- they might not be fair, per se, in whatever division--
+
+RICHARD SCHMALENSEE: Wait a minute, you're on team A now. Hold on here.
+
+AUDIENCE: Yeah, that's what I was going to say--
+
+RICHARD SCHMALENSEE: OK.
+
+AUDIENCE: You hear a word based on the effort you put. And until they are the same, like as brutal as they are to person A, they're going to be to person B, [INAUDIBLE] prejudice.
+
+And like if you were-- I would trust that markets would be more consistent in that sense, more fair than government. So I think that it makes sense for-- to have a system where you have markets dictating the rules. And when you have externalities or problems, then you might think about state or a federal government stepping in.
+
+But in general, I would think that a nicer rule to have is look at the case where markets do not work. Well, then you would have to go to, wait, where do the markets not work, and that's another big upset. But what I'm saying is that markets I think are fair in that since.
+
+RICHARD SCHMALENSEE: Well, suppose I told you that I knew that all owners of coal miners were terrible racists. And that, in fact, just out of prejudice, they paid half as much to Black workers as the white workers?
+
+AUDIENCE: Then that would happen is probably you would have like another company that would come out with-- that would pay like better wages and could probably--
+
+RICHARD SCHMALENSEE: Could hire away good Black workers for cheap wages. OK. OK. So the market does have a tendency to be self-correcting. So let me move on. We'll get to the socialists over here in a minute.
+
+But we didn't assign Hughes, but did you notice Hughes said in dissent? Hughes was a Chief Justice. He had a-- yeah, Rory?
+
+AUDIENCE: I think also studies.
+
+RICHARD SCHMALENSEE: Yeah. He just said, how can you possibly staple these together when the terms of the law says they're not? That I don't get that, which is a pretty narrow technical argument. And that's why we're not going to talk about him. How about Cardozo? Casey?
+
+AUDIENCE: So he said in regards to the price fixing provision of the act that it was legal because of the Commerce Clause because the price of coal definitely affects interstate commerce. And then he didn't make a decision necessarily with regards to the other provision of the act that was [INAUDIBLE].
+
+RICHARD SCHMALENSEE: It's a little obscure. Did anybody see something that he said that related to the other provision as well? He didn't say it directly, you're right. But he did say-- yeah, anybody? The collectivists over here? No.
+
+He said-- he comes on to this distinction by Sutherland of direct and indirect effects. And he says, "The question remains whether it comes within that power is applied to interstate sales where interstate prices are directly or intimately affected. Mining and agriculture and manufacture are not interstate commerce, yet their relation may be such that for the protection of the one, there is need to regulate the other."
+
+And he goes on and says that all events direct and indirect, even if accepted as sufficient-- that is to say, even if you buy Sutherland's distinction-- must not be read too narrowly. In fact, I don't know how anybody can tell the difference or what the difference means. I read Sutherland several times and it made no sense to me.
+
+But so Cardozo, as you point out, it's very clear that, look, it's interstate commerce. We can fix prices of coal in interstate commerce for heaven's sakes. And then he kind of waffles around and says, you know, to say that wages don't affect prices directly-- kind of odd. You'd have to read it kind of narrowly.
+
+That may be the criterion-- Sutherland may have the criterion. But to say-- to treat directly, narrowly is inappropriate. So what is Cardozo's view of the proper role? Erica, what do you say? What does Cardozo think the government should be able to do?
+
+AUDIENCE: [INAUDIBLE]
+
+RICHARD SCHMALENSEE: So he says the government should be able to regulate it, more or less. Where is he versus Sutherland on, in general terms, the role of government-- or the role of the federal government? Let's start there. Rory?
+
+AUDIENCE: He seems to be able to do that, or should be allowed to regulate it because given the checks and balances you have in the system, while you may create a rule, the rule can have degrees. And so I think he talks about the fact that-- I think he said something along the lines of the law isn't stupid. It can work out when one thing is a direct action and one's an indirect action.
+
+RICHARD SCHMALENSEE: Yeah, I didn't get the word stupid, but-- but, yeah. Yeah, yeah, yeah. Well, that's his-- that's his, don't define them too narrowly. A survey of the cases shows that the words direct and indirect have been interpreted with suppleness of adaption and flexibility of meaning. The power is as broad as the need that evokes it.
+
+That's a nice little phrase, too. That kind of matches Sutherland's journey toward a forbidden end. The power is as broad as the need that evokes it. That's a statement-- thank you for reminding me of that lovely phrase-- that's a statement about the role of government. That's a statement about how society should be organized, right? What government should be able to do.
+
+It says, if you have a representative government-- which is kind of assumed here-- and the government says there is a need, then the government can act. I don't see a forbidden end here. I don't see a concern for the sovereignty of the states. I see a government concerned with meeting needs. Team B, you like that? Why is that good? Jackie?
+
+AUDIENCE: I think it makes sense for the government as the role of the protector, especially like during the era of the New Deal, when it's all about recovery, it makes sense that the government has more say in what's going on than it normally has because you can't follow the collective decisions of various individuals and varying practices to solve for something that's a national issue.
+
+I think that's one of the reasons why-- like in ancient Rome, people were willing to accept the role of the dictator during times of war because they learned from Athens democracy could be paralyzing.
+
+RICHARD SCHMALENSEE: Right.
+
+AUDIENCE: [INAUDIBLE]
+
+RICHARD SCHMALENSEE: So because they also-- they also accepted emperors in times of peace after a little while, but, hey-- but, hey. But that's an interesting example of sources of legitimacy, right? As long as the empire is growing and people are prosperous, do I really care that the Praetorian Guard put the emperor in his place, as long as things are going well? I'll play along.
+
+So you think, with Cardozo, that if a legitimately installed government finds a real need, the government should be able to deal with it. Yeah?
+
+AUDIENCE: I think this is more Smith's opinion, because it doesn't necessarily completely contradict with what Cardozo says. He says, particularly, if we think of the real policy as supposed to deal, or account for any externality that the free market usually would have considered. And Smith says the best representative would be the person who truly understands the local population, the climate, the geography of that specific area.
+
+So he what he says is there's nothing wrong with policy, but it's who should be the people making that decision. He basically-- he's against the government making a decision for all of the states, but he's not necessarily against some sort of policy for directing--
+
+RICHARD SCHMALENSEE: But suppose your real concern is terrible poverty in coal mining areas, which was pretty brutal, actually, in the '30s. And you say, well, here's what we're going to do. We're going to let West Virginia, a poor state, deal with poverty in West Virginia. And West Virginia doesn't have the money.
+
+It could try to fix wages-- maybe that would be the way for West Virginia to go forward. But maybe not. Maybe West Virginia has a government that isn't concerned with poverty in poor areas because it was put in place by the coal miners. Maybe that system broke down. I don't know. Rory?
+
+AUDIENCE: [INAUDIBLE] because if I only do it in West Virginia, then the companies move to somewhere else. And those prices get forced down. And you create a government there, and then only eventually do they move back to West Virginia.
+
+RICHARD SCHMALENSEE: So you worry about-- this is something the European Union worries about a lot. You worry about states-- or in the European case, countries-- racing to the bottom, subsidizing industries, regulating lightly in a way that attracts jobs, but takes them away from somebody else that's part of the same club.
+
+So you say the federal government should be able to act on problems like this because you'll get competition among the states that might be destructive, in essence. Anybody else from the left wing? Yeah? I'd
+
+AUDIENCE: Say, because the Depression was like a national problem, that you're going to need like a national lawmaker to bring it back up and corporations would cause also, something that affects a lot more-- prices will affect--
+
+RICHARD SCHMALENSEE: Lots of things.
+
+AUDIENCE: --areas all over and around it. So I guess I think the federal government should be able to--
+
+RICHARD SCHMALENSEE: So you would expand powers in times of depression, just like they have tended historically to be expanded in times of war, right? Lincoln expanded the power of the federal government enormously during the Civil War. Do they get rolled back?
+
+Once you've built the agency and put the law in place, do they roll back? Jessica?
+
+AUDIENCE: Yeah. I'm sitting here thinking-- because I'm a refugee from Cuba. So I'm definitely not a socialist. But when you opened with--
+
+RICHARD SCHMALENSEE: But you're on team B here. I mean, I'm sorry, we need-- we need you with-- OK.
+
+AUDIENCE: When you opened--
+
+RICHARD SCHMALENSEE: Support Cardozo. I was joking. You don't have to be socialist, over here.
+
+AUDIENCE: No, it's fine. But when you opened it, then I was like, wow, there are more correlations than I realized at first. And there's a joke that when Castro was asking for-- when Castro was asking for an economist, Che heard Communist. And that's why he signed up.
+
+So that being the opposite sort of implication, which is where markets took over and they were so bad for the people that they just needed a government to take over the markets. And that's when they turned to-- let's be-- let's give everything to this one guy. So it might also be a preemptive attack.
+
+RICHARD SCHMALENSEE: You're talking about Cuba before the revolution, and the Batista government was corrupt, was basically an oligarchy, and gave really nice parties in Havana and great nightlife in Havana for visiting Americans, and immense poverty for much of Cuba. And that government lost legitimacy.
+
+And you got central action, which brought a lot of literacy to the Cuban people, improved medical care, and, well, better than it was. And of course, now we're back to grinding poverty again now that the Soviet support is gone, but yeah.
+
+AUDIENCE: But the system of checks and balances, having that flexibility to like open-- to give government more power when it's needed and less when it's not needed it might be a preemptive strategy to make it radical in one direction.
+
+RICHARD SCHMALENSEE: Any other defense of Cardozo's view? The power-- let me read that one sentence again. The power is as broad as the need that evokes it. Yeah?
+
+AUDIENCE: My problem here is, one argument lies with wages and prices, the people who would be affected is the general public. And the argument is between the market and the policymakers, but the people who are going to be affected are the general public.
+
+So let's think if we had this debate, or we had this-- if we go back to the general public and see what's their opinion about this point. So once the public-- once people would just-- they want to have a regular prices and they want to have regular wages. They don't want like the price to depend on the decision of people who own these companies or people who run the market.
+
+RICHARD SCHMALENSEE: So most people, you think, would in fact-- if you put this to a vote, put the Constitution to one side-- if you put it to a vote and you said-- and by the way, there's another reading that's optional that gives you a sense of how really awful it was to be a coal miner in this period-- and beyond, perhaps.
+
+If you put it to a vote, and you said, these people have terrible jobs, they die young, they're dirt poor, things have gotten worse. How about we pay them a living wage and the cost of coal goes up a little bit? You think that would pass. And that that ought to be enough.
+
+The Constitution saying, maybe you can't do it, maybe you can-- the fact that you could get a vote on it, which you probably could. You probably could have in the Depression.
+
+There was a 1933 case called Appalachian Coals, an antitrust case that went to the same Supreme Court two years earlier. And Appalachian Coals was an attempt by a group of coal miners-- they colluded. They fixed the price. They set a minimum price of coal, which by all the antitrust law precedent up to that point, was just flat illegal. It was just no question about it. Go to jail-- well, yeah-- go to jail illegal.
+
+The Supreme Court managed to find it legal in one of the most bizarre opinions you'll ever read because it was the '30s. It was coal miners. These people were in terrible shape.
+
+So you would say, if it's such a terrible problem, there's clear popular will, just do it. Forget about the forbidden place, forget about the states. OK. We got that.
+
+Rebuttals? Team A, you've heard what they said. That the power is as broad as the need that evokes it. You're right in the middle. Remind me which team you're on? OK. You're a right-winger. All right.
+
+AUDIENCE: So I think that-- like so I personally probably agree with the statement that the coal miners were in horrible conditions, and by putting it to a vote, you could probably pass it. But I think that Sutherland's position is, yeah, maybe that's true. But in many Supreme Court cases, the basis of the decision is what has been said in the past.
+
+And so if you pass-- if you made this legal for this case, that in future cases, it would, like, baby steps to the government having full control over everything. So maybe like it would have been right in that case, but considering the big picture, you might be going down a road that you don't want to take any further.
+
+RICHARD SCHMALENSEE: And the reason you don't want to take it is because in 1793, the Constitution was ratified by a bunch of guys in breaches and powdered wigs.
+
+AUDIENCE: And because you don't want to disrespect the different corporations' own entrepreneurial creativity.
+
+RICHARD SCHMALENSEE: OK. And the answer from this side? We're a little unbalanced here. We've got a lot of market lovers not a lot of-- Rory, stand up for the poor suffering miners.
+
+AUDIENCE: Well, if you go back--
+
+RICHARD SCHMALENSEE: You've got a forbidden place argument there, a slippery slope, take one step, got to draw the line someplace, we're going to draw it here.
+
+AUDIENCE: From my very poor knowledge of the Constitution, I think it like has clauses on eminent domain. And you could argue that the government of certain times has the right to take property from you. And I think recently, they even took it from private people to give to other private people. And the Supreme Court said that was OK.
+
+RICHARD SCHMALENSEE: Things are different now than they were in 1935. Let me just say-- and, boy, was that controversial.
+
+AUDIENCE: Well, OK. So another example would be police laws are pretty tyrannical in their own way. But they're appropriate to the crime. And so in the same way, you could create tyrannical laws in business if they're appropriate to the crime. And that would come from eminent domain, which I think is from the early '90s.
+
+RICHARD SCHMALENSEE: Eminent domain is a provision-- I'm not sure it's in the federal-- well, I think it comes out of the common law. It's the ability of a government to take private property for public purpose and pay fair compensation-- there is a fair compensation requirement-- which is the only way you get power lines built, or railroads, or lots of other things. You have to assemble parcels. Yeah?
+
+AUDIENCE: I think-- sorry-- I'm like getting sick. Fundamentally, there is a trade-off between-- yeah, it's gross. I think I'm getting better, so I don't think I'm contagious anymore.
+
+RICHARD SCHMALENSEE: OK. Everybody now inhales. Go ahead-- sorry.
+
+AUDIENCE: There's always going to be a trade-off between freedom and equality. And I think that like all of this conversation is about where do you want to fall on that scale. Personally-- and I think Sutherland would agree-- that it's not OK to take away other people's freedoms to make them more equal.
+
+You know, it would be nice if in the whole world, everyone was fine and had the same amount of money, and it was immaterial because there was enough food and everyone had equal access. But that's not the case. But that doesn't mean that you get to go around taking away people's freedoms, and freedoms that have been guaranteed to them, just to make other people better off.
+
+RICHARD SCHMALENSEE: You point to two different conceptions of justice. There's justice in terms of fair outcomes and there's justice in terms of fair process. And they're fundamentally different notions.
+
+What you're saying is, I don't want to trample with a process that I think is fair in order to produce, say, more equality than that process would produce. Other people might say, well, I'm really concerned with inequality, say, in the United States today, where inequality has been growing by any measure. And yeah, maybe everything's competitive and everything's swell, but I don't like that outcome. So I'll fiddle with it with taxes.
+
+So I'm just saying there are these two different views. I'm not saying either one is necessarily right. You are more of a process person. You like a fair process. And the outcome of a fair process is fair.
+
+Others might say, take executive salaries. Nobody's forcing boards of directors to pay high salaries-- they're very high. Should we do something about it? Process people say no, outcome people say yes. Thank you. Other comments? Yeah?
+
+AUDIENCE: I think going back to what Rory said, while I sympathize with the plight of the miners, and I understand that it's difficult to be impoverished, especially in impoverished states, these tyrannical laws that TV is suggesting, are still just a short-term solution.
+
+And because the markets are self-correcting and because those participants are voluntary, in the end, in the long-term, maybe after a few generations, everything will solve itself without these tyrannical laws that are just inappropriate in this situation.
+
+RICHARD SCHMALENSEE: Minimum wage law is a tyrannical law. Okey-doke. I'm with you. I'm with you. I got it. No, no. You just play the role. Yeah.
+
+AUDIENCE: I'm kind of a right-winger in enemy territory over here. But I'd say, like, I don't like really the idea of the government ideologically being able to step on the toes of private enterprise, just the ideology of it. But I don't know if this is so much an opinion on a hindsight suggestion, but as far as the plight of the workers, I mean, they have just as much right to deny to work.
+
+And so if you're the federal government, I don't know how much union labor laws you can pass, but I think pro-union labor laws for coal miners, I think would be more effective way, if you wanted to do it without stepping on the toes in the Constitution or anything like that.
+
+RICHARD SCHMALENSEE: They, in fact, moved in that direction, the Wagner Act and the National Labor Relations Act I believe came after this legislation, which strengthened the ability of unions. The only thing-- since the left wing is being very timid over here-- the only thing I would say is these little towns in West Virginia, if you're a miner and the mine goes bust, and you own a home, it's worthless.
+
+So you got no job and you've got no assets to sell to move. Yeah, you could withhold your labor, but I mean, you don't have a lot of options. It's not a frictionless-- it's not a frictionless plane.
+
+I was involved in Washington in the Northern Spotted Owl debate around 1990. And the issue there-- one of the factors in that debate turned on people in small towns in Oregon who made their living cutting down trees. If you regulated logging sharply, they had worthless homes. And their skill was cutting down trees. And they got no place to go.
+
+So unless you did something to compensate them for that situation-- that was a case where it was a government regulation, but it could easily have been a market-- they are just stuck. And you get alcoholism, and child abuse, and spousal abuse, and all of the things that happen when communities break down.
+
+So it's not-- it's not pretty. I'm trying to help the left over here with a little tear-jerking argument. But-- yeah?
+
+AUDIENCE: I was going to say just for the left-wing side, I was going to say--
+
+RICHARD SCHMALENSEE: Please.
+
+AUDIENCE: --you get back into the argument that electricity does cross interstate lines. So Congress does have the power to regulate these laws, regardless of how ideologically you feel about it. Constitutionally, it should be allowed.
+
+RICHARD SCHMALENSEE: So you'd say that this whole direct/indirect thing that Sutherland was writing-- which he couldn't define other than to mush around for a couple of pages-- is really not a distinction. That if it affects-- it affects, and there's no direct/indirect sensible distinction, and wages affect prices of coal. Yeah?
+
+AUDIENCE: Sure. I'm like a fair believer in the markets, but I'm sitting on this side, so I figured I'd--
+
+RICHARD SCHMALENSEE: Do your job.
+
+AUDIENCE: Yeah. And it was pertaining to the-- to having a fair process. And I mean, I believe in a fair process, but it's always like the kind of recursive nature in the sense that you have to establish a fair playground in order for the outcome of a fair process to be fair.
+
+And perhaps in this case, when shit's hitting the fan, you really need to try and have the government interfere and create somewhat equality so that the process is then fair. And from then on, you can then say, well, you know, we've allowed everyone with the same-- we've tried to give everyone the same kind of benefits or the same opportunities. And from here, whoever takes it, well, is then a CEO and is making money and who doesn't isn't.
+
+RICHARD SCHMALENSEE: And what do the folks on this side say in response to that? Somebody who hasn't spoken. Max?
+
+AUDIENCE: I think it's a big issue with conflict of interest. In this situation, you'll have the government that may have been trying to act in the interest of workers, in labor rights, things of that nature. But that might not always be the case.
+
+We've been looking at the government as kind of this benevolent power that's trying to improve workers rights. But in the future, you'll have all these congressmen from different states, and legislation passed might not be in the interest of one state. It might be an interest to another state.
+
+And if there's a majority, you end up affecting one state in the interest of many others. And so it's where the-- if it doesn't affect interstate commerce-- and in this case, the argument was that production does not affect interstate commerce-- the federal government shouldn't have the power to regulate it because of that conflict of interest.
+
+RICHARD SCHMALENSEE: So you think we draw a simple, clear bright line. There's a lot of good stuff on the other side of that line, but there's a lot of bad stuff there. Sutherland's forbidden place is on that side.
+
+AUDIENCE: I think one of the comments was the necessary evil of an open market, where while the government has to accept that there are some evils, maybe unfair labor standards that they can't deal, with but to have a truly fair and open market, you need to let those evils exist and let the states deal with them if they think it's proper.
+
+RICHARD SCHMALENSEE: And if I were Sutherland, I might say, look, today it's the poor coal miners-- tomorrow, it's the poor investment bankers. And if we get votes in Congress-- God knows how-- that investment bankers' wages are too low and they need to be increased, and if you let me fix a wage for coal miners, I'll fix a weight for investment bankers tomorrow. And we know that's nuts and we need a wall.
+
+OK. Let me bring it to a close. Thank you all. This was good. You aired a lot of the main issues. Let me just tell you what happened.
+
+After this, Roosevelt found this string of defeats-- this was just another defeat for the New Deal-- very frustrating. And in 1937, he issued a bill which would have let him appoint more justices to the Supreme Court, the so-called court-packing bill.
+
+Two months later, the court reversed itself on the federal government's ability to regulate wages. One judge switched. Carter versus Carter Coal was a 5 to 4 decision. In 1937, they switched.
+
+This was referred to as the switch in time that saved nine-- nine justices in the Supreme Court-- clever language. The Court says, however, they'd taken the vote earlier. The bill died in any case in the Senate in July, which is why we still have nine justices on the Supreme Court.
+
+Who has won historically, Sutherland or Cardozo?
+
+AUDIENCE: Cardozo.
+
+RICHARD SCHMALENSEE: Cardozo. Do we have a federal minimum wage? Yes. Scott?
+
+AUDIENCE: I would say that's different than this case because the minimum wage law isn't just for coal.
+
+RICHARD SCHMALENSEE: That's true.
+
+AUDIENCE: --coal, it gives it every generation.
+
+RICHARD SCHMALENSEE: But the fundamental question of does the Commerce Clause stop-- that fundamental question-- stop the federal government from regulating things that occur inside states, like paying wages or setting safety conditions for this room, or lots of other things? Cardozo won.
+
+The view, at least until recently, was that if you could find an impact on interstate commerce, the federal government could regulate it. That's disputed now, and we have a Supreme Court that is tilting the other direction.
+
+But the run of decisions from the '30s forward has largely been in Cardozo's direction, at least as regards the Commerce Clause. But issues like this don't get settled permanently. The pendulum may swing. There's a lot more concern with states' rights, as I say. To actually say the federal government should just fix the electric system is to get laughed out of town. It's a state function, full stop.
+
+OK. I think we've covered what there was to cover. Questions, comments, reactions? Thank you. I'll see you all tomorrow, believe it or not.

@@ -1,0 +1,473 @@
+The following content is provided under a Creative Commons license. Your support will help MIT OpenCourseWare continue to offer high quality educational resources for free. To make a donation or view additional materials from hundreds of MIT courses, visit MIT OpenCourseWare at ocw.mit.edu.
+
+PROFESSOR: We have the privilege today of hearing from Professor Susan Silbey. Professor Silbey taught this class with Professor [? Dysart ?] and me in the last two years. And she is a sociologist, political scientist, anthropologist, head of the anthropology section. And obviously brings a different perspective to a number of these issues than I, a poor country economist do.
+
+And as I said last time, I showed you a little bit of the economics of energy demand, and then suggested at the end of the lecture, by talking about dollars on the sidewalk and what picked up in energy efficiency on the one hand, and people aggressively investing in energy efficiency on the other hand. Perhaps, the notion of tangible energy services wasn't quite rich enough to explain energy demand. And now, it will all be explained.
+
+SUSAN SILBEY: Well, Hello, it's rather a tall order. But we'll try. On Monday, Dick talked to you about the economics of energy demand. He talked about how demand for energy is derived from demand for products and services.
+
+And so we talk about it as mediated or derived demand, which requires some adjustments in the basic economic models. He also mentioned, I believe, that variations in derived demand depend upon fixed capital investments, as well as short and long run expectations. And that, because of those short and long run expectations, income and price elasticities are generally limited, unlike in other products and services, and thus, constraining the ability to maximize with efficient responses.
+
+And as Dick just mentioned again, people do not always maximize or optimize, let me say, their decisions. There's lots of possible efficiencies that are not pursued. And he mentioned, I believe, on Monday, the leaving those dollars on the sidewalk. Because of, perhaps, imperfect information, riskiness and uncertainty of future savings, could be a lot of other reasons too.
+
+And as he mentioned again, just now, people might be over investing. Now, let's think about what that means. To over invest in efficiency means, by economic models, you're not going to get a specific dollar return, the Prius being example. But there might be other reasons why people might do it.
+
+That is go for more efficiency than is defined economically. So why do we see economically non-optimal decisions? That's the $64,000 question. How do people act? Why do people do what they do?
+
+Why are they not, in the economic model, perfectly rational actors? Now, it is the mission of all of social science to try to describe human behavior. But the explanations that come from economics are not necessarily the same that come from the other social sciences. How many of you have had a course in economics before this one?
+
+Oh, lots of you, because it's required for this course. That's right. But I didn't see every hand. I was wondering how accurate this survey was going to be. How many of you have had a political science class? Let me see those hands. I can't see, one, two, three, four, five, six. How many-- oh did I miss some over here? Seven, eight.
+
+OK, how many have had a history class? Wow, that's pretty good. How many have had an anthropology class? Zero, right? Oh, one, two. And we don't offer sociology here for undergraduates, only really for graduate students.
+
+So this-- why do people do what they do? It turns out that each of the social sciences has a slightly different answer. And so by way of, well, for those of you who have had a political science class, how is it different from economics? Nobody wants-- Yeah, Andrew?
+
+AUDIENCE: No, equations and stuff like that.
+
+SUSAN SILBEY: Well, that turns out not to be true. It just isn't in the-- it's just not in the undergraduate class. There are plenty of equations. There are plenty of equations in sociology, too, not in anthropology. OK, so maybe I need to do this.
+
+So if you think of the social sciences as the study of human behavior, there is a division of labor. Now, this division of labor can be simply explained, but gets a little complicated when you go into detail. So we might think of the most basic and simplest social science as psychology, which we almost don't have anymore, which is about what goes on inside people's heads.
+
+Psychology being the study of a person, and explaining what this person does by looking inside. And we have various terms for talking about what's inside people's heads, their desires, we talk about the id, which is the desires you have, and the ego, which is the control, and the notion of a constraint on what you do.
+
+But then we have-- and I would put psychology by itself as different from the rest of the social sciences. And then we have sociology, which says that it is interested in what goes on between two or more persons, never a person alone. And the unit of analysis, or the subject, is the interaction. Not what's in here, but what is exchanged between the two of them.
+
+Now, some people would say that sociology is the queen, because everything follows from these interactions. Because the interactions can take various patterns. So they can be interactions about production and distribution. And then we get economics.
+
+If you can think about it as the interactions where some people are making things that other people are receiving. And it happens through this thing called the market. Which is sort of an invisible black box. Then we might have interactions that have to do with force, violence.
+
+And when that's concentrated, we call that the state who has a monopoly of force. And that's what political science studies. So here, we have four social sciences leaving the study of the circulation of the signs. This one's more complicated. That's probably why only two of you took the classes, because you don't understand what it is.
+
+But it's the circulation of the signs and symbols among people. And we call that culture. And that's what anthropology studies, the practices, and the production, and circulation of signs. So there you have the social sciences.
+
+Now, that's a very simple, easy distinction. But like most things in life, that's too simple. And in any place-- oh, I forgot, you're not supposed to. Oh, I forgot, I forgot, I forgot. No human power here.
+
+OK, so we have political science, which studies force and the state. But it overlaps with some sociology, which looks at the patterns of interactions. And there's something called political sociology. And then some of sociology studies production and distribution. And we call that economic sociology.
+
+And some of economics is now interested in how people's desires and behaviors affect their decision making. We call that behavioral economics. And that overlaps with psychology and anthropology. So you might just think about what is actually studied as having normal distributions that overlap. And depending-- lots of people are studying in these places, which we call interdisciplinary. And that's how you get a class like this.
+
+OK, so why do people, or how do people-- how do people deal with these questions about energy? How do they make the decisions? So what I'm going to try to do today, and this is my outline, is to go through some basic models, some very general models, about how people make decisions, the variations and the motives, we might say, or the vocabularies of motive.
+
+I'm going to look at some results from cognitive science and sociology of decision making, going to look at a few experiments. And then, maybe, we can end, if time permits, with some discussion of what happens when we focus on the individual and the ironies of popular psychology. I'm not sure we'll get there.
+
+In future classes, I know you are going to discuss decision making in firms and organizations, which are aggregates, patterned aggregates. Not one, but the pattern by which people are arranged in their activities. Those are organizations and firms. And we will look at states, or you will, in which we make public policies.
+
+So how do people make decisions? How do we make decisions about right and wrong? What kind of car to buy? Why are people buying that Prius even though they'll never recoup the savings? Why do we think that skinny women are beautiful now? And 100 years ago, we thought that heavy women were beautiful? Maybe none of you know that that was the case?
+
+AUDIENCE: Advertising.
+
+SUSAN SILBEY: OK, advertising. Why might that-- but what about the advertising? What did the advertising say? And was it advertising 100 years ago? Yeah.
+
+AUDIENCE: There's some predominately-- fashion advertising of the '50s and '60s switched from more volumptuous sexual icon to something really skinny. There's one person in particular named Twiggy who kind of became a very famous, very skinny fashion model. And everyhting from that kind of followed.
+
+SUSAN SILBEY: Yeah, but it was in the 19th century, before there was advertising. Yes, David.
+
+AUDIENCE: I'd say there's also a change in the signaling about what you're buying. If you go further back, there are depictions of larger, heavier people as being wealthy, which is something [INAUDIBLE]. Which was, you didn't have to work in fields. You had enough to eat. [INAUDIBLE].
+
+SUSAN SILBEY: That's right. And the signaling was, in the 19th century, to have heft on you meant you were wealthy enough to eat well. Because most people did not. So this is just a little exercise. And this is about culture.
+
+This is about the circulating signs, the signaling. So you've all got it. You got it. The culture encourages us to want certain things to think their beautiful. Is there anything else? None of you believe--
+
+AUDIENCE: Education as well.
+
+SUSAN SILBEY: You're all so socialized, it's fantastic.
+
+AUDIENCE: If we put that slide we had up on Monday that showed you that you're not going to make your money back from buying Prius, I think that would deter people from buying them. And similarly with things like obesity in the US, while being as skinny as Twiggy might not be healthy, generally, more fit would be more healthy due to the knowledge we have now we might not have had 100 years ago.
+
+SUSAN SILBEY: That's right, that's right. You've got it. But there's another set of reasons people often offer. I'll go back. Well, you know the other reasons? None of you have any other reasons why we do what we do? Yeah, is that Matthew?
+
+AUDIENCE: They saw other people doing the same thing. [INAUDIBLE]
+
+SUSAN SILBEY: These are all sociological and anthropological reasons. And I just love it, as being head of that department. But I usually get, not necessarily in this class, I think you've all learned quite well, many students tell me that they are programmed to want and do certain things. And I'm so surprised MIT students not coming up with that.
+
+Because when I teach sociology or anthropology class, this is the one that comes up first. None of you believe that, anymore? It's not in your DNA. Fantastic, I love it. I love it. I think it's great. Yeah?
+
+AUDIENCE: I mean, there's evolutionary psychologists who would argue that we're attracted to certain things based on reproductive purposes.
+
+AUDIENCE: But not a Prius.
+
+AUDIENCE: But not a Prius. [INAUDIBLE] the hourglass shape. Wider hips. [INAUDIBLE].
+
+SUSAN SILBEY: I should have worn something different. OK, all right, so what I want to offer before we go further is. Oh, did you have your hand up, David?
+
+AUDIENCE: I was going to say, you posed the question why did the appeal change from women that were rounder to women that were skinnier?
+
+SUSAN SILBEY: Except for their boobs.
+
+AUDIENCE: So DNA kind doesn't account for that, because your DNA didn't change over the course of 50 years or 100 years. But maybe it is hardcoded DNA is that [INAUDIBLE] or able to support themselves, raise children, or whatever. So maybe the ideal, what it is in the social, this woman is fit. So that means that she's more capable?
+
+SUSAN SILBEY: So maybe it's fit versus the specific definition of fit.
+
+AUDIENCE: Exactly, yeah so part of it comes from the DNA that you're seeking. But the social kind of defines what exactly--
+
+SUSAN SILBEY: That means. Well, that's a very interesting observation. Because there's lots of good social theory which suggests that about lots of concepts. That many-- all societies have some form of marriage system and family system for raising children. So you might say that there is a human system of reproduction in the social relations, in addition to the biological.
+
+But, so we say there is something called the institution of the family. But that varies from society to society. And that's the same kind-- the specificity varies. Though there could be something more general. And that's a good introduction to what I want to do for a few minutes.
+
+Is I want to suggest to you that there are a few general models of human action, which I sort of suggested in the differences among the social sciences. And we use different concepts and terminology to describe what is observable in human behavior. And these social science theories are not always, as Andrew suggested at the outset, quantified into equations.
+
+That economics begins and ends with those equations. The other social sciences haven't all developed into equations for most of what they do. But you will find it in some. In all of them, there'll be some. So I want to show you, for example, the equation you had on Monday.
+
+That's an economic one about derived demand. Well, here's one you all you may or may not know. This is one of my favorite ones. Because it's the field that I'm specialist in. And it says that formal social control is inversely related to informal social control.
+
+Social control is what we do to manage other people's behavior, or to manage behavior. And formal social control simply means government. And informal means everything that's not the government, that's not the legitimate use of force. And the more you have of informal norms, informal culture, the less you have of government. That's what this theory says. So one varies inversely.
+
+And sociologists have been trying to validate this theory for a long time. OK, theories without equations are an organization of words that are clearly defined, that try to make explicit what is often tacit, that is unspoken. And in social science, our task is to make explicit and describable through systematic observations, through transparent methods, what goes on in human behavior.
+
+So Andrew's first answer to me was more methodological than it was conceptual. And what I offered in my distinctions in the social science was more conceptual. The methods we use turn out to be almost the same across all the social sciences. We observe, we ask, we count. There are a variety of ways of doing that.
+
+OK, so how do people make decisions? Well, I tired to get from you two different notions, more cultural and institutional versus biological. But even if you look in the non-biological explanations, there are sort of patterns that come up in the explanations that people give.
+
+So one pattern is the psychological one, that people act on the basis of individual desires, wills. That sometimes, this individual desire and will is a product of their DNA, nature, they made their biography, their parenthood. This is what made them who there. There are different kinds of persons. So this is the biological, individualistic, personality, psychology, evolutionary biology. Man makes history.
+
+We have an Obama as president because he's a unique individual. We had George Washington because he was a special person. Oh, Gandhi was charismatic. These are the explanations that say there is something about the person that produces the behavior and the achievements.
+
+The alternative-- and so, OK, so they're unique and independent individuals. And society is merely the aggregate of these individuals. The philosophers and writers who exemplify this point of view include John Locke in the 17th century, John Stuart Mill in the 19th century, Friedrich Hayek and Milton Friedman in the 20th century.
+
+OK, when you come across these names, you can now put them in the box that says we can explain what happens in the world, including the production and distribution of energy by looking at individual behavior. And that's what we're going to do today.
+
+But there's a second answer, or a second kind theory, which many of you gave me to start with, which is that the motives and the intentions of individuals are located in a larger circulation, whether it's advertising or education, that people anticipate certain things to happen. That they locate themselves in a sequence. And so that it's not the individual, but it's what the individual has learned over time, and the experiences that they have had, and what the philosopher John Dewey called situated action.
+
+That an action doesn't mean the same in one place as in another. And so therefore, the action you make or do isn't the same in one place or another. And if you take account of that variation, then it isn't the individual causation. But it's also the situation. And the authors who say these kinds of things include Pierre Bourdieu. And he calls this situation, or these culturally learned behaviors, habits, or the habitus.
+
+And Adam Smith, in his Theory of Moral Sentiments, which he wrote before he wrote The Wealth of Nations in 1776, do you all know The Wealth of Nations, 1776, OK, and you all know about the invisible hand. OK, yes, no? Well, look it up on Wikipedia.
+
+But what is important about that theory, which most people take as obvious, because the foundation of the market is that before he wrote The Wealth of Nations he, wrote The Theory of Moral Sentiments. And in that book, what Adam Smith said is that the person all people will try to be good. They will be limited in their desires, which is what gets translated into demand in the market by the expectation of what their neighbors will think of them.
+
+That doesn't hold very true in the modern world, except if you go to what some of you start at the beginning, advertising, and signaling, and education. So what we desire, Adam Smith said, will be constrained by what we think our neighbors will think of us. And that's the framework in which our desires or demands can shape a market.
+
+So in this second bifurcated notion, it's not that history makes the man. It's that man makes history. No, no, I said it backwards. Erase that. The second theory, history makes the man.
+
+So Barack Obama can get elected in 2008. He could not have gotten elected president in 1980, or 1990, or 2000. Conditions had to be such, is how the story would go. Or that George Washington would have been a farmer, and he would have spent his whole life as a farmer, were it not for the American Revolution, which he did not participate in until the war started.
+
+He was not one of the signers of the Declaration of Independence. They needed someone to be a general. Without that need, he wouldn't have been the president. And so this second model is that personhood, identity, will, the desires are produced and are contingent on the opportunities that exist, and the constraints. And the authors who write from this perspective are Max Weber, Emile [? Durkheim ?] Karl Polanyi, Karl Marx, Jean-Jacques Rousseau.
+
+So when you encounter those names, you can put them as antithesis to Locke, Mill, Hayek, and Friedman. OK, now, I'll put in a little amendment that's not in the notes. That for the most part, Americans, when you survey them and ask them why things happen as they do, they give you the first answer.
+
+Because people are special. That's why what they have. Or that's why things turn out the way they are. We are, in the United States, a nation of individualists. We rarely see the patterns of aggregation.
+
+So now, one more, one more how do people make decisions. There's one more model that I'd like to present to you, that's not a binary model. These have been binaries, right? Two different views, individual, biological, collective and culture. The sociologist Max Weber offered us a more complex notion.
+
+He suggested that action is social whenever we take account of somebody else, just like Adam Smith's notion of the moral person. We care what our neighbors think. Now, Weber didn't say we care what our neighbors think. He merely said that he will define action as social when we take account of another, when there's more than one.
+
+And we anticipate, or we care, or we want to say something about or imagine an other in relationship to ourselves. That's what makes it social. So whenever you hear the word "social," which is bandied about something terrible, it always means an interaction of two or more.
+
+And in his grand theory, which I'll try to do in five minutes, this is 1,000 pages, OK, you're getting it in five minutes, there are four ways in which we can take account of other people. The first one is what he called rational action. And here, we have exactly the economic model.
+
+That people act and make decisions on the basis of reasoning, of means and ends reasoning. That they take account of the objects in the external world, the situations. They mobilize logic. And they try to figure out how to get from here to there. They maximize their ends by figuring out appropriate means. This is our economic rational actor model. And he called that formal rational action.
+
+But he said there was another kind of rationality, in which we were oriented not to maximizing means ends efficiencies, but because there was something we thought was good, an absolute value. This could be a conscious belief in a God, who tells us what to do. It could be some ethical value, such as do unto others as you would have them do unto you.
+
+It could be aesthetic to maximize beauty. It could be to maximize equality, as communism was originally imagined by Karl Marx. So that behavior is organized to maximize or to fulfill that absolute value. It's not an efficiency or logical requirement of means and ends.
+
+And the third kind of behavior-- so this is virtue. Could be you want to be environmentally sustainable, whether it's efficient or not. OK, that's an alternative to efficiency. The third kind of behavior he described was ones which come from our feelings, from our emotions.
+
+We do things because it feels good. Now, you all know what that's like you do a lot of that we all do. That's why people take drugs, drink alcohol, have sex, because it feels good. It's also the basis on which we sometimes convey honor to people. We say some people are better than others. Being seen and celebrity, this whole TV and internet world of being there, people are getting some sort of emotional satisfaction.
+
+And the fourth kind of social action is simply tradition and habit. We act because we have always done it this way. And that, sometimes, is a little bit of mimicry, but mimicry of the past, rather than necessarily something co-present. And there are lots of societies, lots of groups. And this institution, MIT, is frequently accused of being stuck in its ways.
+
+So when we were accredited a few years ago, or re-accredited, the re-accreditation committee said that MIT had just about come into the 20th century in terms of the information systems in which it managed. We had hardly made it to the end of the 20th century, because we don't change things too easily. OK, habit, it's comfortable.
+
+So now, like those overlapping disciplines, those overlapping disciplines, all these concepts have fuzzy borders. So it's rare that you'll ever find an empirically observable action social action that's just one kind, that's just rational action, or that's just affect without habit, or something else. And that brings us to exactly where Dick left off on Monday.
+
+What else, besides rational action, besides economic reasoning might be affecting demand for energy? OK, so these are the basic models of-- and habit, or past, is what those are historic investments are that we can't change very much. That we have suburbs and automobiles.
+
+That we have habituated preferences in our political system and the individualism that makes it very hard for us to change our energy production and consumption systems. So what I want-- this is the big picture, and now, let's look at some specific research that wants to do something with this. But I would like you to take away from this the notion that any human action involves usually a combination of these forms of action. These are the categories which we mix and match to describe it.
+
+So cognitive science and the sociology of decisions, these days there's been a recent marriage. And it may, in the end, end up being a marriage of our brain structure and our behavior. So what used to be psychology, asking people why they do what they do, watching them in experiments, treating them just like rats in experiments, we now look inside their brains with PET scans, fMRIs.
+
+The neuroscientists look at the brains, the architecture of our brains, the arrangement of the pieces, that's about all they can do, so far. And look at the physical matter inside our skulls, where the psychologist used to study, we might say, the mind. Brain scientists or neuroscientists study the brain. And the cognitive scientists go, try to put the two together.
+
+Is that fair? Do we have any BCS majors here? Not a one? Not one brain and cognitive science major. Interesting, I would have thought you'd all want to become brain scientists. That's the future, folks.
+
+Well, do the brain and cognitive science of energy decisions. There you go, there's a dissertation for you. OK, so some of this marriage of mind and brain has produced some interesting results. So that what people used to think was hard wired, the neuroscientists have showed us is quite malleable.
+
+That in fact, oh, I think up until about the 1980s, doctors and scientists would say oh, well, you might be able to regenerate muscles if you've had an accident or damaged it. But the brain was what it was and it never changed. Well, we know that's not true.
+
+Used to think it was fixed and formed. But now, we know that the neurons are always in the making. And those circuits are changing. The neurons and networks, we have learned, develop in response to experience to the inputs. So that they shape the capacity to act.
+
+So that it's not just how you're born. But the experiences that you have had transform your mental capacities. Well, you all know that's true. You wouldn't have gotten to MIT otherwise. Unless you all think there was all these equations were in there to start with and they just came out recently.
+
+That you've learned. You've learned how to defer gratification. That's what most successful college students, to get here, you learned. And some people don't have the experiences which allow that. What if you're a child who's never had gratification of any bodily or emotional function? Well then delaying it is not something you could learn that will be rewarded.
+
+You understand what I'm saying? So if you've never had a full belly, then when food is put in front of you, you're not necessarily going to wait to eat it until you're told to eat it. It's as simple as that. And the same thing with cognitive activities. So there's lots of work now going on that is closing the gap between what is observable between the inner states and the external aspects of culture.
+
+So in this work, in this scholarship, scholars, researchers, have started to distinguish a fundamental difference between what they call automatic cognition and deliberate cognition. Automatic cognition is rapid, effortless, unintentional thoughts, things which are those habits, those things we do without thinking. And it allows quick processing of information without extended thought or figuring out what to do.
+
+Deliberate cognition is slow, considered, measured. Where we can reject or accept alternatives. We can consider various actions to take. Where we might actively search for solutions, for characteristics, for connections, for seeing if we can find relationships. And where we don't assume, but we solve, you might say.
+
+So examples of automatic cognition are as the example, male and female. We look at somebody and we categorize them like that. When we can't categorize them like that, we start to think. And we frequently, then, refer to that person as not usual or not normal.
+
+Age, race, in the United States is a fundamental automatic cognition. Turns out not to be that in all cultures. In many cultures, it's much more varied. It's not a binary, like it is in the United States. So our habits are examples of automatic cognition.
+
+It's outside of our thinking process. It's outside of consciousness. And it happens more often when we're under stress. The experiments put people in different conditions. And how quickly they respond when they're under stress is measurable.
+
+In deliberate cognition, what has been shown is that people deliberate and they think about alternatives when there has been a disruption of those habits, a disruption of non-thinking-- of acting without thought. OK, so I want to give you some empirical examples of how this works.
+
+The first example is by Carol Heimer at Northwestern University, where she did a study of neonatal care in several hospitals. She noticed in these wards for preemie babies that routines the hospital had established were used to manage what was a very uncertain medical situation, very uncertain for the families, very stressful. And that there was a very marked hierarchy among the staff.
+
+The aides at the bottom, the doctors at the top, the surgical nurses higher up, others lower down. And along with this hierarchy of persons, Heimer also identified a continuum of routines. At one end of her spectrum, there were tasks which were highly routinized.
+
+That there was almost never any variation for how it was done. And then there were other tasks which varied a lot from patient to patient and family to family. She noticed that when there was either very, very routinized or very, very unroutinized, that there was deliberate cognition. There was a great deal of talk, examination, consideration of alternatives.
+
+But where there was moderate routinization, that things were automatic. According to Heimer the overroutinization triggers deliberate cognition, because people are so overwhelmed and overloaded with routines that the things they have to do routinely become a burden. They become noise, rather than a signal. And they cease to focus attention on the child or on the situation.
+
+Then because there's so many things that need to be done, and need to be done in a specified way, they have to think about how to do it. In underroutinized context, they have to figure out what to do when there are no routines. And they have to be inductive. Is this like one we saw before? Is this like the four other cases last week?
+
+So that lots and lots of routine, they have to think about how to manage. No routine, they have to think. But simple, not high volume of routines, and they act without thought. So that might be taking blood. It might be putting in the injection. But if they have to do 10 of those things at once, then they will think about it. So that's one example.
+
+In a second study about residents in an Argentinean shanty town, two scholars, Auyero and Swistun studied the ways in which people handled uncertainty in risk and especially the conditions under which-- the conditions which sustained uncertainty and sometimes led to assessments of environmental pollutants.
+
+So they saw that sometimes, people paid attention to the pollutants around them. And sometimes, they didn't. And they wanted to identify those different situations. And the evidence they collected suggested that if the polluters pollute without disrupting the habits of the community, the community paid no attention to the pollution.
+
+But if the pollution disrupted habits, such as getting children to school, or preparing meals, or being able to ride on the bus, then the population mobilized. The routines encouraged people to adopt what we are calling automatic pilot, or automatic cognition, to their surroundings.
+
+But when routines are disrupted, people began to explore and try to figure out what it was in the environment that was disrupting it. So in these cases, familiar routines combined with automatic cognition to restrict the attention to the pollution. So that's a second example.
+
+Third example, in a study of political commitments, Martin and Desmond found that when citizens identify themselves as having strong political commitments along a continuum from liberal to conservative, so if they were strong at one end or the other of the political spectrum, they spent less time evaluating the evidence about politics. The ideological commitments organized the world for them. And it made it effortless and efficient to know how to interpret and how to make decisions.
+
+In a study of social movements, the scholars found that when movement leaders use everyday metaphors, that is ordinary language, in particular ways, they generate more or less support. So for example, the right to life movement came up, that is an anti-abortion movement, came up with a simple phrase, right to life. And that had more salience than did choice for those who were pro-abortion.
+
+And so the metaphors aligned with a whole set of other metaphors. So that people thought more or less about the process of abortion. OK, the same thing with faith-based labor movements.
+
+In the 19th century, Mark Steinberg has written about the ways in which the cotton workers in England were able to mobilize and form a union because, this is in the 1830s to '50s, because they used the already existing language of abolition against slavery. And they identified their work in the cotton mills as slavery. And by associating themselves with slavery, people didn't pay as much attention to the differences and were more likely to support and join the unions.
+
+More recent research along this issue of the metaphors, the signaling, this is about signaling, the metaphors that affect deliberate or automatic cognition, a study of the Serbo-Croatian conflict in the 1990s showed that the associations with the past that people used affected the level of conflict.
+
+Particular words and metaphors generated associations with the past. So that people viewed the current conflict as a continuation of hundreds of years of conflict, rather than assess the current conflict within current conditions. So simple metaphors associations encourage people to think deliberately or to act automatically.
+
+So finally, the last example of these differences between automatic and deliberate cognition comes from work on narrative. So we've gone, I just want you to see, from routines, to disruptive habits, to language organizing social movements and wars. And now we have, from metaphors, we go to narratives.
+
+So researchers have not only looked at these routines, metaphors, analogies, for triggering automatic rather than deliberate cognition, but also at the structure, how the metaphors are organized into a story at narrative and storytelling. Some of the very best research on this has been done in courtrooms.
+
+So that if witnesses tell a story and they leave out little links in the sequence of action, the audience, the jurors, and the judges are more likely to fill in those ellipses with conventional action. That is what usually is done in those circumstances. And it is most often to the disadvantage of a defendant, because the defendant is arguing that this was not routine. But this was unusual.
+
+So witnessing, in criminal courts, makes a difference how complete your narrative is. If it is not, then people automatically fill in with routinized information. In my own work, I have shown that when a story describes or fails to describe-- let me put it this way, when a story fails to describe how power is organized, people are less likely to resist the power of that organization or person.
+
+But when a story reveals who holds power and why, then people are more likely to resist authority. So a little bit of, perhaps, what was happening last spring in the Middle East. As stories circulated on the internet about what was happening in different places, in villages and towns in Libya and in Egypt, those stories spread. And they told stories, they were stories, about what the government was doing to whom. And it helped to mobilize the people.
+
+So that's what cognitive science is telling us about how people make deliberate or automatic decisions. We have some experimental data that helps us to understand how decisions can be made specifically about energy consumption. So this was the articles you read, I think, the experiments? Right, Goldstein, Cialdini, and Grisk-- I can't say that. So what did they want to show? What did they want to show? Yeah, Veronica?
+
+AUDIENCE: They wanted to change the wording that they had to say your fellow guests are doing it. Help your fellow guests.
+
+SUSAN SILBEY: Why? Why did they want to do that?
+
+AUDIENCE: Because subliminally, that social pressure would motivate them more to do it. And there's examples given in the other article about how when people gave money to the guy playing guitar or whatever, other people behind the guy who gave--
+
+SUSAN SILBEY: So those are two-- those are two different norms. Yes, those are-- looking for norms are observed patterns of action. That's what a norm is. They're looking to see if they can find the pattern in human action.
+
+AUDIENCE: Yes, Vivian. So they did find a pattern. And I think they just want to show that this tactic isn't being used. Whereas, because this is something that we can use to help people started making environmentally conscious decisions, and it's not being used.
+
+SUSAN SILBEY: I don't want to be personally critical. But they don't want to show anything. They want to discover something. OK, let's talk about it in a way that is fair to them. They have an aspiration to understand.
+
+They want to understand the basis upon which decisions about energy use can be affected. OK, they want to understand the basis of decision making. OK, and the assumption they start with, the hypothesis is that people mimic. They do what other people do.
+
+And they care about whether they are a member of one group or another. That seems they have an identity. So let's walk through it. All right, they're trying to use, as I have on the screen, social norms, that's patterns, to motivate conservation. Is it possible?
+
+So the question was, the first one, would people not put their towels for laundry but would reuse their towels? And the standard message was, help save the environment. But the message that they offered was slightly different. They said, you should do this, because everybody else is doing it.
+
+Does that appeal to you? Have you seen these signs? You've never seen these signs in hotels?
+
+AUDIENCE: I've definitely seen the signs, more in Europe than over America. But it's also not only that other people are doing it. I think in this case, it speaks to anti-environmental movement that says one towel hanging is not going to make a difference. So a lot of people, their motivation is brought down, because they're saying, I'm going through all this trouble. Nobody is around me. I'm not making a difference.
+
+Why am I going to keep the self-sacrifice? So by telling them, it's not only the bandwagon idea. But it's also the-- look we're actually doing it in Europe, and it's actually going to go a long way.
+
+SUSAN SILBEY: So trying to say that each effort aggregates to a larger effort.
+
+AUDIENCE: [INAUDIBLE].
+
+SUSAN SILBEY: And that other people are doing it, too. So it's not just one person's effort, right? OK, so they got 75% more reuse by simply saying join your fellow guests. So then they tried to specify, is it just all guests? Or could they get an even greater result?
+
+So in our Weberian concepts, this is sort of a little bit of be like others. Enjoy your group membership. But it's hardly efficiency, right? It's not a calculation of what would be rational action.
+
+So then they first ask the people who they identify with. Do you identify with the people who are male or female, or are citizens of the state, or are you an environmentally concerned person, with other hotel guests, or with guests in this room? I have to confess I find this an extraordinary result.
+
+As you see, in the bottom set, those with who identified with the standard environmental message had less reuse than those where they said people in this room didn't reuse their towels. They did. I'm sorry, did reuse their towels. So you should be like people in this room. I think it's bizarre. Yes.
+
+AUDIENCE: Well, it's the proximity. You don't want to be seen as that one guy who's not doing his part to contribute.
+
+SUSAN SILBEY: You think it's a smaller group. And therefore, you'll be more outstanding.
+
+AUDIENCE: The effect of you being seen as a pariah is more immediate, because the small room.
+
+SUSAN SILBEY: But you don't know those people.
+
+AUDIENCE: So there's no one in this room.
+
+SUSAN SILBEY: He's alone. He's alone. It's a hotel room, not a dormitory.
+
+AUDIENCE: I can't really articulate. I still think proximity has to do something with it, the fact that it was this room.
+
+SUSAN SILBEY: Yeah, obviously has something, but I find it unpersuasive. Oh, sorry.
+
+AUDIENCE: [INAUDIBLE] identify themselves with the select group of people who are more likely to be in that room.
+
+SUSAN SILBEY: I think that's right. I think that this room-- and maybe that's what he was getting at. That's a smaller group of people. I'm more like a person who would be in this room than I am like 350 million citizens or half of them, male or female. Or even the number of environmentally concerned citizen. So people in this room is a smaller group. And I'm more like those who stay in this kind of hotel room. Yes, Matthew.
+
+AUDIENCE: Is it saying that the people who identify themselves as environmentally concerned are least likely to recycle the towels?
+
+SUSAN SILBEY: Than when they offered the other identities to choose.
+
+AUDIENCE: I think that's the most surprising on there.
+
+PROFESSOR: But the message was presumably be environmentally responsible, recycle, as opposed to recycle like people who stayed in the room.
+
+AUDIENCE: So it's not what they identify with. It's what they're given.
+
+SUSAN SILBEY: It's the message. Oh, it's the message, which message got a boost.
+
+PROFESSOR: The standard environmental message said help save the environment, use your towels.
+
+SUSAN SILBEY: And this one, and for people who-- OK, but the other one was be like people who were in this room.
+
+AUDIENCE: I think you can attribute the discrepancy between the standard environmental message and the same room. And the whole-- I think the one to the extreme right appeals to something that's more common among humans, just the need or the desire to appear more fit, or more civilized, or more respectable, even when nobody's watching, as opposed to just standard environmental message that only a small subset of the public even, I guess, care about, acknowledge.
+
+SUSAN SILBEY: Charlotte?
+
+AUDIENCE: Could also be like what you were talking about earlier, with what you register and what you just kind of see something that's there all the time. So standard environmental messages are everywhere. So it's possible people just don't really register it. But if you see a message that says something different than you're used to seeing, you may just notice it more and respond to it because of that.
+
+SUSAN SILBEY: Possible, disrupted the routine. Rachel?
+
+AUDIENCE: The other thing, too, is the argument about people that have been in that room doing the same thing, I think Cialdini, in his book, or whatever, he talks about people being more likely to do something if someone's watching them. And the fact that they're saying, oh, people who've stayed in this room have been doing it, implies the hotel is watching which guests are.
+
+SUSAN SILBEY: Yes, that implies they know. Very good, so maybe that suggested surveillance. There was another hand up over here? Yeah.
+
+AUDIENCE: I was going metnion, all these were good points. But also people like to be a part of a team. That kind of makes you feel part of a group that's being environmentally conscious.
+
+SUSAN SILBEY: Yeah, I think that's what Ovema and Everson was saying, too. You're all on the same. This business of possibly their surveillance is a new insight. Yes, Andrew?
+
+AUDIENCE: [INAUDIBLE].
+
+SUSAN SILBEY: And so why would you get more reuse of the towels by saying this room?
+
+AUDIENCE: [INAUDIBLE].
+
+SUSAN SILBEY: We don't have a lot of evidence about that is the problem. That's the individualist fallacy, that there are always people who want to be different. But then there's people who want to be different. It's a group who wants to be different. This search for the unique is the problem.
+
+PROFESSOR: Back in the '60s, there were a lot of rebels all together.
+
+SUSAN SILBEY: All wanting to be different. That's the problem. It's social. It's not individual. That's the issue. Yes, Scott?
+
+AUDIENCE: Somebody pointed out earlier that someone might not want to reuse a towel. Because they think that I'm only one person, what's this going to do? But I think if you have the info that, oh, well, everyone in this room is using a towel. So that you think, oh, if I'm the one person who's not doing it, then, I am making a difference, but it's in a bad way. So if you contribute to it, then you're helping make a difference. Whereas, it's not you're just thinking, oh, well, one person what's that going to do?
+
+SUSAN SILBEY: All right, so what other norms or incentives might we use for energy efficient-- Oh, let me see. Let's take the takeaway message and then consider some alternative. So what this cognitive science research and the experimental research shows is that people do follow the norms of others with whom they feel associated, even if that association doesn't seem, on the outside, terribly meaningful as some group identity.
+
+And in some circumstances, individuals follow norms of a meaningless and unimportant identity rather than a meaningful and important one if the connection is based on an uncommon characteristic, which is maybe helps Andrew's point a little bit, that this is a smaller group, it's an uncommon characteristic. And it's the same as Jacob, and Ovema, and Everson. So I can identify with this group.
+
+Now, maybe if they had some other sign, they could have done better. Have you got any suggestions of what other norms they might try to invoke? How might you get people, if not only in towel reuse? How can we get people? Yes, Sid.
+
+AUDIENCE: Give them a financial statistic, nothing coming to me. If I have like a number or something, telling me, how much choice A, why choice is better than choice B.
+
+SUSAN SILBEY: Tell them how much?
+
+AUDIENCE: Well, I tell them how much they're saving.
+
+SUSAN SILBEY: Well, now that's interesting. Because there was a story in the news. Remember the story about there was a story about how the hotels were only doing this to save money, that they weren't, in fact, saving energy. And that had a negative effect. So it has to be--
+
+AUDIENCE: I don't mean in this, hotel instance, I mean when you're just talking about energy saving. if you can find that discrepancy and you can show that choice A is energy efficient and is saving you--
+
+SUSAN SILBEY: So you're arguing that if you put it into dollars, people will behave.
+
+AUDIENCE: I mean, for me, a dollar amount says a lot more than, perhaps, trying to I guess group me into one group or the other.
+
+SUSAN SILBEY: That sign? It's not too clear. But it's how many miles per gallon you'll get is the car stickers. So if you by one car, in city driving, you'll get 18 miles per gallon. But on the other car, you'll get 23 miles per gallon. Will you buy the car with the 23 and the 30? Is that kind of number helpful?
+
+AUDIENCE: Sure.
+
+AUDIENCE: To kind of bounce off waht he's saying, it's a number, but it doesn't really tell you dollars and cents. Oh, bigger number is better.
+
+SUSAN SILBEY: So you think that should say you will save $500 this year on your gasoline, on an average of 10,000 miles a year or something like that? Yeah?
+
+AUDIENCE: And I think it's important that you talking about their savings. But that kind of sounds like the stuff that you were saying before, how people act, they might have-- habitually or traditionally and perhaps the willingness to change their habits is not as great as the willingness to--
+
+SUSAN SILBEY: And so why do people buy Priuses? Yeah, Matt.
+
+AUDIENCE: I think it's talks to the point about style and a need for individuality. That people have Priuses because they think that they're environmentally friendly, but they also want--
+
+SUSAN SILBEY: Everybody else to think they are. So it's not individuality. Let's just get the terminology clear, because it's-- because we talk about individuals a lot. People buy Priuses. And what you're trying to say is because they want to be seen to be environmentally? No?
+
+AUDIENCE: Yeah, but in a way that makes them look effortless like they're doing it.
+
+SUSAN SILBEY: Because it's just routine. I've made a commitment. I'm a good person. Jessica, and then Charles.
+
+AUDIENCE: It's got to be coupled with you go in, and you see something that's got off the charts mileage, MPG mileage, and the sales person there's going to tell you this is the best investment I'm going to make. I think if they actually ran the numbers, like you did in class, in front of them, and they told them it's never going to break even, never pay for itself. I think they might not want to still be seen [INAUDIBLE].
+
+SUSAN SILBEY: I didn't think the argument was, about the Prius, that it wouldn't be environmentally good. They just never get the savings back. But so you two are not disagreeing. You're offering two different motivations.
+
+AUDIENCE: I just think their own economical well-being would overpower their want to be environmental.
+
+SUSAN SILBEY: Well, that's a hypothesis. That's a hypothesis which is challenged by all the Priuses. Oh, you're saying they don't know. They don't know.
+
+PROFESSOR: There's also a question, there are hybrids available in other cars that aren't distinctly styled. You could buy hybrids and various other vehicles, as opposed to the Prius being a hybrid Corolla, looks like a Corolla, it's distinctive. You can buy hybrids in various Ford and Chevy models that are indistinguishable from a distance.
+
+SUSAN SILBEY: And that would not serve Max's reason, because everybody has to know that you are--
+
+PROFESSOR: Not many people do. You don't buy it for Max's reason, because nobody can tell you made the purchase. And the sales are less.
+
+SUSAN SILBEY: Jacob and then Charlotte.
+
+AUDIENCE: I would say there's kind of a threshold. Once so many Priuses were sold, they became a thing in advertising. When someone thought, I need to buy a hybrid. They though of a Prius. They didn't think of other hybrids.
+
+SUSAN SILBEY: I'll confess. I didn't know, for a long time, there were others. I just saw the Priuses. So I was one of those people who don't recognize the ones that are not styled differently. That's right. That's right.
+
+AUDIENCE: I was just going to say that I agree that I think that economical position comes into a lot of part. Because the way that Priuses are advertised, is their advertised that gas is really expensive. And this is also environmentally friendly.
+
+But it's a lot of-- people think that they're going to save a lot of money. And if you show them the numbers, they wouldn't. But whenever I was getting a car, I was considering buying a Prius, because it's environmentally friendly, whatever. But also because I live in Oklahoma. So I drive a lot.
+
+And I wanted to not have to pay a lot of money for gas. And that was my reasoning. And I would have never considered running the numbers.
+
+SUSAN SILBEY: You just believe what they told.
+
+AUDIENCE: Yeah, and then also, just because when you think of hybrid, you think of Prius, because of their advertising strategy. It's not like I wasn't wanting to buy it just because I thought it would make people think that I was environmentally friendly. It was because I thought, oh, maybe I wanted a hybrid car. I should get a Prius, because that's the only one I know of.
+
+SUSAN SILBEY: I want to get on Max's side for just a moment. Because I think that people don't just buy things because they're efficient, or because they're a better economic deal. You cannot explain the fashion industry. You cannot explain celebrity. It's not about economic efficiency.
+
+I mean, you don't need to have the number of sweaters and shoes. They don't wear out. You don't have to change the hems from long to short for efficiency. Why do people change their clothes, change their hairstyles? It's not because it's economically efficient. There is something else.
+
+PROFESSOR: Cadillac Escalades, they don't carry much, their performance is lousy, terrible gas mileage.
+
+SUSAN SILBEY: And why do people buy them? Because
+
+AUDIENCE: Ford F150 is still the best selling care in America. And people like trucks, people like to be seen in high, big vehicles to make them look wealthy. And they go outdoors--
+
+SUSAN SILBEY: It's called status and approval. Sid, and then Andrew.
+
+AUDIENCE: I think has to do with everyone's personal utility, [INAUDIBLE].
+
+SUSAN SILBEY: So where did that personal-- let's get to the basis of this lecture. Where did that personal utility come from?
+
+AUDIENCE: I mean, I'm sure like it has to do with group theory, and which group you want to be associated with. But there are different groups. And different people might buy different things for different reasons.
+
+SUSAN SILBEY: And do we choose all the groups we belong to? Come on. I mean, no. You can't say, just look around this room, you can't say we all choose the places, the groups we're identified with. Come on. We wouldn't have the wars we've been having if people all chose their group identities.
+
+Think about it. Think what's driving the world. And the price of oil. Group identities, not rational decision making, folks. It's group identities. Habitual, historic, group identities have raised the price of oil this week. Not rational decision making. The stock market went down yesterday, and what did the analysts say? Fear of oil reserves. The oil reserves did not change yesterday.
+
+I am sorry to push back at you. Make the rest of the argument. Part of it's right. But those utilities come from someplace.
+
+AUDIENCE: Yes, but what I was trying to say is that I think everyone can reason as to why they make a decision. And it's like very-- yes, everyone's utility is affected by the groups around them.
+
+But all I'm trying to say is someone will buy that Prius to make a fashion statement. But the utility they get out of making that fashion statement is worth more for them than calculating the savings they're going to make and knowing that--
+
+SUSAN SILBEY: So you want to do-- OK, you want to do a cost benefit analysis and add to the benefit status rewards and emotional rewards. Fine, we're total heated agreement. OK, however, not everybody can think through. There are-- you have to have the categories to think with. That's where culture comes from.
+
+We have cultures, and I don't want you to-- that do not have certain categories in them. They just don't have them. You're sitting in the institution that makes categories to think with. But not everybody has them. So we have to deal with the fact that we live in an integrated world, interconnected. And we do not get to choose all the time. So Andrew had his hand.
+
+AUDIENCE: [INAUDIBLE].
+
+SUSAN SILBEY: Save the dollar. Saving the dollar is a good idea.
+
+AUDIENCE: [INAUDIBLE].
+
+SUSAN SILBEY: To care about that.
+
+AUDIENCE: [INAUDIBLE].
+
+SUSAN SILBEY: To care about little bits of money.
+
+AUDIENCE: [INAUDIBLE].
+
+SUSAN SILBEY: Well, this has been observed about American society. If you want, I'll give you the source, Thorstein Veblen was an observer at the beginning of the 20th century and described Americans preoccupation with these kinds of things. OK,
+
+PROFESSOR: [INAUDIBLE]. Dallas, Texas, you would not do that. Houston, Texas, you would not do that.
+
+SUSAN SILBEY: Well, see you on-- next week. Thank you.

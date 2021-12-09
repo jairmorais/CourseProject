@@ -1,0 +1,255 @@
+The following content is provided under a Creative Commons license. Your support will help MIT OpenCourseWare continue to offer high quality educational resources for free. To make a donation or view additional materials from hundreds of MIT courses, visit MIT OpenCourseWare at ocw.mit.edu.
+
+PROFESSOR: Let's start. What's energy? This being a Sloan class, we do cold calls. So I walk up to Eric and I say, how should we define energy for this class?
+
+AUDIENCE: I would define energy as currency. I think it's the price [INAUDIBLE].
+
+PROFESSOR: Currency. So we should be doing monetary economics, as opposed to thinking about electric power and stuff.
+
+AUDIENCE: Well, I guess I shared my personal view. As an engineer, I see energy going into everything we manufacture.
+
+PROFESSOR: But if it's just money, then there's nothing special about this class. We could just do plain old price theory, or we could just plain old micro, or we could do plain monetary.
+
+AUDIENCE: Like I can't print infinite amounts of energy.
+
+PROFESSOR: OK. Let's see if everybody agrees. Julian, where are you on this? How would you define energy?
+
+AUDIENCE: The ability to do work.
+
+PROFESSOR: OK. We're now into basic physics. Even I remember that. I am an alumnus. Perhaps we could be a little less abstract. What are some interesting examples that fit under that very broad 801 heading?
+
+AUDIENCE: Oh, under that very broad heading, I mean, we use energy for a very broad variety of uses, from keeping the lights on, transportation, manufacturing. It's really kind of integrated in everything we make or do, from an economics or engineering standpoint. It supports all of our communications. Like without energy, or at least electrical energy, and petroleum energy, we would really kind of be nowhere.
+
+PROFESSOR: But we'll probably exclude the ability to do work that you have just personally. And we'll probably exclude some forms of energy that don't do useful work. But what you're saying is there's a wide variety of sources and a wide variety of uses. That's true. But you could probably, as you just did, name the principal ones. Let me ask Sam. Why are you interested in energy?
+
+AUDIENCE: One of the things I'm really interested in new sources of energy, renewable sources and moving away from fossil fuels. That's part of the reason I'm doing [INAUDIBLE].
+
+PROFESSOR: Step one back. Why are you interested in that?
+
+AUDIENCE: I think one of the main problems we have right now with international relations is sources of oil and petroleum.
+
+PROFESSOR: So you're interested in energy security kinds of questions. OK. Yeah.
+
+AUDIENCE: Developing nations that haven't yet [INAUDIBLE] to their grids. [INAUDIBLE] newer sources of energy versus old traditional sources that [INAUDIBLE].
+
+PROFESSOR: So can you think about some-- can there be some sort of leapfrogging strategy the way developing countries have bypassed wireline telephones and jumped to mobile. Is there something like that in energy? Yeah, we're going to do less on developed countries than I'd like. But we will do some, because that's a very interesting question.
+
+OK. A variety of interests. We had a couple of definitions of the energy problem. I'm sorry for the US focus, but we will broaden. We had a couple of definitions of energy problem in those answers. One has to do with the possibility of running out. Sustainability.
+
+Another has to do with environment. Are there any other aspects to the energy problem? And energy security, international dependence. Are there any other aspects to the energy problem? That people have thought about. I mean, if there is an energy problem. You hear about it all the time. Is there anything else? Sarah?
+
+AUDIENCE: Cost and market efficiency. Because when you don't have storage, you have things like wind power that can cause a lot of problems in the market.
+
+PROFESSOR: So there are two things there. One is even if we don't run out, it might get really expensive. So it's not a question of, oh my God, this is the last drop of oil. It's, oh my God, this drop of oil is $7,000. That's a different kind of problem. Economists like the second part. Or think that the world tends to get you to the second kind, not the last drop, but the expensive drop.
+
+And then the issue of how do you actually do renewables when renewables don't work like dispatchable power? OK. Those are energy problems. Why haven't they been solved? Yeah. That was-- either you're waving for flies, or you're ready to go.
+
+AUDIENCE: So one of the problems, like [INAUDIBLE], people tend to focus usually just on the supply side. But it's actually kind of both supply and demand. And the US has one of the highest demand for energy in the entire world. So the country used to be a major oil exporter, prior to World War II. And now really one of the major oil importers. So a big problem is it's actually the mentality of the consumers in the US, excessive spending, so on and so forth.
+
+PROFESSOR: Well, apart from being terrible people, which I give you. I mean, there are a lot of, you know, it costs us money to import all this oil. It's expensive. The price varies. I'll talk about that a little bit. Why is this not a problem that the markets-- why aren't some of these problems problems that markets solve?
+
+AUDIENCE: I think that there are huge barriers to entry, because the cost of laying down the infrastructure. You talk about the power distribution infrastructure is immense, and it's something that I think only entities such as the government can afford, because I don't think that the private sector would be capable of funding such a huge research endeavor.
+
+PROFESSOR: Well, except almost all the US power grid is privately funded and privately owned. Not all of it. But most of it. So we built it before. But you have a point. Where I would go with that, and I'll spend some time on this, is things move slowly in energy, because of all the capital.
+
+Doesn't mean they don't move, but they move slowly. In one presentation, we use the analogy of turning a tanker. You can do it. It's not easy, and it takes a while. Jackie, you had a thought.
+
+AUDIENCE: I think there's a lack of consensus as to what should be done, because there's such a wide variety of opinions and interests at state, political, economic, social that there's no way to-- or there hasn't been a way so far to agree on something.
+
+PROFESSOR: So we could maybe-- two alternative ways which we heard a lot about in the recent past to deal with the oil use problem is drill baby drill, or conservation. And you could imagine a world in which you would do both, but you're right. There's no particular consensus.
+
+Does there need to be a consensus, though? Think about food. There's no consensus on food. We don't have a food problem. But we eat a lot. And you know, we're leading the obesity epidemic. I'm doing my part.
+
+But we don't have a national food policy. I mean, we have a farm policy. But it's been in place for a long time. It doesn't actually do that much. So why do we need an energy policy?
+
+AUDIENCE: I think at the point where we are in the energy problem requires some major steps that means government won't necessarily-- government or large businesses, or some kind of large entity will have to be involved in that.
+
+PROFESSOR: OK, you're worried about scale questions. Since you posed the question, you can answer the question.
+
+AUDIENCE: I think it's not necessarily of corporations not having money to invest in energy projects. That's not really true. But the government is necessary because most of the very, very major energy problems, the energy projects will involve an investment timeline that will take 20, 30 years to play back.
+
+So as people who run a corporation, I mean, they don't have personal interest necessarily [INAUDIBLE], because the timeline that they're going to be in that corporation is so limited. So a big part of it is just the structure of corporations doesn't really favor that sort of investment. So the government needs to step back and think about long term interests.
+
+PROFESSOR: But we did build the existing power grid and all of the existing infrastructure with private money. So what's new now?
+
+AUDIENCE: Well, I think back then also like corporations tend to be run much more by large families. So in that case, people did have an interest in how companies were performing over the long run, because they're think about my kids are going to take over this company. And I think about how-- I mean, like a big part of how--
+
+PROFESSOR: Well, I give you that possibility. But in electric power, it wasn't true. Thomas Edison set up the first company. It was not a family company. So electric power doesn't fit it. Let me try another line. See what Andrea says.
+
+AUDIENCE: I was going to mention also that one issue with electricity, for example, is that once it's in the grid, you have no idea. You can differentiate whether it comes from coal or from nuclear or whatever source. So that's an issue in pricing, which may cause issue-- which may cause people not to take initiative from different sources to solve a common problem, which could be the grid, or maybe something else.
+
+And another thing is that, which is also true, though, with food, so I got kind of perplexed with that, is that it's an international issue that may involve many players. So it's hard to have different countries agree upon certain standards. As we've talked a lot, we've heard a lot about developing countries versus developed and all that.
+
+PROFESSOR: So we're going-- let me pursue that a little bit, because I think it takes us down the road I've been hoping to go down, which is why do we all need to agree? We don't all have common food standards. We don't all have agreement on a lot of things. Why are many countries involved? Why might Canada and the US need to agree on certain things related to energy?
+
+AUDIENCE: Because, I mean, some issues that are coming to my mind right now are, firstly, that you have the allocation of the sources of energy are given in the world. So you may have a region of abundance in some resource, and not abundance in some other resources, so you need to have [INAUDIBLE]. And the source where you have them, as opposed to the source where you use them might not be the same. So then, again, you may have to [INAUDIBLE] in those two countries. Plus what you do here may affect-- so if I pollute here, it affects what goes on in Canada.
+
+PROFESSOR: I heard the magic word. If we pollute here, it affects Canada. If we burn coal in Ohio, it affects people around the power plant, elsewhere. We talked about pollution. An awful lot of energy policy is driven by environmental concerns.
+
+You will recall from basic economics the notion of an externality, that activity A done by-- entity A effect's entity B outside the market. Climate change, local pollution of various kinds drives a lot of energy policy, which is one reason why people talk about renewables.
+
+Climate change is that issue writ large, very large, and we'll come back to that. The other way that concept works is if you think about energy security. So I don't have an SUV. But if I had an SUV, I could drive my SUV, burn all the gas I wanted. I would contribute to oil imports. But guess what-- and that would make us less secure as a country.
+
+But the effective on me of that insecurity is trivial. There's an externality there, it's argued. If you think about oil imports as being undesirable, when I drive, it affects imports. Doesn't affect me. Affects everybody else in the room because they live in a country that imports more oil.
+
+So the arguments for a lot of this stuff is externalities. That we're going to spend some time on it. But the reason private-- the basic reason private business hasn't solved all of it-- there are other problems too. But some of the core problems are because the market doesn't deal with externalities. That's sort of a definition. Market doesn't solve pollution. Market doesn't solve other kinds of externalities.
+
+If you listen to the State of the Union, I'm sure you found it riveting. The president called, as he had in prior speeches, for a clean energy standard. And the way he had done it earlier was x percent of electricity has to come from clean sources by 2020 or 2030.
+
+Probably not a chance that Congress will pass that. But the interesting question is what might you mean by clean? And that's the only phrase he used in the speech. What do you think he meant by clean? Think about all the ways you can generate electricity. Which sources count as clean? Yeah?
+
+AUDIENCE: [INAUDIBLE] definition he means nuclear as clean. Not necessarily renewable, but clean coal cycle, and I guess more for the environmental pollution. Not necessarily the infrastructure that--
+
+PROFESSOR: No, he means environmental. Exactly right. Not clear he means nuclear. A lot of people don't think nuclear is clean. But renewables are clean. Any other thoughts? I don't know what-- I forget whether he meant renewable. Yeah.
+
+AUDIENCE: [INAUDIBLE] that when you don't release more CO2 in the atmosphere, and then [INAUDIBLE].
+
+PROFESSOR: What would that be?
+
+AUDIENCE: Solar power.
+
+PROFESSOR: Solar power. Renewables in general. Yeah, I mean biomass properly done can do that. It's a little tricky. There's a little start-up problem. I mean, you cut down all the trees and burn them. On its face, it's not a great thing to do. But if you're planting, you can keep that sustainable after a while.
+
+He actually also meant some uses of natural gas, which get half credit. It's kind of complicated. So it's going to be raise or lower the price of electricity if we did it?
+
+AUDIENCE: Probably raise.
+
+PROFESSOR: Probably raise. Because if it was going to lower it, you probably wouldn't need a federal push to get it done, right? That the market can deal with. And I'm not quite sure why I asked that question, because the obvious answer is legislation.
+
+So we've fiddled and diddled with a lot of these questions. And I want to answer that question myself, because the question is, why is there a social science class in the energy studies minor? What in heaven's name does social science have to do with what's clean, what are the reasons why we have an energy problem, what are our concerns, whether you achieve that goal or not.
+
+I'm going to give you sort of how those of us who thought up this course think about the energy system from a social science point of view. This may be my best graphic ever. So most of what we talk about when we talk about energy are flows from things like coal through, say, electricity generation, into the provision of energy services like toasting your toast in the morning.
+
+And an awful lot of technology is in here is there and how do you get primary energy from the sun, from coal, from nuclear power, whatever, how do you convert it to something useful, and then how do you get services from it. And that's great stuff. I'll have something to say about what's in that box. But that's not mainly just to get systems straight, as opposed to devices. That's not mainly what we're going to talk about.
+
+We're going to talk about what drives the flows. Well, there's a supply side. You find energy. You convert it. Some of that's done by government. Some of it's done by private enterprises. There's a demand for energy services, mainly not for energy. Where does that come from? How are those decisions made? How are the supply decisions made?
+
+So if you think about devices and systems in here, what are in the higher boxes are the decisions about how they're operated, how intensively they're used. Supply and demand interact-- too many arrows-- supply and demand interact through markets. The markets, as well as the decisions on both sides, affect what's in that technology box and how it's used.
+
+Stepping back, there are a whole lot of things that I think of as stocks. Things like reserves of oil, existing buildings, infrastructure, cars, you could add technologies, that underlie the operation of the system.
+
+And that's the underlay the operation. They too are shaped by decisions on the supply and demand side. How much gasoline you use is shaped by today's technology. It's also shaped by past purchasing decisions of cars. How much do we use to heat buildings is shaped by the latest fancy technology, and the buildings that were built a half a century ago. And what retrofit possibilities there are.
+
+But that's fun. So we're going to look at decisions on the supply and demand side. But those decisions are affected by regulation. And the markets are affected by regulations and laws of various kinds. Now, there's a natural tendency to take those as given. To say, OK, what I need to know to operate in this world is, well, what are the laws and regulations that affect what we can do in the energy sphere?
+
+But if you want to change things, and I heard a number of you wanting to change things, that's not good enough, because what goes on in laws and regulations affects what gets done down here, what's used to do what? To produce, to convert, to use. And affects the kinds of decisions that households, firms, other kinds of organizations, universities make.
+
+So we're going to spend a little time saying, where do those come from? What's the political process look like? Those political processes are shaped, obviously, by firms and households and other organizations. I will also say, we will-- so there's a little political science there. There will also be a little bit of organizational behavior here and a little bit of psychology there, when we look at how these decisions actually get made.
+
+So behind everything are a set of norms and values and traditions that really shape the political context. You listen to any campaign speech, you hear a lot of that. You don't necessarily hear a lot of-- you hear a lot of that, and then some specific policy. But you hear a lot of that. And that's important.
+
+And campaign speeches in different countries say different things when they sound themes about traditions and values and norms. But the political process operates within them. We'll talk about that. So we want to talk about not only sort of how systems work and how supply and demand interact in the energy space, but in fact, how that whole structure is shaped by, if you will, a higher order more fundamental-- the higher order in the chart processes in the political sphere, in the social sphere.
+
+So the reason why we're doing social science is the system involves people. And social science, economics, political science, sociology, anthropology, social psychology, things I've read about at least, these are all ways of looking at systems that involve people.
+
+And if you want to change a system that involves people, you need to think about the kinds of things we're going to talk about here. So we're going to try to give you some basic understanding, or at least some sensitivity to the tools that come out of the social sciences that can help you understand, and with some luck, can help you drive change.
+
+This is not a prediction or a course where we talk about the future will look like x. That's for you guys to decide. This is a course where we try to help you shape the future. The annual energy review comes out of the Energy Information Agency. It says AER 2010. It's published in 2011, the latest data, or 2010.
+
+This is energy consumption per person in the United States over time. You will notice that it sort of peaks in the '70s someplace, and is flat. Now, if you think about how the cars we drive, compare it-- well, you may not know this, but how the cars we drive compared to the cars folks drove in the '70s, they are bigger, and have a lot more horsepower.
+
+And what our homes look like compared to homes built in the '70s is they are bigger, and they tend to be centrally air conditioned. If you think about computer use and appliance use, there's a lot more of it. But energy consumption per capita is flat.
+
+I'll show you energy per dollar of GDP, but you might expect it to be declining. And what that tells you is first of all, there is efficiency. And second of all, if you think for a minute, maybe we're doing different things than we did in the '70s. Like less manufacturing.
+
+Another graph, I love this graph. Impossible to read, I expect, from the back. But this is energy consumption per person across the States. And there, on the virtuous right end is Massachusetts. How about that, we are good folks. Is there anybody here from Wyoming? Anybody? Nobody from Wyoming? No one will admit to being from Wyoming?
+
+All right. I'm betting against Alaska. How about Louisiana? North Dakota. Working from the left in. IA is Iowa, yes? Iowa. Anybody from-- surely somebody is from Iowa. OK, we have no Midwesterners here.
+
+How about Texas, South Dakota, or Kentucky? Ah, we have the Texas delegation? OK. Gentlemen, how come we use so much less energy than you do per capita? Pickett. Wyatt? Take a run. What do you think?
+
+AUDIENCE: We do a lot of farming in Kentucky. So that may have something to do with it.
+
+PROFESSOR: Farming is actually a fairly energy intensive activity these days. You're driving a lot of machinery. It uses a lot of energy. So that's one thing. OK. Anything else? Yeah, go ahead.
+
+AUDIENCE: Unlike Massachusetts, where a lot of people walk, especially in Boston, in South Dakota everything's really spread apart, so everybody drives there.
+
+PROFESSOR: So it's lower density. There's probably a lot more driving per capita. Yeah. Matt, you raised-- you identified as one of this crowd.
+
+AUDIENCE: [INAUDIBLE] in Texas.
+
+PROFESSOR: It's what?
+
+AUDIENCE: Air conditioning?
+
+PROFESSOR: Air conditioning. Hotter summers. Probably a lot more central air.
+
+AUDIENCE: Probably a drive everywhere.
+
+PROFESSOR: A lot more spread out, yeah. It's interesting, when you first think about energy use in Massachusetts, you might think, gee, we have cold winters. We must heat these buildings. You notice, there's Hawaii right next to us, where they don't heat anything ever really.
+
+So there are lots of differences. And you pointed to some of them. They're transportation related. There's also not a lot of manufacturing in Massachusetts anymore. So we don't have a big industrial load. Yeah?
+
+AUDIENCE: Wait, so California, is California right next to Massachusetts there?
+
+PROFESSOR: Yeah, California.
+
+AUDIENCE: Because California also there's a lot of farming, and we drive a lot.
+
+PROFESSOR: All true. But very little manufacturing anymore. But you're right. There are a lot of puzzles here. I mean, there is Arizona. And you want to talk about central air conditioning, you have to have central air conditioning in Arizona. So whereas northern California, you still need it, but it's not desperate. Yeah? Jessica?
+
+AUDIENCE: How does this do manufacturing, for example? Does it ration it to the state that [INAUDIBLE] done and those residents, or to where the products are made?
+
+RICHARD SCHMALENSEE: Yeah. Where the plant is.
+
+AUDIENCE: What about some of these-- or the big states that make electricity, have big coal plants, big oil plants, big everything? Is that proportioned for that state, or--
+
+RICHARD SCHMALENSEE: It will be in the state. It'll be in the state. I mean, California is a pretty light user of electricity. We're a pretty light user of electricity. Hawaii is light. In part, because those are states where it's really expensive. It's expensive here for a variety of reasons. California, heavily environmental. Hawaii-- it's Hawaii. I mean, it's all oil-fired, and the oil comes by tanker. Yeah?
+
+AUDIENCE: I was going to say that I assume the differences also come from state laws and regulations and how those few decision-makers-- I don't know. I mean, for example, you just mentioned [INAUDIBLE]. I assume it might be just because you have different taxes, so it might be more expensive in certain states, or oil might be cheaper or more expensive, gasoline, stuff like that.
+
+RICHARD SCHMALENSEE: Yeah. Some of that. Some of that. I mean, we'll talk about some of the state regulations. Some of the states, like California, for instance-- and Texas, for that matter-- have strong programs favoring renewables, which will add a bit. But you could imagine, down the road, it adding a lot. The environmental standards are pretty uniform, but most of the electricity generated here is generated by gas. And we're at the far end of the pipeline. So it's not Texas or Louisiana, where the gas is there. It comes by comes by pipeline. In fact, we import some, LNG. Liquefied gas.
+
+AUDIENCE: It was also, per capita, places that have a relatively small population for their activity-- like Alaska, where there's a lot of mining and stuff, and there's not that many people. Doesn't that skew it a little bit?
+
+RICHARD SCHMALENSEE: Yeah. But if you put two Alaskas next to each other, you would have more people, but still the same per capita. So I don't know if there are scale effects, particularly. I think density works. Alaska's doing a lot of energy-intensive stuff. A lot of travel within Alaska. A lot of heating in Alaska. I don't think it's the absolute scale. I mean, consider Hawaii, which is also quite small. But Hawaii doesn't-- they're not mining anything. There's nothing to mine. They're not doing a lot of manufacturing. They can't drive that much. OK. Brendan?
+
+AUDIENCE: It looks to me like it's mainly red states versus blue states.
+
+RICHARD SCHMALENSEE: OK. Well, hold that for a moment. We want to get deeper into the semester before we're really political. But-- so this is energy per dollar of GDP. And it's been declining for a long time, reflecting efficiency, reflecting the decline of manufacturing, reflecting-- well, those are two big ones. But probably other factors, as well. Efficiency in energy use, efficiency in electricity generation, and other dimensions. I find this one interesting. That's BTUs per dollar. So that's real on real. This is dollars on dollars. This is energy spending. And you'll see, that's not so stable.
+
+And that's one reason-- that's one component of what people think of as the energy problem. I mean, all of a sudden, we're cruising along fat and happy, and boom! We move from something like 8% of GDP to something like 14% of GDP to pay the energy bill over a few years. And then this is-- come on, where are we? This is the recent oil spike and oil collapse. This is a law-- we'll talk about this next Wednesday. And this is a period when we got very complacent about energy, and you didn't hear much about energy from anybody. So prices move. And that is a source of concern.
+
+Let me talk about sources of energy consumption. If you extend this graph back-- way back-- it starts with wood. If you go back far enough, New England didn't have forests. They were cut down for energy. And gradually, it dawned on people that perhaps that's not a good way forward. They have these wonderful photographs-- I'll grab one if I can-- of Vermont. Basically, hills of mud. Hills of mud. Because the wood was there. They cut the wood down. That gave them scrub. They used the scrub to graze sheep. There was a big boom in wool. You graze sheep. They eat everything. You get raw dirt. It runs down when it rains.
+
+We move from wood to coal. So you would have a wood peak over here, and coal going up. But this is since 1950. This renewable energy, which is pretty high in 1950 and grows slowly, is mostly hydro-- mostly big dams built in the '30s and '40s. You'll see not too many built since. The recent run-up is other things. You see nuclear power go up and go flat. Coal continues to rise. Natural gas. You might think that this downturn has something to do with policy, and you would be right. This has something to do with prices. But you see natural gas kind of flat with a little uptick here at the end. We're going to spend a lot of time talking about that uptick at the end. And oil continues to grow.
+
+If you look at imported energy, we're basically pretty self-sufficient except for oil. A whole lot of this is natural gas from Canada, which is-- that's, like, 80% of our natural gas imports, which doesn't keep too many people up nights, unless you're a hockey fan. But oil, over time, continued to grow until recently. And we'll talk about that. Let me unpack that a little bit. So since at least the 1970s, there has been this desire to have energy independence, which really means oil independence, since we're a coal exporter. Most of our natural gas imports are from Canada. And electricity, nothing happens much across the border.
+
+The main story, historically, has been, OK, we're going to be independent. OK, this is going to be great. And there goes consumption. And in the meantime, production, depending how you measure it, peaked some long time ago-- not for want of drilling. The other interesting fact, again, you'll notice that little uptick at the end. That little uptick at the end is shale. And if you've been following the paper, shale is the big story in fossil fuels. It's also a big environmental story. And we will spend some time on it. But that little uptick-- and there's a similar uptick in natural gas-- is a big deal, the start of something. This graph won't look like this in five years.
+
+How's that for complexity? This is energy flows. And you can spend all day long looking at this, and it would be good for you. But let me just point out a few highlights. Over here, really, is sort of primary energy. How many BTUs, with 100% efficiency, would there be in the petroleum we use, the coal we use, the gas we use, and so on? You see, first of all, that petroleum and coal and gas are still the main story. If you go to the right, you will also see, this is how much energy does useful work. This is the energy that gets lost mainly in waste heat. So anybody looking at that diagram would say, gee, there's an enormous opportunity for efficiency.
+
+Now, you could also see, in electricity, there's a lot of it wasted. That's mostly at the generating station. And a lot of money and effort has gone into reducing that, but it is not trivial. The other thing to note is due to breakdown by residential, commercial, industrial, and transportation. It's not quite a third for residential plus commercial, industrial, and transportation, but it's kind of close-- ballpark, a third in each bucket.
+
+Transportation is obviously almost all oil, and most of the oil goes to transportation. You see the beginnings-- I mean, solar is trivial. Wind is a lot bigger. It's grown rapidly. Little bit of-- and hydro is pretty steady. Again, you can stare at these. It's interesting to look at this graph over time. And I'll show you an old one. But that's sort of the basic flow outline of the system. That's that red box and what it looks like unpacked. There we go.
+
+I just find this interesting. I did it a few years ago. This is, who uses industrial? On that industrial box, where does it go? What industries use energy? And it turns out that a quarter of it goes to bulk chemicals-- just heat to drive reactions. Paper gets 10%, oil refining gets 15%, and the rest is pretty spread. If you look at energy-- BTUs per dollar of value added, turns out cement is very energy-intensive. As those of you who know cement will recognize, that it's a major source of CO2 emissions-- both the energy and the reaction that that energy produces.
+
+Now, if you look forward-- and we're going to do a fair amount looking forward-- this is sort of a general consensus. And it underlies, I think, the reasons why a lot of you are here. You sense this is a place where change needs to happen, of one kind or another. Again, I didn't make it a required reading, but you can look at the National Research Council report that this is from to see why they think this. But it's not easy. Here's what that graph looked like in 1982. You know, it doesn't look that different. Main difference is, you could stare at these-- again, this will be on Stellar. It's not as complete.
+
+The main difference you can see is that we used to use a fair amount of oil to generate electricity. We don't do that anymore. We really don't use oil for electricity, for a range of reasons. It's too expensive, among other things. And that's-- still, transportation is mostly oil. We still use a lot of coal-- oil, coal, natural gas. The other stuff is still pretty-- was pretty small, is pretty small. There's still, again, this rejected energy, useful energy-- waste energy, useful energy. So if you look at this, you say, my heavens. Again, you could look at the flows. And this is that they weren't quite as good at doing this graph at Livermores. They came to be, in later years. You look at it and you say, the system doesn't move fast.
+
+How can it move? Well, it could move if we all decided-- in a lot of utilities, you can opt to buy green electricity. That is to say, if 20% of the people-- 20% of the usage is green, then the utility is obliged to get 20% of its energy from green sources. We could all say, and your parents could all say, we want green electricity. Well, if everybody did that, it would be a big change. Not quite clear what the companies would do or how they would cope with it. It would be a big change. Is it likely? No. It's expensive. And what I do isn't going to affect the system much. If we all do it together, it might. But that's another story. Suppose we develop great new technologies, which I hope many of you do.
+
+Well, where does the money come from? Energy, as a number of people said at the outset, is a big-dollar business. You don't do it at the PC. Three people in a garage don't do the Facebook of energy. I mean, there's scope for IT of energy, but if you really want to change how the work gets done, you're talking serious R&D. You're talking serious scaling. Should the government decide where to invest? If so, how? Can you rely on large energy firms? Some of them are really big. Southern Company is building a nuclear reactor-- first in a long time. That's a lot of money. Intel spends billions on fabs, so maybe Intel should spend the billions.
+
+Are they going to do it? Is Southern Company going to do something radical? Small companies? We're going to talk about this. Because the question of, what kinds of organizations are best suited to do what in the innovation process is kind of important here. I mean, if you think you're going to revolutionize electricity generation with $100,000 and three people, no. No. You might produce something basic that somebody would buy that would be sold to somebody bigger that might, but figuring out how that process works is important.
+
+Another way to transform the energy system is to really tighten environmental regulation. And if you've been reading the paper, you've been reading about regulations of coal-fired power plants-- that some of them will have to shut down. Well, if you really tighten environmental regulation, you would-- could-- transform the system. Are there votes for it? Is it going to be done at the state level, the federal level? Does it matter where it's done? Where are the votes for it? How would you get the votes for it? What does the opposition look like? And what about this regulatory process? Has EPA gone wild? Have the courts gone wild? How does that work?
+
+There are no laws passed. You have a blocking Republican coalition in Congress. And yet EPA is coming out with these very strong environmental rules. Where does that come from-- very strong, as perceived by industry. Where does it come from? How is it driven? Where might it go? You could imagine the extension of state programs. 29 states and the District of Columbia now require certain fractions of energy-- electricity-- to be generated from renewable sources. You could tighten those. California has tightened it pretty tight. Texas has been very effective. Texas has a lot of wind energy-- an absurd amount of wind energy.
+
+You could imagine-- we got EPA from a social movement. We got the Civil Rights laws from a social movement. You could imagine a social movement that would basically call for transformation. Of course, people would have to agree on what the transformation should be. It would need something coherent, something simple, something like Martin Luther King's speeches, something like Silent Spring that banned DDT because people got upset that birds were dying. It would require some rallying cry like that. Is it possible?
+
+And finally, how are we going to do energy security, and what does it mean? Suppose we're completely self-sufficient for oil. Does that mean we're immune to international price shocks? Does that mean closing the Straits of Hormuz would have no effect on us? What if the lights went out in Europe? What would that do? What if world prices went up? Would we subsidize oil to keep domestic prices down? So when you think about, how might transformation happen-- oh, and electric cars powered by coal. I have to say, I love to ask my environmentalist friends in the Midwest who have electric cars whether they're enjoying their coal-powered car or not, because it is. So it takes a little bit of a systems view.
+
+Two observations, and then I'll let us go. And the observations are that, in this business, history matters. And I have to give you this graph, because it's a fantastic-- has anybody read Tufte, the Visual Display of Quantitative Information? Beautiful book. At some time in your life, read it. It's a book on, how can you use visual displays to get across information? This shows when capacity was-- when US-generating capacity was built and how it's powered. So you get a whole lot of information out of this. You get out of this that there's a lot of capacity still running built before 1960, a ton of capacity built before 1980, and a lot of coal capacity built before 1980. The recent capacity over here is almost all gas, although you see a little coal coming online here. But it's almost all gas-- and very recently, wind.
+
+But there's a lot of money invested in these plants. And for at least some of them, coal is cheap. The plant's built. The running cost-- the cost of buying the coal, putting it in, and generating electricity from it-- is really low. So the cost of shutting them down and replacing them-- doesn't matter what they cost to build. It's a cost of-- the cost is premature replacement. Could be very high. And that's what we're hearing. On the other hand, many of these are really dirty-- and compared to the new stuff, really inefficient.
+
+Turning that ship is not easy. Turning that ship is not easy. Yeah, all of the new stuff is gas. That's just swell. That is going to continue. And this is in response to a bunch of subsidies and regulations-- the wind. But these guys are still here. They're still here. Oh, and the nuclear plants-- it's an interesting question. How long will the nuclear plants stay? They've gotten more efficient over time. They could run for a while. Will we build new ones?
+
+Final example of how history matters. This is US oil reserves. We explored for oil in the lower 48. We explored for oil in Alaska. We're exploring for oil-- have explored for oil-- off-shore. That's US oil reserves over time. So it's not that we've pumped out-- it's not the difference between 30 billion barrels and, I don't know, 22 billion barrels is the amount we've produced. No, we've produced a lot more. But after a while, if you produce a lot today, it becomes harder to find tomorrow. Who knows how much there is. But what there is, is hard to find.
+
+We're deep underwater off Los Angeles-- not off Los Angeles, off New Orleans-- off Louisiana. That's not cheap to go down a mile and drill. That's just not cheap. It was cheaper in Alaska, here. But we've pumped a lot of oil out of Alaska. So that history, that decision that we're going to use domestic oil today, has implications for tomorrow. OK, I'm going to stop there. Oh, and I should just make the point, over the period of this graph, world oil reserves-- that actually includes us, but we're small. World oil reserves more than doubled. Because people look for oil in new places. People had been looking for oil in the US, and it gets harder to find. OK. Questions or comments?
